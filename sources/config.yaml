@@ -1,7 +1,4 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Danfo.glyphs
 axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+familyName: Danfo
