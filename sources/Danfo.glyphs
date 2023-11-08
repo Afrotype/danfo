@@ -36,12 +36,22 @@ HHZHHOHZOOZOO
 "̴̧̨̛᷊̣̥̦̩̭̯̰̱̲̈̇̀́̋̂̌̆̊̃̄̉̍̏̐̑̒̓᷇᷅᷄᷆͘",
 "᷊̈̇̀/gravecomb_macroncomb ́/acutecomb_macroncomb ̋/caroncomb.alt ̂̌̆̊̃̄/macroncomb_gravecomb/macroncomb_acutecomb ̴̧̨̛̣̥̦̩̭̯̰̱̲̉̍̏̐̑̒̓᷇᷅᷄᷆͘",
 "̰",
-"̰"
+"̰",
+"ȷj"
+);
+axes = (
+{
+name = Weight;
+tag = wght;
+}
 );
 date = "2023-09-29 07:07:32 +0000";
 familyName = Danfo;
 fontMaster = (
 {
+axesValues = (
+700
+);
 guides = (
 {
 pos = (398,631);
@@ -87,7 +97,7 @@ over = -14;
 pos = -100;
 }
 );
-name = Flat;
+name = Bold;
 }
 );
 glyphs = (
@@ -20611,13 +20621,17 @@ unicode = 42937;
 );
 instances = (
 {
+axesValues = (
+700
+);
 instanceInterpolations = {
 m01 = 1;
 };
-name = Regular;
+name = Bold;
 userData = {
 fpID = "F77D7DCC-F22F-4D50-8877-23D7BC7606EE";
 };
+weightClass = 700;
 }
 );
 metrics = (
