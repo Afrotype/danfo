@@ -1,5 +1,5 @@
 {
-.appVersion = "3226";
+.appVersion = "3227";
 .formatVersion = 3;
 DisplayStrings = (
 "HOEAITSV noheapitrsv",
@@ -41,12 +41,33 @@ HHZHHOHZOOZOO
 "̄/macroncomb_acutecomb",
 "/four.ss02",
 "N/N.ss02",
-abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz,
+"H/pixel/pixel/pixel HOho
+ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 );
 axes = (
 {
 name = Weight;
 tag = wght;
+},
+{
+name = Shape;
+tag = SHAP;
+}
+);
+customParameters = (
+{
+name = "Virtual Master";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Shape;
+Location = 5;
+}
+);
 }
 );
 date = "2023-09-29 07:07:32 +0000";
@@ -54,7 +75,8 @@ familyName = Danfo;
 fontMaster = (
 {
 axesValues = (
-700
+700,
+0
 );
 guides = (
 {
@@ -109,6 +131,7 @@ glyphs = (
 {
 color = 2;
 glyphname = A;
+lastChange = "2023-11-15 19:53:40 +0000";
 layers = (
 {
 anchors = (
@@ -157,7 +180,7 @@ nodes = (
 (243,595,o),
 (131,434,o),
 (22,434,c),
-(28,0,l)
+(22,0,l)
 );
 },
 {
@@ -174,6 +197,17 @@ nodes = (
 (303,539,cs),
 (282,539,l)
 );
+},
+{
+alignment = -1;
+pos = (22,160);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (705,160);
+ref = pixel;
+scale = (-1,1);
 }
 );
 width = 727;
@@ -831,6 +865,7 @@ unicode = 198;
 {
 color = 2;
 glyphname = B;
+lastChange = "2023-11-15 19:54:03 +0000";
 layers = (
 {
 anchors = (
@@ -1015,6 +1050,11 @@ nodes = (
 (576,717,o),
 (484,716,cs)
 );
+},
+{
+alignment = -1;
+pos = (46,160);
+ref = pixel;
 }
 );
 width = 692;
@@ -1122,6 +1162,7 @@ unicode = 579;
 {
 color = 2;
 glyphname = C;
+lastChange = "2023-11-15 19:54:26 +0000";
 layers = (
 {
 anchors = (
@@ -1266,6 +1307,11 @@ nodes = (
 (520,718,o),
 (441,718,cs)
 );
+},
+{
+alignment = -1;
+pos = (34,279);
+ref = pixel;
 }
 );
 width = 652;
@@ -2912,7 +2958,7 @@ unicode = 484;
 {
 color = 2;
 glyphname = H;
-lastChange = "2023-11-07 13:25:05 +0000";
+lastChange = "2023-11-15 19:22:24 +0000";
 layers = (
 {
 anchors = (
@@ -2983,6 +3029,17 @@ nodes = (
 (46,435,c),
 (46,0,l)
 );
+},
+{
+alignment = -1;
+pos = (46,127);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (688,127);
+ref = pixel;
+scale = (-1,1);
 }
 );
 width = 734;
@@ -4857,6 +4914,7 @@ unicode = 330;
 {
 color = 2;
 glyphname = O;
+lastChange = "2023-11-15 19:49:44 +0000";
 layers = (
 {
 anchors = (
@@ -4935,6 +4993,24 @@ nodes = (
 (312,432,cs),
 (296,432,ls)
 );
+},
+{
+alignment = -1;
+pos = (34,234);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (650,234);
+ref = pixel;
+scale = (-1,1);
+},
+{
+alignment = -1;
+angle = 90;
+pos = (270,-2);
+ref = pixel;
+scale = (1,-1);
 }
 );
 width = 684;
@@ -19172,7 +19248,7 @@ name = top;
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_adPfVq/Screenshot 2023-11-02 at 2.13.40 PM.png";
+imagePath = "../NSIRD_screencaptureui_adPfVq/Screenshot 2023-11-02 at 2.13.40 PM.png";
 pos = (43,727);
 scale = (0.822,0.822);
 };
@@ -19238,7 +19314,7 @@ name = top;
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_tkx6UC/Screenshot 2023-11-02 at 2.27.56 PM.png";
+imagePath = "../NSIRD_screencaptureui_tkx6UC/Screenshot 2023-11-02 at 2.27.56 PM.png";
 pos = (92,736);
 scale = (0.9242,0.9242);
 };
@@ -19342,7 +19418,7 @@ pos = (150,716);
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_E9c3Kf/Screenshot 2023-11-02 at 2.33.01 PM.png";
+imagePath = "../NSIRD_screencaptureui_E9c3Kf/Screenshot 2023-11-02 at 2.33.01 PM.png";
 pos = (115,715);
 };
 layerId = m01;
@@ -19377,7 +19453,7 @@ name = top;
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_jQ2F03/Screenshot 2023-11-02 at 2.35.42 PM.png";
+imagePath = "../NSIRD_screencaptureui_jQ2F03/Screenshot 2023-11-02 at 2.35.42 PM.png";
 pos = (50,723);
 scale = (0.7348,0.7348);
 };
@@ -19417,7 +19493,7 @@ name = top;
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_DWUA9X/Screenshot 2023-11-02 at 2.37.30 PM.png";
+imagePath = "../NSIRD_screencaptureui_DWUA9X/Screenshot 2023-11-02 at 2.37.30 PM.png";
 pos = (28,731);
 scale = (0.7981,0.7981);
 };
@@ -19458,7 +19534,7 @@ pos = (152,714);
 }
 );
 backgroundImage = {
-imagePath = "/Users/mirkovelimirovic/Documents/Github/danfobase/NSIRD_screencaptureui_PtlrnR/Screenshot 2023-11-02 at 2.39.13 PM.png";
+imagePath = "../NSIRD_screencaptureui_PtlrnR/Screenshot 2023-11-02 at 2.39.13 PM.png";
 pos = (19,744);
 scale = (0.7835,0.7835);
 };
@@ -20934,12 +21010,250 @@ width = 600;
 }
 );
 unicode = 42937;
+},
+{
+color = 0;
+glyphname = pixel;
+lastChange = "2023-11-15 19:53:21 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,159,l),
+(42,159,o),
+(66,131,o),
+(66,80,c),
+(44,80,o),
+(22,80,o),
+(0,80,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,80,l),
+(22,80,o),
+(44,80,o),
+(66,80,c),
+(66,29,o),
+(42,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+1
+);
+};
+layerId = "28799AEB-0F3C-43C8-9080-CE180A4BE593";
+name = "{700, 1} Nov 15, 23 at 14:24";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,159,l),
+(29,159,o),
+(45,131,o),
+(66,80,c),
+(30,80,o),
+(15,80,o),
+(0,80,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,80,l),
+(15,80,o),
+(30,80,o),
+(66,80,c),
+(45,29,o),
+(29,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+2
+);
+};
+layerId = "2AF8FCD9-7FCB-4A1D-97FB-39C62E7F585B";
+name = "{700, 2} Nov 15, 23 at 14:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,159,l),
+(29,159,o),
+(45,110,o),
+(66,19,c),
+(30,19,o),
+(15,19,o),
+(0,19,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,19,l),
+(15,19,o),
+(30,19,o),
+(66,19,c),
+(45,7,o),
+(29,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+3
+);
+};
+layerId = "3C929011-F920-4687-BEAE-2EAB2D2E6EC9";
+name = "{700, 3} Nov 15, 23 at 14:41";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,159,l),
+(29,159,o),
+(45,149,o),
+(66,131,c),
+(30,131,o),
+(15,131,o),
+(0,131,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,131,l),
+(15,131,o),
+(30,131,o),
+(66,131,c),
+(45,47,o),
+(29,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+4
+);
+};
+layerId = "4EFDBC60-AA85-4368-B931-D9DEF48DE5F6";
+name = "{700, 4} Nov 15, 23 at 14:52";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,230,l),
+(66,230,o),
+(136,221,o),
+(137,131,c),
+(82,131,o),
+(35,131,o),
+(0,131,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,131,l),
+(40,131,o),
+(70,131,o),
+(137,131,c),
+(136,26,o),
+(60,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+5
+);
+};
+layerId = "7DF25445-F050-44BE-BB93-8532EC44FC42";
+name = "Nov 15, 23 at 14:23";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(0,0,o),
+(0,0,o),
+(0,0,c),
+(0,0,o),
+(0,0,o),
+(0,0,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(0,0,o),
+(0,0,o),
+(0,0,c),
+(0,0,o),
+(0,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+}
+);
 }
 );
 instances = (
 {
+customParameters = (
+{
+name = "Variable Font Origin";
+value = m01;
+}
+);
+name = Regular;
+type = variable;
+},
+{
 axesValues = (
-700
+700,
+0
 );
 instanceInterpolations = {
 m01 = 1;
