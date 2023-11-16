@@ -2,7 +2,7 @@
 .appVersion = "3227";
 .formatVersion = 3;
 DisplayStrings = (
-"R/R.ss01 R"
+"R/R.ss01 RH"
 );
 axes = (
 {
@@ -27,6 +27,22 @@ Axis = "Element Shape";
 Location = 6;
 }
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = blueScale;
+value = 0.04;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = blueFuzz;
+value = 1;
 }
 );
 date = "2023-09-29 07:07:32 +0000";
@@ -81,6 +97,10 @@ pos = -100;
 }
 );
 name = Bold;
+stemValues = (
+63,
+292
+);
 }
 );
 glyphs = (
@@ -21202,6 +21222,15 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+}
+);
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
 }
 );
 unitsPerEm = 1000;
