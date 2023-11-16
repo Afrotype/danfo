@@ -42,7 +42,7 @@ HHZHHOHZOOZOO
 "/four.ss02",
 "N/N.ss02",
 abcdefghijklmnopqrstuvwxyz,
-"H/pixel/pixel/pixel HOho
+"H/_danfoCut.part/pixel/pixel/pixel HOho
 ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 );
 axes = (
@@ -51,8 +51,8 @@ name = Weight;
 tag = wght;
 },
 {
-name = Shape;
-tag = SHAP;
+name = "Element Shape";
+tag = ESHP;
 }
 );
 customParameters = (
@@ -64,8 +64,8 @@ Axis = Weight;
 Location = 700;
 },
 {
-Axis = Shape;
-Location = 5;
+Axis = "Element Shape";
+Location = 6;
 }
 );
 }
@@ -84,9 +84,6 @@ pos = (398,631);
 },
 {
 pos = (326,564);
-},
-{
-pos = (115,434);
 },
 {
 pos = (46,636);
@@ -131,7 +128,7 @@ glyphs = (
 {
 color = 2;
 glyphname = A;
-lastChange = "2023-11-15 19:53:40 +0000";
+lastChange = "2023-11-16 14:38:45 +0000";
 layers = (
 {
 anchors = (
@@ -205,7 +202,7 @@ ref = pixel;
 },
 {
 alignment = -1;
-pos = (705,160);
+pos = (705,124);
 ref = pixel;
 scale = (-1,1);
 }
@@ -1162,7 +1159,7 @@ unicode = 579;
 {
 color = 2;
 glyphname = C;
-lastChange = "2023-11-15 19:54:26 +0000";
+lastChange = "2023-11-16 14:38:00 +0000";
 layers = (
 {
 anchors = (
@@ -1268,14 +1265,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(223,718,ls),
-(110,718,o),
-(34,641,o),
-(34,530,cs),
-(34,186,ls),
-(34,75,o),
-(110,-2,o),
-(223,-2,cs),
 (418,-2,ls),
 (539,-2,o),
 (611,41,o),
@@ -1305,7 +1294,15 @@ nodes = (
 (607,577,l),
 (599,661,o),
 (520,718,o),
-(441,718,cs)
+(441,718,cs),
+(223,718,ls),
+(110,718,o),
+(34,641,o),
+(34,530,cs),
+(34,186,ls),
+(34,75,o),
+(110,-2,o),
+(223,-2,cs)
 );
 },
 {
@@ -2958,7 +2955,7 @@ unicode = 484;
 {
 color = 2;
 glyphname = H;
-lastChange = "2023-11-15 19:22:24 +0000";
+lastChange = "2023-11-16 14:41:19 +0000";
 layers = (
 {
 anchors = (
@@ -3040,6 +3037,14 @@ alignment = -1;
 pos = (688,127);
 ref = pixel;
 scale = (-1,1);
+},
+{
+pos = (143,148);
+ref = _danfoCut.part;
+},
+{
+pos = (477,148);
+ref = _danfoCut.part;
 }
 );
 width = 734;
@@ -21014,7 +21019,7 @@ unicode = 42937;
 {
 color = 0;
 glyphname = pixel;
-lastChange = "2023-11-15 19:53:21 +0000";
+lastChange = "2023-11-16 14:32:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -21168,8 +21173,8 @@ coordinates = (
 4
 );
 };
-layerId = "4EFDBC60-AA85-4368-B931-D9DEF48DE5F6";
-name = "{700, 4} Nov 15, 23 at 14:52";
+layerId = "2ECA3C3C-2AD1-4EF4-AD98-94FF36283BEE";
+name = "{700, 4} Nov 16, 23 at 09:25";
 shapes = (
 {
 closed = 1;
@@ -21206,6 +21211,44 @@ coordinates = (
 5
 );
 };
+layerId = "4EFDBC60-AA85-4368-B931-D9DEF48DE5F6";
+name = "{700, 4} Nov 15, 23 at 14:52";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,157,l),
+(100,253,o),
+(230,221,o),
+(259,256,c),
+(230,168,o),
+(168,148,o),
+(100,148,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(-1,0,o),
+(0,0,o),
+(0,0,c),
+(-1,0,o),
+(-1,0,o),
+(0,0,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+6
+);
+};
 layerId = "7DF25445-F050-44BE-BB93-8532EC44FC42";
 name = "Nov 15, 23 at 14:23";
 shapes = (
@@ -21231,6 +21274,67 @@ nodes = (
 (0,0,o),
 (0,0,o),
 (0,0,c)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
+export = 0;
+glyphname = _danfoCut.part;
+lastChange = "2023-11-16 14:42:27 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(24,0,o),
+(0,24,o),
+(0,53,cs),
+(0,82,o),
+(24,106,o),
+(53,106,cs),
+(82,106,o),
+(106,82,o),
+(106,53,cs),
+(106,24,o),
+(82,0,o),
+(53,0,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+700,
+6
+);
+};
+layerId = "9AC5F449-4DAB-42CC-9AFC-EE0896EC5EC5";
+name = "Nov 16, 23 at 09:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1,0,o),
+(0,1,o),
+(0,53,cs),
+(0,105,o),
+(1,106,o),
+(53,106,cs),
+(105,106,o),
+(106,105,o),
+(106,53,cs),
+(106,1,o),
+(105,0,o),
+(53,0,cs)
 );
 }
 );
@@ -21280,6 +21384,21 @@ type = baseline;
 },
 {
 type = descender;
+}
+);
+properties = (
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 unitsPerEm = 1000;
