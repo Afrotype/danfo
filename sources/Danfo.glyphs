@@ -6,26 +6,22 @@ DisplayStrings = (
 "ABCDEF, GHIJK, LMNOPQRSTUVWXYZ
 0123456789",
 "012389",
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+H,
+"/_danfoCut.part",
+"/cutdetail.part",
+"/pixel"
 );
 axes = (
 {
-name = Weight;
-tag = wght;
-},
-{
 name = "Element Shape";
-tag = ESHP;
+tag = ELSH;
 }
 );
 customParameters = (
 {
 name = "Virtual Master";
 value = (
-{
-Axis = Weight;
-Location = 700;
-},
 {
 Axis = "Element Shape";
 Location = 6;
@@ -47,6 +43,15 @@ value = 7;
 {
 name = blueFuzz;
 value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+ELSH = {
+0 = 0;
+6 = 6;
+};
+};
 }
 );
 date = "2023-09-29 07:07:32 +0000";
@@ -54,7 +59,6 @@ familyName = Danfo;
 fontMaster = (
 {
 axesValues = (
-700,
 0
 );
 guides = (
@@ -2717,7 +2721,7 @@ unicode = 484;
 {
 color = 2;
 glyphname = H;
-lastChange = "2023-11-19 12:14:53 +0000";
+lastChange = "2023-11-20 18:52:46 +0000";
 layers = (
 {
 anchors = (
@@ -2788,6 +2792,17 @@ nodes = (
 (46,435,c),
 (46,0,l)
 );
+},
+{
+alignment = -1;
+pos = (46,142);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (688,142);
+ref = pixel;
+scale = (-1,1);
 }
 );
 width = 734;
@@ -20794,7 +20809,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 1
 );
 };
@@ -20832,7 +20846,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 2
 );
 };
@@ -20870,7 +20883,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 3
 );
 };
@@ -20908,7 +20920,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 4
 );
 };
@@ -20946,7 +20957,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 5
 );
 };
@@ -20984,7 +20994,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 6
 );
 };
@@ -21077,16 +21086,11 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 700;
-min = 700;
-},
-{
 max = 6;
 min = 5;
 }
 );
 coordinates = (
-700,
 6
 );
 };
@@ -21129,7 +21133,6 @@ type = variable;
 },
 {
 axesValues = (
-700,
 0
 );
 instanceInterpolations = {
