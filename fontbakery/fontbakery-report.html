@@ -184,19 +184,7 @@ The font may be embedded but must only be installed temporarily on other systems
 <div class='check__idlabel'>Check ID: com.google.fonts/check/glyph_coverage</div>
 
 <details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Missing required codepoints:</p>
-<pre><code>- 0x0034 (DIGIT FOUR)
-
-
-- 0x0035 (DIGIT FIVE)
-
-
-- 0x0036 (DIGIT SIX)
-
-
-- 0x0037 (DIGIT SEVEN)
-
-
-- 0x0100 (LATIN CAPITAL LETTER A WITH MACRON)
+<pre><code>- 0x0100 (LATIN CAPITAL LETTER A WITH MACRON)
 
 
 - 0x0112 (LATIN CAPITAL LETTER E WITH MACRON)
@@ -241,21 +229,21 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, coptic, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, canadian-aboriginal, coptic, syriac, malayalam, tifinagh, tai-le, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, tifinagh, coptic, syriac, malayalam, tai-le, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -270,7 +258,7 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, gothic, caucasian-albanian, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, gothic, tifinagh, cherokee, syriac</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
@@ -316,7 +304,7 @@ definitions.</p>
 <h3>Checking OS/2 usWinAscent & usWinDescent.</h3>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/family/win_ascent_and_descent</div>
 
-<details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 1150, but got 1100 instead [code: ascent]</p>
+<details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 1194, but got 1100 instead [code: ascent]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 917, but got 100 instead [code: descent]</p>
 </span></li></ul></div></details>
 <h3>Checking OS/2 Metrics match hhea Metrics.</h3>
@@ -327,7 +315,7 @@ definitions.</p>
 <h3>Do we have the latest version of FontBakery installed?</h3>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/fontbakery_version</div>
 
-<details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Current FontBakery version is 0.10.2, while a newer 0.10.3 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]</p>
+<details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Current FontBakery version is 0.10.2, while a newer 0.10.4 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]</p>
 </span></li></ul></div></details>
 <h3>Font contains '.notdef' as its first glyph?</h3>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/mandatory_glyphs</div>
@@ -355,6 +343,8 @@ definitions.</p>
 - Y.ss02
 
 - comma.ss01
+
+- cutdetail.part
 
 - four.ss01
 
@@ -905,15 +895,11 @@ definitions.</p>
 <p>[code: no-contour]</p>
 </span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
 <p>The following glyphs do not have the recommended number of contours:</p>
-<pre><code>- Glyph name: H	Contours detected: 3	Expected: 1
-
-- Glyph name: b	Contours detected: 3	Expected: 2
+<pre><code>- Glyph name: b	Contours detected: 3	Expected: 2
 
 - Glyph name: e	Contours detected: 1	Expected: 2
 
 - Glyph name: g	Contours detected: 1	Expected: 2 or 3
-
-- Glyph name: h	Contours detected: 3	Expected: 1
 
 - Glyph name: j	Contours detected: 1	Expected: 2
 
@@ -991,13 +977,7 @@ definitions.</p>
 
 - Glyph name: uni0213	Contours detected: 3	Expected: 2
 
-- Glyph name: uni021E	Contours detected: 4	Expected: 2
-
-- Glyph name: uni021F	Contours detected: 4	Expected: 2
-
 - Glyph name: uni0228	Contours detected: 2	Expected: 1
-
-- Glyph name: uni02B0	Contours detected: 3	Expected: 1
 
 - Glyph name: uni1E03	Contours detected: 4	Expected: 3
 
@@ -1015,17 +995,13 @@ definitions.</p>
 
 - Glyph name: uni1E21	Contours detected: 2	Expected: 3 or 4
 
-- Glyph name: uni1E24	Contours detected: 4	Expected: 2
-
-- Glyph name: uni1E25	Contours detected: 4	Expected: 2
-
 - Glyph name: uni1E45	Contours detected: 1	Expected: 2
 
 - Glyph name: uni1E47	Contours detected: 1	Expected: 2
 
 - Glyph name: nmacronbelow	Contours detected: 1	Expected: 2
 
-- Glyph name: uni1E52	Contours detected: 2	Expected: 4
+- Glyph name: uni1E52	Contours detected: 3	Expected: 4
 
 - Glyph name: uni1E53	Contours detected: 2	Expected: 4
 
@@ -1097,8 +1073,6 @@ definitions.</p>
 
 - Glyph name: uni1EF7	Contours detected: 1	Expected: 2
 
-- Glyph name: H	Contours detected: 3	Expected: 1
-
 - Glyph name: Oslashacute	Contours detected: 1	Expected: 4
 
 - Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -1128,8 +1102,6 @@ definitions.</p>
 - Glyph name: gcaron	Contours detected: 2	Expected: 3 or 4
 
 - Glyph name: gdotaccent	Contours detected: 2	Expected: 3 or 4
-
-- Glyph name: h	Contours detected: 3	Expected: 1
 
 - Glyph name: j	Contours detected: 1	Expected: 2
 
@@ -1167,10 +1139,6 @@ definitions.</p>
 
 - Glyph name: uni01F9	Contours detected: 1	Expected: 2
 
-- Glyph name: uni021E	Contours detected: 4	Expected: 2
-
-- Glyph name: uni021F	Contours detected: 4	Expected: 2
-
 - Glyph name: uni0228	Contours detected: 2	Expected: 1
 
 - Glyph name: uni1E03	Contours detected: 4	Expected: 3
@@ -1189,15 +1157,11 @@ definitions.</p>
 
 - Glyph name: uni1E21	Contours detected: 2	Expected: 3 or 4
 
-- Glyph name: uni1E24	Contours detected: 4	Expected: 2
-
-- Glyph name: uni1E25	Contours detected: 4	Expected: 2
-
 - Glyph name: uni1E45	Contours detected: 1	Expected: 2
 
 - Glyph name: uni1E47	Contours detected: 1	Expected: 2
 
-- Glyph name: uni1E52	Contours detected: 2	Expected: 4
+- Glyph name: uni1E52	Contours detected: 3	Expected: 4
 
 - Glyph name: uni1E53	Contours detected: 2	Expected: 4
 
@@ -1345,23 +1309,23 @@ definitions.</p>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/outline_semi_vertical</div>
 
 <details><summary>⚠️ Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
-<pre><code>* A (U+0041): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+<pre><code>* A (U+0041): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Aacute (U+00C1): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Aacute (U+00C1): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Abreve (U+0102): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Abreve (U+0102): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Acircumflex (U+00C2): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Acircumflex (U+00C2): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Adieresis (U+00C4): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Adieresis (U+00C4): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Agrave (U+00C0): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Agrave (U+00C0): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Aogonek (U+0104): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Aogonek (U+0104): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Aring (U+00C5): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Aring (U+00C5): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* Atilde (U+00C3): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* Atilde (U+00C3): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * B (U+0042): L&lt;&lt;400.0,512.0&gt;--&lt;273.0,513.0&gt;&gt;
 
@@ -1405,13 +1369,13 @@ definitions.</p>
 
 * P (U+0050): L&lt;&lt;431.0,490.0&gt;--&lt;273.0,489.0&gt;&gt;
 
-* R (U+0052): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* R (U+0052): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* Racute (U+0154): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* Racute (U+0154): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* Rcaron (U+0158): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* Rcaron (U+0158): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* Rmacronbelow (U+1E5E): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* Rmacronbelow (U+1E5E): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
 * T (U+0054): L&lt;&lt;481.0,434.0&gt;--&lt;482.0,-2.0&gt;&gt;
 
@@ -1435,23 +1399,23 @@ definitions.</p>
 
 * Zmacronbelow (U+1E94): L&lt;&lt;214.0,439.0&gt;--&lt;399.0,440.0&gt;&gt;
 
-* a (U+0061): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* a (U+0061): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* aacute (U+00E1): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* aacute (U+00E1): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* abreve (U+0103): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* abreve (U+0103): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* acircumflex (U+00E2): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* acircumflex (U+00E2): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* adieresis (U+00E4): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* adieresis (U+00E4): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* agrave (U+00E0): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* agrave (U+00E0): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* aogonek (U+0105): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* aogonek (U+0105): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* aring (U+00E5): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* aring (U+00E5): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* atilde (U+00E3): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* atilde (U+00E3): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * b (U+0062): L&lt;&lt;400.0,512.0&gt;--&lt;273.0,513.0&gt;&gt;
 
@@ -1507,15 +1471,17 @@ definitions.</p>
 
 * macron (U+00AF): L&lt;&lt;25.0,678.0&gt;--&lt;325.0,679.0&gt;&gt;
 
-* ordfeminine (U+00AA): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* ordfeminine (U+00AA): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* r (U+0072): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* r (U+0072): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* racute (U+0155): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* racute (U+0155): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* rcaron (U+0159): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* rcaron (U+0159): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* rmacronbelow (U+1E5F): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* rmacronbelow (U+1E5F): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
+
+* six (U+0036): L&lt;&lt;32.0,131.0&gt;--&lt;33.0,551.0&gt;&gt;
 
 * t (U+0074): L&lt;&lt;481.0,434.0&gt;--&lt;482.0,-2.0&gt;&gt;
 
@@ -1541,31 +1507,31 @@ definitions.</p>
 
 * uni0123 (U+0123): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
 
-* uni0156 (U+0156): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0156 (U+0156): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni0157 (U+0157): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0157 (U+0157): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni01CD (U+01CD): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01CD (U+01CD): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni01CE (U+01CE): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01CE (U+01CE): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni01D5 (U+01D5): L&lt;&lt;-149.0,77.0&gt;--&lt;151.0,78.0&gt;&gt;
 
 * uni01D6 (U+01D6): L&lt;&lt;47.0,77.0&gt;--&lt;347.0,78.0&gt;&gt;
 
-* uni01DE (U+01DE): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01DE (U+01DE): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni01DE (U+01DE): L&lt;&lt;74.0,77.0&gt;--&lt;374.0,78.0&gt;&gt;
 
-* uni01DF (U+01DF): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01DF (U+01DF): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni01DF (U+01DF): L&lt;&lt;84.0,77.0&gt;--&lt;384.0,78.0&gt;&gt;
 
-* uni01E0 (U+01E0): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01E0 (U+01E0): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni01E0 (U+01E0): L&lt;&lt;75.0,77.0&gt;--&lt;375.0,78.0&gt;&gt;
 
-* uni01E1 (U+01E1): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni01E1 (U+01E1): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni01E1 (U+01E1): L&lt;&lt;85.0,77.0&gt;--&lt;385.0,78.0&gt;&gt;
 
@@ -1577,13 +1543,13 @@ definitions.</p>
 
 * uni01F5 (U+01F5): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
 
-* uni0200 (U+0200): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0200 (U+0200): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni0201 (U+0201): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0201 (U+0201): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni0202 (U+0202): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0202 (U+0202): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni0203 (U+0203): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0203 (U+0203): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni0204 (U+0204): L&lt;&lt;549.0,497.0&gt;--&lt;552.0,0.0&gt;&gt;
 
@@ -1593,13 +1559,13 @@ definitions.</p>
 
 * uni0207 (U+0207): L&lt;&lt;549.0,497.0&gt;--&lt;552.0,0.0&gt;&gt;
 
-* uni0210 (U+0210): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0210 (U+0210): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni0211 (U+0211): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0211 (U+0211): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni0212 (U+0212): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0212 (U+0212): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni0213 (U+0213): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni0213 (U+0213): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
 * uni021A (U+021A): L&lt;&lt;481.0,434.0&gt;--&lt;482.0,-2.0&gt;&gt;
 
@@ -1609,9 +1575,9 @@ definitions.</p>
 
 * uni021B (U+021B): L&lt;&lt;482.0,-2.0&gt;--&lt;87.0,0.0&gt;&gt;
 
-* uni0226 (U+0226): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0226 (U+0226): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni0227 (U+0227): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni0227 (U+0227): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni0228 (U+0228): L&lt;&lt;549.0,497.0&gt;--&lt;552.0,0.0&gt;&gt;
 
@@ -1637,9 +1603,9 @@ definitions.</p>
 
 * uni1DBB (U+1DBB): L&lt;&lt;214.0,439.0&gt;--&lt;399.0,440.0&gt;&gt;
 
-* uni1E00 (U+1E00): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1E00 (U+1E00): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1E01 (U+1E01): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1E01 (U+1E01): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni1E02 (U+1E02): L&lt;&lt;400.0,512.0&gt;--&lt;273.0,513.0&gt;&gt;
 
@@ -1709,7 +1675,7 @@ definitions.</p>
 
 * uni1E21 (U+1E21): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
 
-* uni1E38 (U+1E38): L&lt;&lt;87.0,77.0&gt;--&lt;387.0,78.0&gt;&gt;
+* uni1E38 (U+1E38): L&lt;&lt;93.0,77.0&gt;--&lt;393.0,78.0&gt;&gt;
 
 * uni1E39 (U+1E39): L&lt;&lt;73.0,261.0&gt;--&lt;373.0,262.0&gt;&gt;
 
@@ -1721,21 +1687,21 @@ definitions.</p>
 
 * uni1E56 (U+1E56): L&lt;&lt;431.0,490.0&gt;--&lt;273.0,489.0&gt;&gt;
 
-* uni1E58 (U+1E58): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E58 (U+1E58): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni1E59 (U+1E59): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E59 (U+1E59): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni1E5A (U+1E5A): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E5A (U+1E5A): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* uni1E5B (U+1E5B): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E5B (U+1E5B): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
 * uni1E5C (U+1E5C): L&lt;&lt;-153.0,-860.0&gt;--&lt;147.0,-859.0&gt;&gt;
 
-* uni1E5C (U+1E5C): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E5C (U+1E5C): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
 * uni1E5D (U+1E5D): L&lt;&lt;30.0,77.0&gt;--&lt;330.0,78.0&gt;&gt;
 
-* uni1E5D (U+1E5D): L&lt;&lt;396.0,185.0&gt;--&lt;395.0,434.0&gt;&gt;
+* uni1E5D (U+1E5D): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
 * uni1E6A (U+1E6A): L&lt;&lt;481.0,434.0&gt;--&lt;482.0,-2.0&gt;&gt;
 
@@ -1773,53 +1739,53 @@ definitions.</p>
 
 * uni1E93 (U+1E93): L&lt;&lt;214.0,439.0&gt;--&lt;399.0,440.0&gt;&gt;
 
-* uni1EA0 (U+1EA0): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA0 (U+1EA0): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA1 (U+1EA1): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA1 (U+1EA1): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA2 (U+1EA2): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA2 (U+1EA2): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA3 (U+1EA3): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA3 (U+1EA3): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA4 (U+1EA4): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA4 (U+1EA4): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA5 (U+1EA5): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA5 (U+1EA5): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA6 (U+1EA6): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA6 (U+1EA6): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA7 (U+1EA7): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA7 (U+1EA7): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA8 (U+1EA8): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA8 (U+1EA8): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EA9 (U+1EA9): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EA9 (U+1EA9): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAA (U+1EAA): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAA (U+1EAA): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAB (U+1EAB): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAB (U+1EAB): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAC (U+1EAC): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAC (U+1EAC): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAD (U+1EAD): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAD (U+1EAD): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAE (U+1EAE): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAE (U+1EAE): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EAF (U+1EAF): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EAF (U+1EAF): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB0 (U+1EB0): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB0 (U+1EB0): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB1 (U+1EB1): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB1 (U+1EB1): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB2 (U+1EB2): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB2 (U+1EB2): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB3 (U+1EB3): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB3 (U+1EB3): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB4 (U+1EB4): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB4 (U+1EB4): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB5 (U+1EB5): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB5 (U+1EB5): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB6 (U+1EB6): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB6 (U+1EB6): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
-* uni1EB7 (U+1EB7): L&lt;&lt;305.0,434.0&gt;--&lt;303.0,0.0&gt;&gt;
+* uni1EB7 (U+1EB7): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
 * uni1EB8 (U+1EB8): L&lt;&lt;549.0,497.0&gt;--&lt;552.0,0.0&gt;&gt;
 
@@ -1876,8 +1842,8 @@ definitions.</p>
 
 <details><summary>⚠️ Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̊ i̋ i̍ i̐ i̓ i᷆ i᷇ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ī ĭ i̇ i̒ i᷄ i᷅ ī̛ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ī̥</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Kom (Latn, 360,685 speakers), Igbo (Latn, 27,823,640 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Aghem (Latn, 38,843 speakers), Ejagham (Latn, 120,000 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers). [code: soft-dotted]</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Aghem (Latn, 38,843 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers), Ejagham (Latn, 120,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Ebira (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]</p>
 </span></li></ul></div></details>
                         </main>
                     </body>
