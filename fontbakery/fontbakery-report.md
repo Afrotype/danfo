@@ -2,7 +2,7 @@
 
 fontbakery version: 0.10.2
 
-<details><summary><b>[23] Danfo-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+<details><summary><b>[24] Danfo-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
 
 
 * 🔥 **FAIL** In this font fsType is set to 8 meaning that:
@@ -43,6 +43,10 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 	- 0x016B (LATIN SMALL LETTER U WITH MACRON)
  [code: missing-codepoints]
+</div></details><details><summary>🔥 <b>FAIL:</b> Check the OS/2 usWeightClass is appropriate for the font's best SubFamily name. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+
+
+* 🔥 **FAIL** Best SubFamily name is 'Bold'. Expected OS/2 usWeightClass is 700, got 400. [code: bad-value]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -978,21 +982,21 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, coptic, cherokee
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, tifinagh, coptic, syriac, malayalam, tai-le, math
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, malayalam, tifinagh, math, old-permic, coptic, tai-le, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -1006,8 +1010,8 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, gothic, tifinagh, cherokee, syriac
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, caucasian-albanian, gothic, cherokee, syriac
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
@@ -1644,17 +1648,17 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 The dot of soft dotted characters _should_ disappear in other cases, for example: ī ĭ i̇ i̒ i᷄ i᷅ ī̛ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ī̥
 
-Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers). 
+Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Dutch (Latn, 31,709,104 speakers), Avokaya (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Aghem (Latn, 38,843 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers), Ejagham (Latn, 120,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Ebira (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Kom (Latn, 360,685 speakers), Ma’di (Latn, 584,000 speakers), Dan (Latn, 1,099,244 speakers), Basaa (Latn, 332,940 speakers), Ebira (Latn, 2,200,000 speakers), Ejagham (Latn, 120,000 speakers), Aghem (Latn, 38,843 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Lugbara (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Nateni (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 12 | 11 | 123 | 7 | 101 | 0 |
-| 0% | 5% | 4% | 48% | 3% | 40% | 0% |
+| 0 | 13 | 11 | 123 | 7 | 100 | 0 |
+| 0% | 5% | 4% | 48% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
