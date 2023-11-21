@@ -42,64 +42,6 @@ value = 1;
 );
 date = "2023-09-29 07:07:32 +0000";
 familyName = Danfo;
-featurePrefixes = (
-{
-automatic = 1;
-code = "languagesystem DFLT dflt;
-
-languagesystem latn dflt;
-languagesystem latn CAT;
-";
-name = Languagesystems;
-}
-);
-features = (
-{
-automatic = 1;
-code = "feature locl;
-feature case;
-feature ss01;
-";
-tag = aalt;
-},
-{
-automatic = 1;
-code = "lookup ccmp_DFLT_1 {
-	lookupflag 0;
-	sub acutecomb macroncomb by acutecomb_macroncomb;
-	sub gravecomb macroncomb by gravecomb_macroncomb;
-	sub macroncomb acutecomb by macroncomb_acutecomb;
-	sub macroncomb gravecomb by macroncomb_gravecomb;
-} ccmp_DFLT_1;
-";
-tag = ccmp;
-},
-{
-automatic = 1;
-code = "script latn;
-language CAT;
-lookup locl_latn_0 {
-	sub l periodcentered' l by periodcentered.loclCAT;
-	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl_latn_0;
-";
-tag = locl;
-},
-{
-automatic = 1;
-code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
-";
-tag = case;
-},
-{
-automatic = 1;
-code = "sub J by J.ss01;
-sub R by R.ss01;
-sub comma by comma.ss01;
-";
-tag = ss01;
-}
-);
 fontMaster = (
 {
 axesValues = (
