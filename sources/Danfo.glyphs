@@ -48,13 +48,6 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
-languagesystem latn AZE;
-languagesystem latn CRT;
-languagesystem latn KAZ;
-languagesystem latn TAT;
-languagesystem latn TRK;
-languagesystem latn ROM;
-languagesystem latn MOL;
 languagesystem latn CAT;
 ";
 name = Languagesystems;
@@ -64,10 +57,8 @@ features = (
 {
 automatic = 1;
 code = "feature locl;
-feature ordn;
 feature case;
 feature ss01;
-feature ss02;
 ";
 tag = aalt;
 },
@@ -77,66 +68,22 @@ code = "lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub acutecomb macroncomb by acutecomb_macroncomb;
 	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
 	sub macroncomb gravecomb by macroncomb_gravecomb;
 } ccmp_DFLT_1;
-
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
-
-lookup ccmp_latn_1 {
-	lookupflag 0;
-	sub itildebelow by i tildebelowcomb;
-} ccmp_latn_1;
-
-script latn;
-lookup ccmp_latn_1;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
 code = "script latn;
-language AZE;
-lookup locl_latn_0 {
-	sub i by idotaccent;
-} locl_latn_0;
-language CRT;
-lookup locl_latn_0;
-language KAZ;
-lookup locl_latn_0;
-language TAT;
-lookup locl_latn_0;
-language TRK;
-lookup locl_latn_0;
-
-script latn;
-language ROM;
-lookup locl_latn_1 {
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-} locl_latn_1;
-language MOL;
-lookup locl_latn_1;
-
-script latn;
 language CAT;
-lookup locl_latn_2 {
+lookup locl_latn_0 {
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl_latn_2;
+} locl_latn_0;
 ";
 tag = locl;
-},
-{
-automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-";
-tag = ordn;
 },
 {
 automatic = 1;
@@ -148,24 +95,9 @@ tag = case;
 automatic = 1;
 code = "sub J by J.ss01;
 sub R by R.ss01;
-sub U by U.ss01;
-sub V by V.ss01;
-sub X by X.ss01;
-sub Y by Y.ss01;
-sub zero by zero.ss01;
-sub one by one.ss01;
-sub four by four.ss01;
 sub comma by comma.ss01;
 ";
 tag = ss01;
-},
-{
-automatic = 1;
-code = "sub N by N.ss02;
-sub Y by Y.ss02;
-sub four by four.ss02;
-";
-tag = ss02;
 }
 );
 fontMaster = (
