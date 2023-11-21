@@ -1,22 +1,7 @@
 {
 .appVersion = "3227";
 .formatVersion = 3;
-DisplayStrings = (
-"R/R.ss01 RH",
-"ABCDEF, GHIJK, LMNOPQRSTUVWXYZ
-0123456789",
-"012389",
-ABCDEFGHIJKLMNOPQRSTUVWXYZ,
-"/_part.cut/_part.cut H",
-"/_danfoCut.part",
-"/cutdetail.part",
-"/_part.cut"
-);
 axes = (
-{
-name = Weight;
-tag = wght;
-},
 {
 name = "Element Shape";
 tag = ELSH;
@@ -27,39 +12,10 @@ customParameters = (
 name = "Virtual Master";
 value = (
 {
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = "Element Shape";
-Location = 0;
-}
-);
-},
-{
-name = "Virtual Master";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
 Axis = "Element Shape";
 Location = 6;
 }
 );
-},
-{
-name = "Axis Mappings";
-value = {
-ELSH = {
-0 = 0;
-6 = 6;
-};
-wght = {
-700 = 700;
-};
-};
 },
 {
 name = "Use Typo Metrics";
@@ -209,7 +165,6 @@ tag = ss02;
 fontMaster = (
 {
 axesValues = (
-700,
 0
 );
 guides = (
@@ -2980,7 +2935,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 1
 );
 };
@@ -3072,7 +3026,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 2
 );
 };
@@ -3164,7 +3117,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 3
 );
 };
@@ -3256,7 +3208,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 4
 );
 };
@@ -3348,7 +3299,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 5
 );
 };
@@ -3440,7 +3390,6 @@ pos = (17,716);
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 6
 );
 };
@@ -20504,6 +20453,35 @@ width = 300;
 );
 },
 {
+color = 2;
+glyphname = macroncomb_acutecomb;
+lastChange = "2023-11-21 19:57:23 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,900);
+},
+{
+name = top;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = macroncomb;
+},
+{
+pos = (15,-40);
+ref = acutecomb;
+}
+);
+width = 300;
+}
+);
+},
+{
 color = 0;
 glyphname = hookabovecomb;
 lastChange = "2023-11-07 15:46:56 +0000";
@@ -21394,36 +21372,6 @@ width = 415;
 unicode = 7622;
 },
 {
-color = 2;
-export = 0;
-glyphname = macroncomb_acutecomb;
-lastChange = "2023-11-16 20:00:02 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-pos = (0,900);
-},
-{
-name = top;
-}
-);
-layerId = m01;
-shapes = (
-{
-ref = macroncomb;
-},
-{
-pos = (15,-40);
-ref = acutecomb;
-}
-);
-width = 300;
-}
-);
-},
-{
 glyphname = dieresis;
 lastChange = "2023-11-10 15:51:52 +0000";
 layers = (
@@ -21786,7 +21734,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 1
 );
 };
@@ -21824,7 +21771,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 2
 );
 };
@@ -21862,7 +21808,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 3
 );
 };
@@ -21900,7 +21845,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 4
 );
 };
@@ -21938,7 +21882,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 5
 );
 };
@@ -21976,7 +21919,6 @@ width = 600;
 associatedMasterId = m01;
 attr = {
 coordinates = (
-700,
 6
 );
 };
@@ -22043,14 +21985,11 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-},
-{
 max = 6;
 min = 5;
 }
 );
 coordinates = (
--10000,
 6
 );
 };
@@ -22109,18 +22048,11 @@ width = 652;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Variable Font Origin";
-value = m01;
-}
-);
 name = Regular;
 type = variable;
 },
 {
 axesValues = (
-700,
 1
 );
 isBold = 1;
