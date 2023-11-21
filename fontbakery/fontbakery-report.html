@@ -229,7 +229,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
@@ -238,9 +238,9 @@ definitions.</p>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, syriac, tifinagh, tai-le, old-permic, malayalam, canadian-aboriginal, coptic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, syriac, math, tai-le, coptic, old-permic, tifinagh, malayalam</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -257,8 +257,8 @@ definitions.</p>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, tifinagh, caucasian-albanian</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, gothic, caucasian-albanian, tifinagh</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
@@ -1399,6 +1399,10 @@ definitions.</p>
 
 * f (U+0066): L&lt;&lt;414.0,433.0&gt;--&lt;417.0,0.0&gt;&gt;
 
+* five (U+0035): L&lt;&lt;30.0,715.0&gt;--&lt;620.0,716.0&gt;&gt;
+
+* five (U+0035): L&lt;&lt;620.0,587.0&gt;--&lt;413.0,586.0&gt;&gt;
+
 * g (U+0067): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
 
 * gbreve (U+011F): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
@@ -1408,6 +1412,10 @@ definitions.</p>
 * gdotaccent (U+0121): L&lt;&lt;441.0,497.0&gt;--&lt;629.0,498.0&gt;&gt;
 
 * macron (U+00AF): L&lt;&lt;25.0,678.0&gt;--&lt;325.0,679.0&gt;&gt;
+
+* nine (U+0039): L&lt;&lt;40.0,478.0&gt;--&lt;247.0,479.0&gt;&gt;
+
+* nine (U+0039): L&lt;&lt;510.0,-6.0&gt;--&lt;186.0,-7.0&gt;&gt;
 
 * ordfeminine (U+00AA): L&lt;&lt;316.0,434.0&gt;--&lt;314.0,0.0&gt;&gt;
 
@@ -1419,7 +1427,13 @@ definitions.</p>
 
 * rmacronbelow (U+1E5F): L&lt;&lt;396.0,119.0&gt;--&lt;395.0,434.0&gt;&gt;
 
-* six (U+0036): L&lt;&lt;32.0,131.0&gt;--&lt;33.0,551.0&gt;&gt;
+* seven (U+0037): L&lt;&lt;30.0,434.0&gt;--&lt;190.0,433.0&gt;&gt;
+
+* seven (U+0037): L&lt;&lt;479.0,433.0&gt;--&lt;630.0,434.0&gt;&gt;
+
+* six (U+0036): L&lt;&lt;150.0,715.0&gt;--&lt;474.0,716.0&gt;&gt;
+
+* six (U+0036): L&lt;&lt;620.0,587.0&gt;--&lt;413.0,586.0&gt;&gt;
 
 * t (U+0074): L&lt;&lt;481.0,434.0&gt;--&lt;482.0,-2.0&gt;&gt;
 
@@ -1780,8 +1794,8 @@ definitions.</p>
 
 <details><summary>⚠️ Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ i̧᷆ i̧᷇ i̩᷄ i̩᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Avokaya (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Dutch (Latn, 31,709,104 speakers), Lithuanian (Latn, 2,357,094 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Aghem (Latn, 38,843 speakers), Nateni (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Igbo (Latn, 27,823,640 speakers), Koonzime (Latn, 40,000 speakers), Basaa (Latn, 332,940 speakers), Lugbara (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ma’di (Latn, 584,000 speakers), Dan (Latn, 1,099,244 speakers), Ebira (Latn, 2,200,000 speakers), Ejagham (Latn, 120,000 speakers). [code: soft-dotted]</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Avokaya (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Aghem (Latn, 38,843 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Basaa (Latn, 332,940 speakers), Lugbara (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Nateni (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Ma’di (Latn, 584,000 speakers), Igbo (Latn, 27,823,640 speakers), Ebira (Latn, 2,200,000 speakers), Ejagham (Latn, 120,000 speakers), Koonzime (Latn, 40,000 speakers). [code: soft-dotted]</p>
 </span></li></ul></div></details>
                         </main>
                     </body>
