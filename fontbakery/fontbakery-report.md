@@ -2,7 +2,7 @@
 
 fontbakery version: 0.10.2
 
-<details><summary><b>[16] Danfo-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+<details><summary><b>[17] Danfo-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
 
 
 * 🔥 **FAIL** In this font fsType is set to 8 meaning that:
@@ -339,9 +339,6 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 
 	- 0x014A (LATIN CAPITAL LETTER ENG)
-
-
-	- 0x004F (LATIN CAPITAL LETTER O)
 
 
 	- 0x00D3 (LATIN CAPITAL LETTER O WITH ACUTE)
@@ -1024,7 +1021,9 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 * 🔥 **FAIL** On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** Font is monospaced but 2 glyphs (66.67%) have a different width. You should check the widths of: ['H', '_part.cut'] [code: mono-outliers]
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 4 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
+* ⚠ **WARN** Font is monospaced but 3 glyphs (75.00%) have a different width. You should check the widths of: ['H', 'O', '_part.cut'] [code: mono-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -1039,7 +1038,8 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+0048 LATIN CAPITAL LETTER H: try adding one of: math, latin, khmer, nushu, symbols
+ * U+0048 LATIN CAPITAL LETTER H: try adding one of: khmer, latin, nushu, math, symbols
+ * U+004F LATIN CAPITAL LETTER O: try adding one of: khmer, latin, nushu, math, symbols
 
 Or you can add the above codepoints to one of the subsets supported by the font:  [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -1061,6 +1061,18 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 
 * ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have on-curve points which have potentially incorrect y coordinates:
+
+	* O (U+004F): X=223.0,Y=718.0 (should be at cap-height 716?)
+
+	* O (U+004F): X=475.0,Y=718.0 (should be at cap-height 716?)
+
+	* O (U+004F): X=475.0,Y=-2.0 (should be at baseline 0?)
+
+	* O (U+004F): X=223.0,Y=-2.0 (should be at baseline 0?) [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1075,7 +1087,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 9 | 7 | 127 | 7 | 104 | 0 |
+| 0 | 9 | 8 | 127 | 7 | 103 | 0 |
 | 0% | 4% | 3% | 50% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:

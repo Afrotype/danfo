@@ -129,10 +129,10 @@ ul {
             <tr>
                 <td>0</td>
                 <td>9</td>
-                <td>7</td>
+                <td>8</td>
                 <td>127</td>
                 <td>7</td>
-                <td>104</td>
+                <td>103</td>
             </tr>
             <tr>
                 <td>0%</td>
@@ -509,9 +509,6 @@ The font may be embedded but must only be installed temporarily on other systems
 
 
 - 0x014A (LATIN CAPITAL LETTER ENG)
-
-
-- 0x004F (LATIN CAPITAL LETTER O)
 
 
 - 0x00D3 (LATIN CAPITAL LETTER O WITH ACUTE)
@@ -1175,7 +1172,8 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+0048 LATIN CAPITAL LETTER H: try adding one of: math, latin, khmer, nushu, symbols</li>
+<li>U+0048 LATIN CAPITAL LETTER H: try adding one of: khmer, latin, nushu, math, symbols</li>
+<li>U+004F LATIN CAPITAL LETTER O: try adding one of: khmer, latin, nushu, math, symbols</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font:  [code: unreachable-subsetting]</p>
 </span></li></ul></div></details>
@@ -1237,7 +1235,9 @@ definitions.</p>
 
 <details><summary>🔥 Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
-</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font is monospaced but 2 glyphs (66.67%) have a different width. You should check the widths of: ['H', '_part.cut'] [code: mono-outliers]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 4 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font is monospaced but 3 glyphs (75.00%) have a different width. You should check the widths of: ['H', 'O', '_part.cut'] [code: mono-outliers]</p>
 </span></li></ul></div></details>
 <h2>Section: fontbakery.profiles.gpos</h2>
 <span class='section__emoji'>⚠️</span>
@@ -1247,7 +1247,20 @@ definitions.</p>
 <details><summary>⚠️ Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
 </span></li></ul></div></details>
 <h2>Section: Outline Correctness Checks</h2>
-<span class='section__emoji'>⚠️</span>
+<span class='section__emoji'>⚠️⚠️</span>
+<h3>Are there any misaligned on-curve points?</h3>
+<div class='check__idlabel'>Check ID: com.google.fonts/check/outline_alignment_miss</div>
+
+<details><summary>⚠️ Danfo-Bold.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have on-curve points which have potentially incorrect y coordinates:</p>
+<pre><code>* O (U+004F): X=223.0,Y=718.0 (should be at cap-height 716?)
+
+* O (U+004F): X=475.0,Y=718.0 (should be at cap-height 716?)
+
+* O (U+004F): X=475.0,Y=-2.0 (should be at baseline 0?)
+
+* O (U+004F): X=223.0,Y=-2.0 (should be at baseline 0?) [code: found-misalignments]
+</code></pre>
+</span></li></ul></div></details>
 <h3>Are any segments inordinately short?</h3>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/outline_short_segments</div>
 
