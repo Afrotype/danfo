@@ -1038,8 +1038,8 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+0048 LATIN CAPITAL LETTER H: try adding one of: khmer, symbols, math, nushu, latin
- * U+004F LATIN CAPITAL LETTER O: try adding one of: khmer, symbols, math, nushu, latin
+ * U+0048 LATIN CAPITAL LETTER H: try adding one of: symbols, latin, math, khmer, nushu
+ * U+004F LATIN CAPITAL LETTER O: try adding one of: symbols, latin, math, khmer, nushu
 
 Or you can add the above codepoints to one of the subsets supported by the font:  [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
