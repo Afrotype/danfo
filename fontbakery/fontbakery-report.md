@@ -1010,7 +1010,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current FontBakery version is 0.10.2, while a newer 0.10.4 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current FontBakery version is 0.10.2, while a newer 0.10.5 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Font contains glyphs for whitespace characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_glyphs">com.google.fonts/check/whitespace_glyphs</a>)</summary><div>
 
 
@@ -1038,8 +1038,8 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+0048 LATIN CAPITAL LETTER H: try adding one of: symbols, latin, math, khmer, nushu
- * U+004F LATIN CAPITAL LETTER O: try adding one of: symbols, latin, math, khmer, nushu
+ * U+0048 LATIN CAPITAL LETTER H: try adding one of: latin, symbols, khmer, math, nushu
+ * U+004F LATIN CAPITAL LETTER O: try adding one of: latin, symbols, khmer, math, nushu
 
 Or you can add the above codepoints to one of the subsets supported by the font:  [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
