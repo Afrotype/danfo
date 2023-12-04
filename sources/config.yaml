@@ -1,5 +1,6 @@
 sources:
   - Danfo.glyphs
 axisOrder:
-  - wght
+  - ELSH
 familyName: Danfo
+buildVariable: true
