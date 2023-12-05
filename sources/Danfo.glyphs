@@ -37,22 +37,6 @@ tag = ELSH;
 );
 customParameters = (
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
-name = blueScale;
-value = 0.04;
-},
-{
-name = blueShift;
-value = 7;
-},
-{
-name = blueFuzz;
-value = 1;
-},
-{
 name = "Virtual Master";
 value = (
 {
@@ -78,6 +62,22 @@ Axis = "Element Shape";
 Location = 100;
 }
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = blueScale;
+value = 0.04;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = blueFuzz;
+value = 1;
 },
 {
 name = "Axis Mappings";
@@ -400,6 +400,17 @@ fontMaster = (
 {
 axesValues = (
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = "Element Shape";
+Location = 0;
+}
+);
+}
 );
 guides = (
 {
