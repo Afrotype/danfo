@@ -2843,7 +2843,7 @@ unicode = 484;
 {
 color = 2;
 glyphname = H;
-lastChange = "2023-12-05 14:45:08 +0000";
+lastChange = "2023-12-05 14:56:10 +0000";
 layers = (
 {
 anchors = (
@@ -2865,93 +2865,6 @@ pos = (0,716);
 }
 );
 layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(671,0,l),
-(671,434,l),
-(621,434,o),
-(604,460,o),
-(604,500,cs),
-(604,564,ls),
-(604,604,o),
-(621,636,o),
-(671,636,c),
-(671,716,l),
-(379,716,l),
-(379,631,l),
-(424,631,o),
-(442,609,o),
-(446,575,c),
-(254,575,l),
-(258,609,o),
-(276,631,o),
-(321,631,c),
-(321,716,l),
-(29,716,l),
-(29,636,l),
-(79,636,o),
-(96,604,o),
-(96,564,cs),
-(96,500,ls),
-(96,460,o),
-(79,434,o),
-(29,434,c),
-(29,0,l),
-(321,0,l),
-(321,439,l),
-(271,439,o),
-(254,460,o),
-(254,500,cs),
-(254,505,l),
-(446,505,l),
-(446,500,ls),
-(446,460,o),
-(429,439,o),
-(379,439,c),
-(379,0,l)
-);
-},
-{
-pos = (29,125);
-ref = _part.cut;
-},
-{
-pos = (671,125);
-ref = _part.cut;
-scale = (-1,1);
-}
-);
-width = 700;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (349,0);
-},
-{
-name = center;
-pos = (349,358);
-},
-{
-name = top;
-pos = (349,716);
-},
-{
-name = topleft;
-pos = (0,716);
-}
-);
-associatedMasterId = m01;
-attr = {
-coordinates = (
-1
-);
-};
-layerId = "38DBE147-B707-4479-9ED9-FC9FCD586363";
-name = "{1} Dec 5, 23 at 09:43";
 shapes = (
 {
 closed = 1;
@@ -21164,9 +21077,9 @@ width = 600;
 unicode = 42937;
 },
 {
-color = 0;
+color = 5;
 glyphname = _part.cut;
-lastChange = "2023-12-05 14:41:20 +0000";
+lastChange = "2023-12-05 14:55:56 +0000";
 layers = (
 {
 layerId = m01;
@@ -21180,31 +21093,6 @@ nodes = (
 (24,80,cs),
 (24,70,o),
 (0,0,o),
-(0,0,c)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-coordinates = (
-1
-);
-};
-layerId = "F703A017-CC53-4FE1-86AF-DC74493EF659";
-name = "Dec 5, 23 at 09:37";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,159,l),
-(42,159,o),
-(66,131,o),
-(66,80,cs),
-(66,29,o),
-(42,0,o),
 (0,0,c)
 );
 }
@@ -21298,70 +21186,6 @@ width = 179;
 },
 {
 export = 0;
-glyphname = _danfoCut.part;
-lastChange = "2023-11-16 14:59:01 +0000";
-layers = (
-{
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(39,95,l),
-(48,47,l),
-(97,47,l),
-(57,30,l),
-(85,1,l),
-(39,15,l),
-(10,-4,l),
-(22,22,l),
-(-6,37,l),
-(29,42,l)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-axisRules = (
-{
-max = 6;
-min = 5;
-}
-);
-coordinates = (
-6
-);
-};
-layerId = "9AC5F449-4DAB-42CC-9AFC-EE0896EC5EC5";
-name = "Nov 16, 23 at 09:40";
-shapes = (
-{
-closed = 1;
-nodes = (
-(24,-4,o),
-(2,18,o),
-(2,45,cs),
-(2,71,o),
-(24,93,o),
-(51,93,cs),
-(77,93,o),
-(99,71,o),
-(99,45,cs),
-(99,18,o),
-(77,-4,o),
-(51,-4,cs)
-);
-}
-);
-width = 600;
-}
-);
-},
-{
-export = 0;
 glyphname = cutdetail.part;
 lastChange = "2023-12-01 09:40:18 +0000";
 layers = (
@@ -21402,12 +21226,6 @@ name = "Regular 0";
 userData = {
 fpID = "F77D7DCC-F22F-4D50-8877-23D7BC7606EE";
 };
-},
-{
-axesValues = (
-1
-);
-name = "Regular 1";
 },
 {
 axesValues = (
