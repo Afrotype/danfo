@@ -9,7 +9,9 @@ H,
 "ḪȞHḨḦḢḤ",
 "hḫȟḩḧḣḥ",
 "ɦ",
-"ꜧ"
+"ꜧ",
+"TŦtŧʹˈ",
+"/Lcommaaccent.loclMAH/Ncommaaccent.loclMAH/lcommaaccent.loclMAH ̦/ncommaaccent.loclMAH"
 );
 axes = (
 {
@@ -82,8 +84,366 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature pnum;
+feature tnum;
+feature onum;
+feature case;
+feature zero;
+feature fwid;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss05;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	lookupflag 0;
+	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_2;
+
+script latn;
+lookup ccmp_latn_1;
+lookup ccmp_latn_2;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+script latn;
+language CAT;
+lookup locl_latn_3 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+},
+{
+automatic = 1;
+code = "sub hyphen by hyphen.full;
+";
+tag = fwid;
+},
+{
+automatic = 1;
+code = "sub C by C.ss01;
+sub Jcrossedtail by Jcrossedtail.ss01;
+sub V by V.ss01;
+sub Y by Y.ss01;
+sub naira by naira.ss01;
+";
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub J by J.ss02;
+sub L by L.ss02;
+sub N by N.ss02;
+sub Q by Q.ss02;
+sub Y by Y.ss02;
+";
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub G by G.ss03;
+sub Q by Q.ss03;
+sub U by U.ss03;
+";
+tag = ss03;
+},
+{
+automatic = 1;
+code = "sub braceleft by braceleft.ss05;
+sub braceright by braceright.ss05;
+";
+tag = ss05;
 }
 );
 fontMaster = (
@@ -5344,6 +5704,24 @@ width = 620;
 unicode = 74;
 },
 {
+glyphname = Jacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (268,0);
+ref = acutecomb;
+}
+);
+width = 620;
+}
+);
+},
+{
 color = 11;
 glyphname = Jcrossedtail;
 lastChange = "2023-12-15 14:35:06 +0000";
@@ -9661,7 +10039,7 @@ unicode = 42920;
 {
 color = 11;
 glyphname = T;
-lastChange = "2023-12-15 14:35:06 +0000";
+lastChange = "2023-12-15 15:19:24 +0000";
 layers = (
 {
 anchors = (
@@ -9671,7 +10049,7 @@ pos = (271,0);
 },
 {
 name = center;
-pos = (271,358);
+pos = (271,548);
 },
 {
 name = top;
@@ -9720,6 +10098,26 @@ width = 542;
 unicode = 84;
 },
 {
+glyphname = Tbar;
+lastChange = "2023-12-15 15:19:24 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (114,8);
+ref = strokeshortcomb;
+}
+);
+width = 542;
+}
+);
+unicode = 358;
+},
+{
 color = 11;
 glyphname = Tcaron;
 lastChange = "2023-12-15 14:35:06 +0000";
@@ -9739,6 +10137,25 @@ width = 542;
 }
 );
 unicode = 356;
+},
+{
+glyphname = Tcedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (171,0);
+ref = cedillacomb;
+}
+);
+width = 542;
+}
+);
+unicode = 354;
 },
 {
 color = 11;
@@ -12741,6 +13158,42 @@ width = 148;
 metricLeft = I;
 metricRight = I;
 unicode = 42891;
+},
+{
+glyphname = Lcommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (147,0);
+ref = commaaccentcomb;
+}
+);
+width = 584;
+}
+);
+},
+{
+glyphname = Ncommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (196,0);
+ref = commaaccentcomb;
+}
+);
+width = 696;
+}
+);
 },
 {
 color = 11;
@@ -16517,6 +16970,24 @@ width = 574;
 unicode = 567;
 },
 {
+glyphname = jacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (333,0);
+ref = acutecomb;
+}
+);
+width = 574;
+}
+);
+},
+{
 color = 11;
 glyphname = jcrossedtail;
 lastChange = "2023-12-15 14:35:06 +0000";
@@ -18676,7 +19147,7 @@ unicode = 42921;
 {
 color = 11;
 glyphname = t;
-lastChange = "2023-12-15 14:35:06 +0000";
+lastChange = "2023-12-15 15:19:42 +0000";
 layers = (
 {
 anchors = (
@@ -18686,15 +19157,15 @@ pos = (277,0);
 },
 {
 name = center;
-pos = (331,450);
+pos = (271,537);
 },
 {
 name = top;
-pos = (331,900);
+pos = (266,716);
 },
 {
 name = topright;
-pos = (642,900);
+pos = (532,716);
 }
 );
 layerId = m01;
@@ -18707,6 +19178,26 @@ width = 542;
 }
 );
 unicode = 116;
+},
+{
+glyphname = tbar;
+lastChange = "2023-12-15 15:19:37 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (114,-3);
+ref = strokeshortcomb;
+}
+);
+width = 542;
+}
+);
+unicode = 359;
 },
 {
 color = 11;
@@ -18724,6 +19215,25 @@ width = 542;
 }
 );
 unicode = 357;
+},
+{
+glyphname = tcedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (177,0);
+ref = cedillacomb;
+}
+);
+width = 542;
+}
+);
+unicode = 355;
 },
 {
 color = 11;
@@ -20139,6 +20649,42 @@ width = 148;
 }
 );
 unicode = 42892;
+},
+{
+glyphname = lcommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (147,0);
+ref = commaaccentcomb;
+}
+);
+width = 584;
+}
+);
+},
+{
+glyphname = ncommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (196,0);
+ref = commaaccentcomb;
+}
+);
+width = 696;
+}
+);
 },
 {
 glyphname = fi;
@@ -32862,6 +33408,21 @@ width = 553;
 unicode = 704;
 },
 {
+glyphname = primemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = minute;
+}
+);
+width = 297;
+}
+);
+unicode = 697;
+},
+{
 glyphname = ringhalfleft;
 lastChange = "2023-12-15 14:48:16 +0000";
 layers = (
@@ -32960,6 +33521,30 @@ width = 168;
 metricLeft = period;
 metricRight = period;
 unicode = 702;
+},
+{
+glyphname = verticallinemod;
+lastChange = "2023-12-15 15:20:00 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,328,l),
+(175,716,l),
+(29,716,l),
+(29,328,l)
+);
+}
+);
+width = 204;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 712;
 },
 {
 glyphname = uniA7AE;
