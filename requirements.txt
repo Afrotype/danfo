@@ -112,7 +112,7 @@ termcolor==2.3.0
 toml==0.10.2
 tqdm==4.66.1
 trio==0.22.2
-trio-websocket==0.11.1
+trio-websocket==0.11.1a
 ttfautohint-py==0.5.1
 typing_extensions==4.8.0
 ufo2ft==2.33.4
