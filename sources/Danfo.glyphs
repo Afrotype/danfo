@@ -1,68 +1,6 @@
 {
 .appVersion = "3234";
 .formatVersion = 3;
-DisplayStrings = (
-"ǤƖꞭⱢꞶƱⱲ/Upsilon-latin.ss01 ɾ",
-"OȢÓƟǑÔỐỘỒỔỖȌÖȪȮ
-ȰỌÒỎƠỚỢỜỞỠŐȎŌṒṐ",
-"VƔV",
-"HʃH",
-"*ASTERISK*",
-"THꞮ",
-"⟨⟩.,:;…!¡?¿·•t * ‖#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case",
-"ƲO",
-G,
-"Ḩḩ",
-c,
-"Ꞷ",
-"ħ",
-"OPTIONS
--f
---force
-Force renaming or moving of a file even if the <destination> exists.
-
--k
-Skip move or rename actions which would lead to an error condition. An error happens when a source is neither existing nor controlled by Git, or when it would overwrite an existing file unless -f is given.
-
--n
---dry-run
-Do nothing; only show what would happen
-
--v
---verbose
-Report the names of files as they are moved.
-
-SUBMODULES
-Moving a submodule using a gitfile (which means they were cloned with a Git version 1.7.8 or newer) will update the gitfile and core.worktree setting to make the submodule work in the new location. It also will attempt to update the submodule.<name>.path setting in the gitmodules[5] file and stage that file (unless -n is used).
-
-BUGS
-
-CO-worker hyphen-ation 
-m-m
-m—m
-m–m",
-"«Quote in french or europe in general»",
-"!*night*",
-"/cutdetail.part",
-"/_part.cut",
-"*Asterisk*",
-"†",
-"‡",
-"¦",
-"¶",
-"§",
-"@",
-"#+1-608-386- 7876
-
-+45-63= 
--89-00
-+234-3340-593-8901",
-"H‖H",
-"©®",
-"₭",
-"VMNV
-MWMWMWMMWM"
-);
 axes = (
 {
 name = "Element Shape";
@@ -136,9 +74,15 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
 }
@@ -161,8 +105,6 @@ feature onum;
 feature case;
 feature zero;
 feature fwid;
-feature ss01;
-feature ss05;
 ";
 tag = aalt;
 },
@@ -183,28 +125,64 @@ code = "lookup ccmp_DFLT_1 {
 	sub macroncomb acutecomb by macroncomb_acutecomb;
 	sub macroncomb gravecomb by macroncomb_gravecomb;
 } ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
 code = "script latn;
-language ROM;
+language AZE;
 lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
-} locl_latn_0;
+} locl_latn_1;
 language MOL;
-lookup locl_latn_0;
+lookup locl_latn_1;
 
 script latn;
 language CAT;
-lookup locl_latn_1 {
+lookup locl_latn_2 {
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl_latn_1;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
 ";
 tag = locl;
 },
@@ -388,19 +366,6 @@ automatic = 1;
 code = "sub hyphen by hyphen.full;
 ";
 tag = fwid;
-},
-{
-automatic = 1;
-code = "sub ampersand by ampersand.ss01;
-";
-tag = ss01;
-},
-{
-automatic = 1;
-code = "sub braceleft by braceleft.ss05;
-sub braceright by braceright.ss05;
-";
-tag = ss05;
 }
 );
 fontMaster = (
@@ -42400,8 +42365,9 @@ width = 588;
 unicode = 437;
 },
 {
+export = 0;
 glyphname = Nacute.001;
-lastChange = "2024-01-10 22:05:30 +0000";
+lastChange = "2024-01-12 15:32:21 +0000";
 layers = (
 {
 layerId = m01;
@@ -42459,8 +42425,9 @@ width = 696;
 );
 },
 {
+export = 0;
 glyphname = Germandbls.ss01;
-lastChange = "2024-01-10 09:24:47 +0000";
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 anchors = (
@@ -42522,8 +42489,9 @@ width = 708;
 },
 {
 color = 0;
+export = 0;
 glyphname = "Upsilon-latin.ss01";
-lastChange = "2024-01-10 09:01:18 +0000";
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -42607,8 +42575,9 @@ width = 600;
 );
 },
 {
+export = 0;
 glyphname = J.ss02;
-lastChange = "2024-01-10 21:32:52 +0000";
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -52963,7 +52932,7 @@ unicode = 95;
 },
 {
 glyphname = hyphen.full;
-lastChange = "2024-01-10 09:01:12 +0000";
+lastChange = "2024-01-12 15:32:52 +0000";
 layers = (
 {
 layerId = m01;
@@ -52972,7 +52941,7 @@ shapes = (
 ref = hyphen;
 }
 );
-width = 279;
+width = 379;
 }
 );
 metricLeft = H;
@@ -53199,8 +53168,9 @@ width = 350;
 unicode = 12297;
 },
 {
+export = 0;
 glyphname = braceleft.ss05;
-lastChange = "2024-01-10 09:01:12 +0000";
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 background = {
@@ -53294,8 +53264,9 @@ width = 479;
 );
 },
 {
+export = 0;
 glyphname = braceright.ss05;
-lastChange = "2024-01-10 09:01:12 +0000";
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -55136,7 +55107,9 @@ unicode = 8470;
 },
 {
 color = 11;
+export = 0;
 glyphname = ampersand.ss01;
+lastChange = "2024-01-12 15:31:57 +0000";
 layers = (
 {
 background = {
