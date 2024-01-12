@@ -64,6 +64,11 @@ ELSH = {
 {
 name = "Variable Font Origin";
 value = m01;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2023-02-21 22:06:01 +0000";
