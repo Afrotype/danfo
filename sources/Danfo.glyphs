@@ -387,6 +387,10 @@ Axis = "Element Shape";
 Location = 0;
 }
 );
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 guides = (
