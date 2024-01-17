@@ -1,10 +1,12 @@
 {
-.appVersion = "3151";
+.appVersion = "3234";
 .formatVersion = 3;
 DisplayStrings = (
 "/_part.cut EḖḗ",
 "/Utildebelow.ss03",
-"⁄ ½ ⅓ ⅔¼¾"
+"⁄ ½ ⅓ ⅔¼¾",
+"Ằ",
+"/_part.cut HḨ"
 );
 axes = (
 {
@@ -560,6 +562,34 @@ Location = 0;
 },
 {
 name = typoLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 900;
+},
+{
+name = typoDescender;
+value = -100;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 100;
+},
+{
+name = hheaAscender;
+value = 900;
+},
+{
+name = hheaDescender;
+value = -100;
+},
+{
+name = hheaLineGap;
 value = 0;
 }
 );
@@ -1180,9 +1210,14 @@ unicode = 7862;
 },
 {
 glyphname = Abrevegrave;
-lastChange = "2024-01-10 20:05:44 +0000";
+lastChange = "2024-01-17 14:15:04 +0000";
 layers = (
 {
+guides = (
+{
+pos = (238,990);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -73885,12 +73920,6 @@ width = 652;
 );
 instances = (
 {
-axesValues = (
-0
-);
-instanceInterpolations = {
-m01 = 1;
-};
 name = Regular;
 type = variable;
 },
