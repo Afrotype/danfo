@@ -34,12 +34,6 @@ fontbakery version: 0.10.8
 
 * 🔥 **FAIL** The following glyphs have no contours even though they were expected to have some:
 
-	- Glyph name: onequarter	Expected: 3 or 4
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: threequarters	Expected: 3 or 4
-
 	- Glyph name: uni01C0	Expected: 1
 
 	- Glyph name: uni01C1	Expected: 2
@@ -64,25 +58,11 @@ fontbakery version: 0.10.8
 
 	- Glyph name: pi	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: uni2153	Expected: 3
-
-	- Glyph name: uni2154	Expected: 1 or 3
-
 	- Glyph name: uniA78B	Expected: 1
 
 	- Glyph name: uniA78C	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: onequarter	Expected: 3 or 4
-
 	- Glyph name: pi	Expected: 1
-
-	- Glyph name: threequarters	Expected: 3 or 4
 
 	- Glyph name: uni01C0	Expected: 1
 
@@ -1331,12 +1311,12 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, old-permic, coptic, canadian-aboriginal, tai-le, math, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, old-permic, canadian-aboriginal, syriac, math, tifinagh, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -1352,13 +1332,13 @@ The following glyphs do not have the recommended number of contours:
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, caucasian-albanian, cherokee, tifinagh
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, syriac, gothic, cherokee, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -1391,8 +1371,8 @@ The following glyphs do not have the recommended number of contours:
  * U+212E ESTIMATED SYMBOL: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
- * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
+ * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
  * U+2194 LEFT RIGHT ARROW: try adding one of: emoji, symbols, math
  * U+2195 UP DOWN ARROW: try adding one of: emoji, symbols, math
  * U+2196 NORTH WEST ARROW: try adding one of: emoji, symbols, math
@@ -1416,31 +1396,31 @@ The following glyphs do not have the recommended number of contours:
  * U+25AA BLACK SMALL SQUARE: try adding one of: emoji, symbols
  * U+25AB WHITE SMALL SQUARE: try adding one of: emoji, symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: symbols, math
+ * U+25CA LOZENGE: try adding one of: math, symbols
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding chinese-simplified
 
@@ -1473,7 +1453,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -1497,7 +1477,7 @@ Width = 339:
 notequal
 
 Width = 287:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
@@ -1658,6 +1638,8 @@ greaterequal, lessequal
 
 	* one (U+0031): L<<397.0,716.0>--<398.0,495.0>>
 
+	* onequarter (U+00BC): L<<298.0,0.0>--<59.0,-1.0>>
+
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
 	* percent (U+0025): L<<481.0,722.0>--<599.0,721.0>>
@@ -1689,6 +1671,8 @@ greaterequal, lessequal
 	* thorn (U+00FE): L<<331.0,-1.0>--<29.0,0.0>>
 
 	* thorn (U+00FE): L<<484.0,368.0>--<266.0,369.0>>
+
+	* threequarters (U+00BE): L<<298.0,0.0>--<59.0,-1.0>>
 
 	* triagdn (U+25BC): L<<29.0,731.0>--<733.0,728.0>>
 
@@ -1939,12 +1923,6 @@ greaterequal, lessequal
 
 * 🔥 **FAIL** The following glyphs have no contours even though they were expected to have some:
 
-	- Glyph name: onequarter	Expected: 3 or 4
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: threequarters	Expected: 3 or 4
-
 	- Glyph name: uni01C0	Expected: 1
 
 	- Glyph name: uni01C1	Expected: 2
@@ -1969,25 +1947,11 @@ greaterequal, lessequal
 
 	- Glyph name: pi	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: uni2153	Expected: 3
-
-	- Glyph name: uni2154	Expected: 1 or 3
-
 	- Glyph name: uniA78B	Expected: 1
 
 	- Glyph name: uniA78C	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: onequarter	Expected: 3 or 4
-
 	- Glyph name: pi	Expected: 1
-
-	- Glyph name: threequarters	Expected: 3 or 4
 
 	- Glyph name: uni01C0	Expected: 1
 
@@ -3236,12 +3200,12 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, old-permic, coptic, canadian-aboriginal, tai-le, math, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, old-permic, canadian-aboriginal, syriac, math, tifinagh, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -3257,13 +3221,13 @@ The following glyphs do not have the recommended number of contours:
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, caucasian-albanian, cherokee, tifinagh
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, syriac, gothic, cherokee, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -3296,8 +3260,8 @@ The following glyphs do not have the recommended number of contours:
  * U+212E ESTIMATED SYMBOL: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
- * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
+ * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
  * U+2194 LEFT RIGHT ARROW: try adding one of: emoji, symbols, math
  * U+2195 UP DOWN ARROW: try adding one of: emoji, symbols, math
  * U+2196 NORTH WEST ARROW: try adding one of: emoji, symbols, math
@@ -3321,31 +3285,31 @@ The following glyphs do not have the recommended number of contours:
  * U+25AA BLACK SMALL SQUARE: try adding one of: emoji, symbols
  * U+25AB WHITE SMALL SQUARE: try adding one of: emoji, symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: symbols, math
+ * U+25CA LOZENGE: try adding one of: math, symbols
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding chinese-simplified
 
@@ -3378,7 +3342,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -3402,7 +3366,7 @@ Width = 339:
 notequal
 
 Width = 287:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
@@ -3563,6 +3527,8 @@ greaterequal, lessequal
 
 	* one (U+0031): L<<397.0,716.0>--<398.0,495.0>>
 
+	* onequarter (U+00BC): L<<298.0,0.0>--<59.0,-1.0>>
+
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
 	* percent (U+0025): L<<481.0,722.0>--<599.0,721.0>>
@@ -3594,6 +3560,8 @@ greaterequal, lessequal
 	* thorn (U+00FE): L<<331.0,-1.0>--<29.0,0.0>>
 
 	* thorn (U+00FE): L<<484.0,368.0>--<266.0,369.0>>
+
+	* threequarters (U+00BE): L<<298.0,0.0>--<59.0,-1.0>>
 
 	* triagdn (U+25BC): L<<29.0,731.0>--<733.0,728.0>>
 
@@ -3844,12 +3812,6 @@ greaterequal, lessequal
 
 * 🔥 **FAIL** The following glyphs have no contours even though they were expected to have some:
 
-	- Glyph name: onequarter	Expected: 3 or 4
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: threequarters	Expected: 3 or 4
-
 	- Glyph name: uni01C0	Expected: 1
 
 	- Glyph name: uni01C1	Expected: 2
@@ -3874,25 +3836,11 @@ greaterequal, lessequal
 
 	- Glyph name: pi	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: uni2153	Expected: 3
-
-	- Glyph name: uni2154	Expected: 1 or 3
-
 	- Glyph name: uniA78B	Expected: 1
 
 	- Glyph name: uniA78C	Expected: 1
 
-	- Glyph name: fraction	Expected: 1
-
-	- Glyph name: onehalf	Expected: 3
-
-	- Glyph name: onequarter	Expected: 3 or 4
-
 	- Glyph name: pi	Expected: 1
-
-	- Glyph name: threequarters	Expected: 3 or 4
 
 	- Glyph name: uni01C0	Expected: 1
 
@@ -4349,12 +4297,12 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, old-permic, coptic, canadian-aboriginal, tai-le, math, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, old-permic, canadian-aboriginal, syriac, math, tifinagh, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -4370,13 +4318,13 @@ The following glyphs do not have the recommended number of contours:
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, caucasian-albanian, cherokee, tifinagh
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, syriac, gothic, cherokee, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -4409,8 +4357,8 @@ The following glyphs do not have the recommended number of contours:
  * U+212E ESTIMATED SYMBOL: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
- * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
+ * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
  * U+2194 LEFT RIGHT ARROW: try adding one of: emoji, symbols, math
  * U+2195 UP DOWN ARROW: try adding one of: emoji, symbols, math
  * U+2196 NORTH WEST ARROW: try adding one of: emoji, symbols, math
@@ -4434,31 +4382,31 @@ The following glyphs do not have the recommended number of contours:
  * U+25AA BLACK SMALL SQUARE: try adding one of: emoji, symbols
  * U+25AB WHITE SMALL SQUARE: try adding one of: emoji, symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding one of: emoji, symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: symbols, math
+ * U+25CA LOZENGE: try adding one of: math, symbols
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, phags-pa, japanese, chinese-traditional, tai-le, chinese-simplified, yi
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-simplified, japanese, phags-pa, yi, chinese-traditional, chinese-hongkong, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding chinese-simplified
 
@@ -4491,7 +4439,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -4515,7 +4463,7 @@ Width = 339:
 notequal
 
 Width = 287:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
@@ -4668,6 +4616,8 @@ greaterequal, lessequal
 
 	* one (U+0031): L<<397.0,716.0>--<398.0,495.0>>
 
+	* onequarter (U+00BC): L<<298.0,0.0>--<59.0,-1.0>>
+
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
 	* percent (U+0025): L<<481.0,722.0>--<599.0,721.0>>
@@ -4699,6 +4649,8 @@ greaterequal, lessequal
 	* thorn (U+00FE): L<<331.0,-1.0>--<29.0,0.0>>
 
 	* thorn (U+00FE): L<<484.0,368.0>--<266.0,369.0>>
+
+	* threequarters (U+00BE): L<<298.0,0.0>--<59.0,-1.0>>
 
 	* triagdn (U+25BC): L<<29.0,731.0>--<733.0,728.0>>
 
