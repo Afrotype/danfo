@@ -566,27 +566,27 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 900;
+value = 1050;
 },
 {
 name = typoDescender;
-value = -100;
+value = -250;
 },
 {
 name = winAscent;
-value = 900;
+value = 1050;
 },
 {
 name = winDescent;
-value = 100;
+value = 250;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 1050;
 },
 {
 name = hheaDescender;
-value = -100;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -673,7 +673,7 @@ iconName = Bold;
 id = m01;
 metricValues = (
 {
-pos = 900;
+pos = 1050;
 },
 {
 over = 10;
@@ -686,7 +686,7 @@ pos = 434;
 over = -10;
 },
 {
-pos = -100;
+pos = -250;
 }
 );
 name = Regular;
