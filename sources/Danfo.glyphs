@@ -498,6 +498,7 @@ sub Uogonek by Uogonek.ss03;
 sub Uring by Uring.ss03;
 sub Utilde by Utilde.ss03;
 sub Utildeacute by Utildeacute.ss03;
+sub Utildebelow by Utildebelow.ss03;
 sub g by g.ss03;
 sub gacute by gacute.ss03;
 sub gbreve by gbreve.ss03;
@@ -16913,10 +16914,6 @@ pos = (176,716);
 {
 name = topright;
 pos = (426,589);
-},
-{
-name = topright;
-pos = (426,589);
 }
 );
 associatedMasterId = m01;
@@ -16990,10 +16987,6 @@ pos = (176,537);
 {
 name = top;
 pos = (176,716);
-},
-{
-name = topright;
-pos = (426,589);
 },
 {
 name = topright;
