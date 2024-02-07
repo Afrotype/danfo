@@ -61,12 +61,12 @@ fontbakery version: 0.11.1
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, canadian-aboriginal, syriac, coptic, old-permic, tifinagh, math
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, syriac, math, tai-le, tifinagh, old-permic, malayalam, canadian-aboriginal
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -83,8 +83,8 @@ fontbakery version: 0.11.1
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, gothic, tifinagh, caucasian-albanian
+ * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, caucasian-albanian, syriac, tifinagh, cherokee
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -171,10 +171,10 @@ fontbakery version: 0.11.1
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: tai-le, chinese-traditional, yi, chinese-hongkong, phags-pa, japanese, chinese-simplified
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: tai-le, chinese-traditional, yi, chinese-hongkong, phags-pa, japanese, chinese-simplified
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: yi, phags-pa, japanese, chinese-simplified, chinese-traditional, tai-le, chinese-hongkong
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: yi, phags-pa, japanese, chinese-simplified, chinese-traditional, tai-le, chinese-hongkong
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
- * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
+ * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext`, `vietnamese` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -544,7 +544,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -568,7 +568,7 @@ Width = 339:
 notequal
 
 Width = 287:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
