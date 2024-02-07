@@ -14,16 +14,15 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAfrotype%2Fdanfobase%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAfrotype%2Fdanfobase%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Danfo is an ELSH axis variable font with three main styles at 0,50, and 100. Danfo covers all of the Google SSA character set. The three styles reflect different cut-out shapes inspired by the vinyl cut-out lettering of the public transportation buses in Lagos, Nigeria.
 
-Don't hesitate to create images!
 ![Sample Image](documentation/ELSH.gif)
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+Afrotype is Seyi Olusanya. David Udoh, and Eyiyemi Adegbite collaborated on the design and drawing work for Danfo. Danfo was produced together with Mirko Velimirović who provided technical, drawing, and font engineering assistance. 
 
 ## Building
 
