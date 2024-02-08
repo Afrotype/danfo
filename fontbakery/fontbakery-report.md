@@ -13,20 +13,7 @@ fontbakery version: 0.11.1
 | U+03C7: GREEK SMALL LETTER CHI | U+03A7: GREEK CAPITAL LETTER CHI |
 
  [code: missing-case-counterparts]
-</div></details><br></div></details><h2>All other checks</h2><details><summary><b>[12] Danfo-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Shapes languages in all GF glyphsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyphsets/shape_languages">com.google.fonts/check/glyphsets/shape_languages</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with AttributeError: 'Vharfbuzz' object has no attribute 'ttfont'
-```
-  File "/home/runner/work/danfo/danfo/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py", line 170, in _exec_check
-    results.extend(list(result))
-  File "/home/runner/work/danfo/danfo/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts.py", line 3537, in com_google_fonts_check_glyphsets_shape_languages
-    shaperglot_checker = Checker(ttFont.reader.file.name)
-  File "/home/runner/work/danfo/danfo/venv-test/lib/python3.10/site-packages/shaperglot/checker.py", line 23, in __init__
-    self.ttfont = self.vharfbuzz.ttfont
-
-``` [code: failed-check]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
+</div></details><br></div></details><h2>All other checks</h2><details><summary><b>[11] Danfo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
 * 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 288, but got 250 instead [code: descent]
@@ -51,19 +38,19 @@ fontbakery version: 0.11.1
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, math, cherokee
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, tifinagh, old-permic, tai-le, canadian-aboriginal, coptic, syriac, math
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, tai-le, coptic, syriac, canadian-aboriginal, math, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
@@ -75,7 +62,7 @@ fontbakery version: 0.11.1
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -83,8 +70,8 @@ fontbakery version: 0.11.1
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, tifinagh, gothic, syriac
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, gothic, caucasian-albanian, cherokee
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -171,8 +158,8 @@ fontbakery version: 0.11.1
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: japanese, phags-pa, chinese-hongkong, tai-le, yi, chinese-traditional, chinese-simplified
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: japanese, phags-pa, chinese-hongkong, tai-le, yi, chinese-traditional, chinese-simplified
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, yi, japanese, tai-le, chinese-hongkong, phags-pa
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, yi, japanese, tai-le, chinese-hongkong, phags-pa
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
@@ -579,8 +566,6 @@ lessequal, greaterequal
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>> -> L<<491.0,716.0>--<648.0,716.0>>
 
-	* section (U+00A7): L<<268.0,464.0>--<326.0,459.0>> -> L<<326.0,459.0>--<344.0,457.0>>
-
 	* uni019B (U+019B): L<<185.0,716.0>--<297.0,716.0>> -> L<<297.0,716.0>--<300.0,716.0>>
 
 	* uni024E (U+024E): L<<421.0,491.0>--<110.0,517.0>> -> L<<110.0,517.0>--<27.0,517.0>>
@@ -604,8 +589,6 @@ lessequal, greaterequal
 	* Ohungarumlaut (U+0150): L<<393.0,877.0>--<511.0,878.0>>
 
 	* Uhungarumlaut (U+0170): L<<423.0,877.0>--<541.0,878.0>>
-
-	* ampersand (U+0026): L<<408.0,540.0>--<676.0,538.0>>
 
 	* arrowboth (U+2194): L<<300.0,324.0>--<299.0,103.0>>
 
@@ -650,8 +633,6 @@ lessequal, greaterequal
 	* bracketleft (U+005B): L<<30.0,-125.0>--<33.0,837.0>>
 
 	* bracketright (U+005D): L<<322.0,842.0>--<319.0,-120.0>>
-
-	* florin (U+0192): L<<29.0,0.0>--<30.0,434.0>>
 
 	* hungarumlaut (U+02DD): L<<202.0,768.0>--<320.0,769.0>>
 
@@ -744,8 +725,8 @@ lessequal, greaterequal
 
 | 💔 ERROR | ☠ FATAL | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 | 0 | 2 | 10 | 127 | 7 | 113 | 0 |
-| 0% | 0% | 1% | 4% | 49% | 3% | 43% | 0% |
+| 0 | 0 | 2 | 10 | 127 | 7 | 114 | 0 |
+| 0% | 0% | 1% | 4% | 49% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
