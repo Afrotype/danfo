@@ -48,11 +48,11 @@ fontbakery version: 0.11.1
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, math, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, tai-le, coptic, syriac, canadian-aboriginal, math, malayalam
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, syriac, tai-le, tifinagh, canadian-aboriginal, math, malayalam, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
@@ -62,7 +62,7 @@ fontbakery version: 0.11.1
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -70,8 +70,8 @@ fontbakery version: 0.11.1
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, gothic, caucasian-albanian, cherokee
+ * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, cherokee, tifinagh, gothic
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -110,14 +110,14 @@ fontbakery version: 0.11.1
  * U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
- * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
- * U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols
- * U+2195 UP DOWN ARROW: try adding one of: math, symbols
- * U+2196 NORTH WEST ARROW: try adding one of: math, symbols
- * U+2197 NORTH EAST ARROW: try adding one of: math, symbols
- * U+2198 SOUTH EAST ARROW: try adding one of: math, symbols
- * U+2199 SOUTH WEST ARROW: try adding one of: math, symbols
+ * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
+ * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math
+ * U+2195 UP DOWN ARROW: try adding one of: symbols, math
+ * U+2196 NORTH WEST ARROW: try adding one of: symbols, math
+ * U+2197 NORTH EAST ARROW: try adding one of: symbols, math
+ * U+2198 SOUTH EAST ARROW: try adding one of: symbols, math
+ * U+2199 SOUTH WEST ARROW: try adding one of: symbols, math
  * U+2202 PARTIAL DIFFERENTIAL: try adding math
  * U+2205 EMPTY SET: try adding math
  * U+2206 INCREMENT: try adding math
@@ -135,33 +135,33 @@ fontbakery version: 0.11.1
  * U+25AA BLACK SMALL SQUARE: try adding symbols
  * U+25AB WHITE SMALL SQUARE: try adding symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: math, symbols
+ * U+25CA LOZENGE: try adding one of: symbols, math
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, yi, japanese, tai-le, chinese-hongkong, phags-pa
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, yi, japanese, tai-le, chinese-hongkong, phags-pa
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, tai-le, phags-pa, chinese-traditional, chinese-simplified, japanese, yi
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, tai-le, phags-pa, chinese-traditional, chinese-simplified, japanese, yi
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
- * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
+ * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext`, `vietnamese` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -555,14 +555,16 @@ Width = 339:
 notequal
 
 Width = 287:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* Euro (U+20AC): L<<231.0,550.0>--<231.0,547.0>> -> L<<231.0,547.0>--<231.0,519.0>>
+	* integral (U+222B): L<<32.0,10.0>--<32.0,209.0>> -> L<<32.0,209.0>--<33.0,339.0>>
+
+	* integral (U+222B): L<<33.0,-100.0>--<32.0,10.0>> -> L<<32.0,10.0>--<32.0,209.0>>
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>> -> L<<491.0,716.0>--<648.0,716.0>>
 
@@ -571,6 +573,10 @@ lessequal, greaterequal
 	* uni024E (U+024E): L<<421.0,491.0>--<110.0,517.0>> -> L<<110.0,517.0>--<27.0,517.0>>
 
 	* uni024F (U+024F): L<<421.0,491.0>--<110.0,517.0>> -> L<<110.0,517.0>--<27.0,517.0>>
+
+	* uni20A9 (U+20A9): L<<479.0,260.0>--<476.0,290.0>> -> L<<476.0,290.0>--<475.0,301.0>>
+
+	* uni20A9 (U+20A9): L<<484.0,209.0>--<479.0,260.0>> -> L<<479.0,260.0>--<476.0,290.0>>
 
 	* uni2C72 (U+2C72): L<<479.0,260.0>--<476.0,290.0>> -> L<<476.0,290.0>--<475.0,301.0>>
 
@@ -583,8 +589,6 @@ lessequal, greaterequal
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* Euro (U+20AC): L<<218.0,722.0>--<426.0,721.0>>
 
 	* Ohungarumlaut (U+0150): L<<393.0,877.0>--<511.0,878.0>>
 
@@ -636,6 +640,8 @@ lessequal, greaterequal
 
 	* hungarumlaut (U+02DD): L<<202.0,768.0>--<320.0,769.0>>
 
+	* integral (U+222B): L<<32.0,209.0>--<33.0,339.0>>
+
 	* ohungarumlaut (U+0151): L<<393.0,877.0>--<511.0,878.0>>
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
@@ -648,7 +654,7 @@ lessequal, greaterequal
 
 	* radical (U+221A): L<<512.0,899.0>--<636.0,898.0>>
 
-	* sterling (U+00A3): L<<564.0,589.0>--<393.0,590.0>>
+	* sterling (U+00A3): L<<564.0,0.0>--<33.0,-1.0>>
 
 	* triagdn (U+25BC): L<<29.0,731.0>--<733.0,728.0>>
 
@@ -660,19 +666,15 @@ lessequal, greaterequal
 
 	* uni20AA (U+20AA): L<<179.0,-2.0>--<29.0,-3.0>>
 
-	* uni20AA (U+20AA): L<<237.0,574.0>--<387.0,573.0>>
+	* uni20AA (U+20AA): L<<237.0,571.0>--<387.0,570.0>>
 
-	* uni20AA (U+20AA): L<<29.0,719.0>--<444.0,717.0>>
+	* uni20AA (U+20AA): L<<595.0,141.0>--<445.0,142.0>>
 
-	* uni20AA (U+20AA): L<<595.0,142.0>--<445.0,143.0>>
-
-	* uni20AA (U+20AA): L<<653.0,718.0>--<803.0,719.0>>
+	* uni20AA (U+20AA): L<<653.0,716.0>--<803.0,717.0>>
 
 	* uni20AA (U+20AA): L<<803.0,-3.0>--<388.0,-1.0>>
 
-	* uni20BA (U+20BA): L<<238.0,-1.0>--<42.0,0.0>>
-
-	* uni20BA (U+20BA): L<<42.0,0.0>--<43.0,434.0>>
+	* uni20BA (U+20BA): L<<238.0,-1.0>--<43.0,0.0>>
 
 	* uni20BC (U+20BC): L<<701.0,-2.0>--<394.0,-1.0>>
 
