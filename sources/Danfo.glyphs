@@ -12,7 +12,8 @@ T,
 "/U.ss03/Uacute.ss03/Ubar.ss03/Ubreve.ss03/Ucaron.ss03/Ucircumflex.ss03/Ucircumflexbelow.ss03/Udblgrave.ss03/Udieresis.ss03/Udieresisacute.ss03/Udieresisbelow.ss03/Udieresiscaron.ss03/Udieresisgrave.ss03/Udieresismacron.ss03/Udotbelow.ss03/Ugrave.ss03/Uhookabove.ss03/Uhorn.ss03/Uhornacute.ss03/Uhorndotbelow.ss03/Uhorngrave.ss03/Uhornhookabove.ss03/Uhorntilde.ss03/Uinvertedbreve.ss03/Umacron.ss03/Umacrondieresis.ss03/Uogonek.ss03/Uring.ss03/Utilde.ss03/Utildeacute.ss03/Utildebelow.ss03",
 "µ",
 "Ṏṏ",
-"IIƖ"
+"IIƖ",
+"₭"
 );
 axes = (
 {
@@ -80302,7 +80303,7 @@ unicode = 8372;
 },
 {
 glyphname = kip;
-lastChange = "2024-02-08 22:25:52 +0000";
+lastChange = "2024-02-09 11:00:08 +0000";
 layers = (
 {
 anchors = (
@@ -80412,15 +80413,6 @@ nodes = (
 (29,168,o),
 (29,135,c),
 (29,0,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(249,564,l),
-(249,608,o),
-(270,631,o),
-(312,631,c)
 );
 },
 {
@@ -80553,15 +80545,6 @@ nodes = (
 );
 },
 {
-closed = 0;
-nodes = (
-(249,564,l),
-(249,608,o),
-(270,631,o),
-(312,631,c)
-);
-},
-{
 closed = 1;
 nodes = (
 (668,510,l),
@@ -80688,15 +80671,6 @@ nodes = (
 (60,135,o),
 (29,135,c),
 (29,0,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(249,564,l),
-(249,608,o),
-(270,631,o),
-(312,631,c)
 );
 },
 {
