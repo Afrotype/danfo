@@ -48,9 +48,9 @@ fontbakery version: 0.11.1
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, syriac, tai-le, tifinagh, canadian-aboriginal, math, malayalam, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, old-permic, syriac, tai-le, coptic, math, tifinagh, canadian-aboriginal
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
@@ -70,8 +70,8 @@ fontbakery version: 0.11.1
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, cherokee, tifinagh, gothic
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, gothic, tifinagh, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -158,10 +158,10 @@ fontbakery version: 0.11.1
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, tai-le, phags-pa, chinese-traditional, chinese-simplified, japanese, yi
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, tai-le, phags-pa, chinese-traditional, chinese-simplified, japanese, yi
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-traditional, tai-le, yi, japanese, phags-pa, chinese-simplified, chinese-hongkong
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-traditional, tai-le, yi, japanese, phags-pa, chinese-simplified, chinese-hongkong
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
- * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
+ * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext`, `vietnamese` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -531,7 +531,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 279:
-greater, less
+less, greater
 
 Width = 326:
 equal
