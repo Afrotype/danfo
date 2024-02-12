@@ -2,8 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"01234
-56789"
+JAIL
 );
 axes = (
 {
@@ -122,9 +121,27 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_DFLT_1 {
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	@CombiningNonTopAccents = [brevebelowcomb breveinvertedbelowcomb cedillacomb circumflexbelowcomb dieresisbelowcomb dotbelowcomb lowlinecomb macronbelowcomb ogonekcomb ringbelowcomb tildebelowcomb verticallinebelowcomb dotaboverightcomb horncomb strokeshortcomb tildeoverlaycomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
 	lookupflag 0;
 	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
+	lookupflag 0;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
 	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
@@ -133,65 +150,54 @@ code = "lookup ccmp_DFLT_1 {
 	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-	sub gravecomb macroncomb by gravecomb_macroncomb;
-	sub macroncomb acutecomb by macroncomb_acutecomb;
-	sub macroncomb gravecomb by macroncomb_gravecomb;
-} ccmp_DFLT_1;
-
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
-
-lookup ccmp_latn_1 {
-	lookupflag 0;
-	sub itildebelow by i tildebelowcomb;
-} ccmp_latn_1;
+} ccmp_latn_2;
 
 script latn;
 lookup ccmp_latn_1;
+lookup ccmp_latn_2;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;
-language AZE;
-lookup locl_latn_0 {
+code = "lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
 	sub i by idotaccent;
 } locl_latn_0;
-language CRT;
-lookup locl_latn_0;
-language KAZ;
-lookup locl_latn_0;
-language TAT;
-lookup locl_latn_0;
-language TRK;
-lookup locl_latn_0;
 
-script latn;
-language ROM;
 lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
-language MOL;
-lookup locl_latn_1;
 
-script latn;
-language CAT;
 lookup locl_latn_2 {
+	script latn;
+	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_2;
 
-script latn;
-language NLD;
 lookup locl_latn_3 {
+	script latn;
+	language NLD;
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_3;
@@ -410,7 +416,8 @@ tag = ss01;
 },
 {
 automatic = 1;
-code = "sub Jacute by Jacute.ss02;
+code = "sub J by J.ss02;
+sub Jacute by Jacute.ss02;
 sub Jcircumflex by Jcircumflex.ss02;
 sub Jstroke by Jstroke.ss02;
 sub L by L.ss02;
@@ -537,7 +544,7 @@ sub utildebelow by utildebelow.ss03;
 labels = (
 {
 language = dflt;
-value = "Alt G and C";
+value = "Alt G and U";
 }
 );
 tag = ss03;
