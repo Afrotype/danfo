@@ -74,9 +74,9 @@ fontbakery version: 0.11.1
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, tifinagh, old-permic, syriac, coptic, malayalam, math
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, syriac, old-permic, canadian-aboriginal, malayalam, tai-le, coptic, math
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -88,7 +88,7 @@ fontbakery version: 0.11.1
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -97,7 +97,7 @@ fontbakery version: 0.11.1
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, gothic, caucasian-albanian, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, cherokee, syriac, gothic, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -184,8 +184,8 @@ fontbakery version: 0.11.1
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-simplified, tai-le, phags-pa, yi, chinese-hongkong, japanese, chinese-traditional
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-simplified, tai-le, phags-pa, yi, chinese-hongkong, japanese, chinese-traditional
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, japanese, chinese-hongkong, phags-pa, tai-le, yi
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-traditional, chinese-simplified, japanese, chinese-hongkong, phags-pa, tai-le, yi
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
@@ -581,7 +581,7 @@ Width = 339:
 notequal
 
 Width = 287:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
