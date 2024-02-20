@@ -2,9 +2,7 @@
 .appVersion = "3241";
 .formatVersion = 3;
 DisplayStrings = (
-"éêếệềểễẹèẻẽ",
-"ƹ",
-"ƷǮƸʒǯƹ"
+"AÁĂẮẶẰẲẴǍÂẤẬẦẨẪȀÄǞȦẠǠÀẢȂⱭĀĄÅḀȺÃÆǢBḂḄꞴƁḆɃCĆČÇḈĈĊꞳƇȻDĎḐḒĐḊḌƊḎƉÐEÉĚȨḜÊẾḘỆỀỂỄȄËĖẸÈẺȆĒḖḔĘƐƩɆẼḚƎƏƷǮƸFḞƑGǴĞǦĜĢĠƓɁḠǤHĦḪȞḨĤḦḢḤꜦꞪꞍIĲÍǏÎȈÏḮİỊÌỈȊĪĮƖƗĨḬJ/Jacute ĴꞲɈKḰǨĶḲƘḴꝀLĹȽꞭĽḼĻḶḸⱠḺⱢŁMḾṀṂƜNŃŇṊŅṄṆǸƝȠṈÑŊOȢÓƟǑÔỐỘỒỔỖȌÖȪȮȰỌÒỎƠỚỢỜỞỠŐȎŌṒṐꞶǪǬƆØǾÕṌṎȬŒPṔṖƤÞⱣQɊRŔŘŖȐṘṚṜȒṞɌⱤSŚṤŠṦŞŜȘṠṢṨẞꞨTŦŤŢṰȚȾṪṬƬṮƮUÚɄŬǓÛṶȔÜǗṲǙǛǕỤÙỦƯỨỰỪỬỮŰȖŪṺŲƱŮŨṸṴVƔṾƲṼɅWẂŴẄẆẈẀⱲXẌẊYÝŶŸẎỴỲƳỶȲɎỸZŹŽẐŻẒẔƵꞋ/C.ss01/Cacute.ss01/Ccaron.ss01/Ccedilla.ss01/Ccedillaacute.ss01/Cdotaccent.ss01/Chook.ss01/Cstroke.ss01/J.ss02/Jacute.ss02/Jcircumflex.ss02/Jstroke.ss02/L.ss02/Lacute.ss02/Lbar.ss02/Lbelt.ss02/Lcaron.ss02/Lcircumflexbelow.ss02/Lcommaaccent.ss02/Ldotbelow.ss02/Ldotbelowmacron.ss02/Ldoublebar.ss02/Lmacronbelow.ss02/Lmiddletilde.ss02/Lslash.ss02/G.ss03/Gacute.ss03/Gbreve.ss03/Gcaron.ss03/Gcommaaccent.ss03/Gdotaccent.ss03/Ghook.ss03/Gmacron.ss03/Gstroke.ss03/U.ss03/Uacute.ss03/Ubar.ss03/Ubreve.ss03/Ucaron.ss03/Ucircumflex.ss03/Ucircumflexbelow.ss03/Udblgrave.ss03/Udieresis.ss03/Udieresisacute.ss03/Udieresisbelow.ss03/Udieresiscaron.ss03/Udieresisgrave.ss03/Udieresismacron.ss03/Udotbelow.ss03/Ugrave.ss03/Uhookabove.ss03/Uhorn.ss03/Uhornacute.ss03/Uhorndotbelow.ss03/Uhorngrave.ss03/Uhornhookabove.ss03/Uhorntilde.ss03/Uinvertedbreve.ss03/Umacron.ss03/Umacrondieresis.ss03/Uogonek.ss03/Uring.ss03/Utilde.ss03/Utildeacute.ss03/Utildebelow.ss03 ɪaáăắặằẳẵǎâấậầẩẫȁäǟȧạǡàảȃɑāąåḁⱥãæǣbḃḅꞵɓʘḇƀcćčçḉĉċꭓƈȼdďḑḓđḋḍɗḏɖðeéěȩḝêếḙệềểễȅëėẹèẻȇēḗḕęɛʃɇẽḛǝəʒǯƹfḟgǵɣğǧĝģġɠʔʕɂḡǥhħḫȟḩĥḧḣḥꜧɦɥiı/idotless_ogonek íǐîȉïḯ/idotaccent ịìỉȋīįɩɨĩḭĳjȷ/jacute ǰĵʝɉkḱǩķḳĸƙḵꝁlĺƛƚɬľḽļḷḹⱡḻɫłmḿṁṃɯnńňṋņṅṇǹɲƞṉñŋoóɵǒôốộồổỗȍöȫȯȱọòỏơớợờởỡőȏōṓṑꞷǫǭɔøǿõṍṏȭȣœpṕṗƥþᵽqɋrŕřŗȑṙṛṝɾȓṟɍɽsśṥšṧşŝșṡṣṩßꞩtŧťţṱțⱦṫṭƭṯʈuúʉŭǔûṷȕüǘṳǚǜǖụùủưứựừửữűȗūṻųʊůũṹṵvṿʋṽʌwẃŵẅẇẉẁⱳxẍẋyýŷÿẏỵỳƴỷȳɏỹzźžẑżẓẕƶꞌ/c.ss01/cacute.ss01/ccaron.ss01/ccedilla.ss01/ccedillaacute.ss01/cdotaccent.ss01/chook.ss01/cstroke.ss01/j.ss02/jacute.ss02/jstroke.ss02/l.ss02/lacute.ss02/lbar.ss02/lbelt.ss02/lcaron.ss02/lcircumflexbelow.ss02/lcommaaccent.ss02/ldotbelow.ss02/ldotbelowmacron.ss02/ldoublebar.ss02/lmacronbelow.ss02/lmiddletilde.ss02/lslash.ss02/g.ss03/gacute.ss03/gbreve.ss03/gcaron.ss03/gcommaaccent.ss03/gdotaccent.ss03/ghook.ss03/gmacron.ss03/gstroke.ss03/u.ss03/uacute.ss03/ubar.ss03/ubreve.ss03/ucaron.ss03/ucircumflex.ss03/ucircumflexbelow.ss03/udblgrave.ss03/udieresis.ss03/udieresisacute.ss03/udieresisbelow.ss03/udieresiscaron.ss03/udieresisgrave.ss03/udieresismacron.ss03/udotbelow.ss03/ugrave.ss03/uhookabove.ss03/uhorn.ss03/uhornacute.ss03/uhorndotbelow.ss03/uhorngrave.ss03/uhornhookabove.ss03/uhorntilde.ss03/uinvertedbreve.ss03/umacron.ss03/umacrondieresis.ss03/uogonek.ss03/uring.ss03/utilde.ss03/utildeacute.ss03/utildebelow.ss03 ªºǂǀǁǃʰⁿʷʸλπχᶿᵘᵛᶻ0123456789/zero.zero/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ⁄½⅓⅔¼¾₁₂₃₄₅₆₇₈₉¹²³⁴⁵⁶⁷⁸⁹ /nbspace/.notdef ⟨⟩.,:;…!¡?¿·•*‖#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_－(){}[]〈〉‚„“”‘’«»‹›\"'ƒ฿/hook.part ꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥⅄+−×÷=≠><≥≤±≈¬~^∅∞∫Ω∆∏∑√µ∂%‰↑↗→↘↓↙←↖↔↕●○◦◆◇◊■□▪▫▲▶▼◀△▷▽◁▴▸▾◂▵▹▿◃᷊̈̇̀/gravecomb_macroncomb ́/acutecomb_macroncomb ̋/caroncomb.alt ̂̌̆̊̃̄/macroncomb_gravecomb/macroncomb_acutecomb ̴̵̧̨̛̣̤̥̦̩̭̮̯̰̱̲̉̍̏̐̑̒̓᷇̕͘/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ᷅᷄᷆¨˙`´˝ˆˊˇˋ˘˚˜¯¸˛ʼʻˀʹʿʾˈꞮꞸꞹ/_part.cut/hookleft.part/hookright.part/hooktop.part/rightHorn.part/cutdetail.part"
 );
 axes = (
 {
@@ -74,16 +72,6 @@ value = m01;
 name = fsType;
 value = (
 );
-},
-{
-name = "Axis Mappings";
-value = {
-ELSH = {
-0 = 0;
-50 = 50;
-100 = 100;
-};
-};
 }
 );
 date = "2023-02-21 22:06:01 +0000";
@@ -95112,7 +95100,7 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
-name = "Round Cut";
+name = Comb;
 },
 {
 axesValues = (
@@ -95121,7 +95109,7 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
-name = "Horn Cut";
+name = Claw;
 }
 );
 kerningLTR = {
@@ -95205,6 +95193,24 @@ type = descender;
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Oluseyi Olusanya, David Udoh, Eyiyemi Adegbite, Mirko Velimirović";
+}
+);
+},
+{
 key = licenses;
 values = (
 {
@@ -95216,6 +95222,10 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturerURL;
+value = "http://www.afrotype.com";
 }
 );
 settings = {
