@@ -2,7 +2,8 @@
 .appVersion = "3241";
 .formatVersion = 3;
 DisplayStrings = (
-"AÁĂẮẶẰẲẴǍÂẤẬẦẨẪȀÄǞȦẠǠÀẢȂⱭĀĄÅḀȺÃÆǢBḂḄꞴƁḆɃCĆČÇḈĈĊꞳƇȻDĎḐḒĐḊḌƊḎƉÐEÉĚȨḜÊẾḘỆỀỂỄȄËĖẸÈẺȆĒḖḔĘƐƩɆẼḚƎƏƷǮƸFḞƑGǴĞǦĜĢĠƓɁḠǤHĦḪȞḨĤḦḢḤꜦꞪꞍIĲÍǏÎȈÏḮİỊÌỈȊĪĮƖƗĨḬJ/Jacute ĴꞲɈKḰǨĶḲƘḴꝀLĹȽꞭĽḼĻḶḸⱠḺⱢŁMḾṀṂƜNŃŇṊŅṄṆǸƝȠṈÑŊOȢÓƟǑÔỐỘỒỔỖȌÖȪȮȰỌÒỎƠỚỢỜỞỠŐȎŌṒṐꞶǪǬƆØǾÕṌṎȬŒPṔṖƤÞⱣQɊRŔŘŖȐṘṚṜȒṞɌⱤSŚṤŠṦŞŜȘṠṢṨẞꞨTŦŤŢṰȚȾṪṬƬṮƮUÚɄŬǓÛṶȔÜǗṲǙǛǕỤÙỦƯỨỰỪỬỮŰȖŪṺŲƱŮŨṸṴVƔṾƲṼɅWẂŴẄẆẈẀⱲXẌẊYÝŶŸẎỴỲƳỶȲɎỸZŹŽẐŻẒẔƵꞋ/C.ss01/Cacute.ss01/Ccaron.ss01/Ccedilla.ss01/Ccedillaacute.ss01/Cdotaccent.ss01/Chook.ss01/Cstroke.ss01/J.ss02/Jacute.ss02/Jcircumflex.ss02/Jstroke.ss02/L.ss02/Lacute.ss02/Lbar.ss02/Lbelt.ss02/Lcaron.ss02/Lcircumflexbelow.ss02/Lcommaaccent.ss02/Ldotbelow.ss02/Ldotbelowmacron.ss02/Ldoublebar.ss02/Lmacronbelow.ss02/Lmiddletilde.ss02/Lslash.ss02/G.ss03/Gacute.ss03/Gbreve.ss03/Gcaron.ss03/Gcommaaccent.ss03/Gdotaccent.ss03/Ghook.ss03/Gmacron.ss03/Gstroke.ss03/U.ss03/Uacute.ss03/Ubar.ss03/Ubreve.ss03/Ucaron.ss03/Ucircumflex.ss03/Ucircumflexbelow.ss03/Udblgrave.ss03/Udieresis.ss03/Udieresisacute.ss03/Udieresisbelow.ss03/Udieresiscaron.ss03/Udieresisgrave.ss03/Udieresismacron.ss03/Udotbelow.ss03/Ugrave.ss03/Uhookabove.ss03/Uhorn.ss03/Uhornacute.ss03/Uhorndotbelow.ss03/Uhorngrave.ss03/Uhornhookabove.ss03/Uhorntilde.ss03/Uinvertedbreve.ss03/Umacron.ss03/Umacrondieresis.ss03/Uogonek.ss03/Uring.ss03/Utilde.ss03/Utildeacute.ss03/Utildebelow.ss03 ɪaáăắặằẳẵǎâấậầẩẫȁäǟȧạǡàảȃɑāąåḁⱥãæǣbḃḅꞵɓʘḇƀcćčçḉĉċꭓƈȼdďḑḓđḋḍɗḏɖðeéěȩḝêếḙệềểễȅëėẹèẻȇēḗḕęɛʃɇẽḛǝəʒǯƹfḟgǵɣğǧĝģġɠʔʕɂḡǥhħḫȟḩĥḧḣḥꜧɦɥiı/idotless_ogonek íǐîȉïḯ/idotaccent ịìỉȋīįɩɨĩḭĳjȷ/jacute ǰĵʝɉkḱǩķḳĸƙḵꝁlĺƛƚɬľḽļḷḹⱡḻɫłmḿṁṃɯnńňṋņṅṇǹɲƞṉñŋoóɵǒôốộồổỗȍöȫȯȱọòỏơớợờởỡőȏōṓṑꞷǫǭɔøǿõṍṏȭȣœpṕṗƥþᵽqɋrŕřŗȑṙṛṝɾȓṟɍɽsśṥšṧşŝșṡṣṩßꞩtŧťţṱțⱦṫṭƭṯʈuúʉŭǔûṷȕüǘṳǚǜǖụùủưứựừửữűȗūṻųʊůũṹṵvṿʋṽʌwẃŵẅẇẉẁⱳxẍẋyýŷÿẏỵỳƴỷȳɏỹzźžẑżẓẕƶꞌ/c.ss01/cacute.ss01/ccaron.ss01/ccedilla.ss01/ccedillaacute.ss01/cdotaccent.ss01/chook.ss01/cstroke.ss01/j.ss02/jacute.ss02/jstroke.ss02/l.ss02/lacute.ss02/lbar.ss02/lbelt.ss02/lcaron.ss02/lcircumflexbelow.ss02/lcommaaccent.ss02/ldotbelow.ss02/ldotbelowmacron.ss02/ldoublebar.ss02/lmacronbelow.ss02/lmiddletilde.ss02/lslash.ss02/g.ss03/gacute.ss03/gbreve.ss03/gcaron.ss03/gcommaaccent.ss03/gdotaccent.ss03/ghook.ss03/gmacron.ss03/gstroke.ss03/u.ss03/uacute.ss03/ubar.ss03/ubreve.ss03/ucaron.ss03/ucircumflex.ss03/ucircumflexbelow.ss03/udblgrave.ss03/udieresis.ss03/udieresisacute.ss03/udieresisbelow.ss03/udieresiscaron.ss03/udieresisgrave.ss03/udieresismacron.ss03/udotbelow.ss03/ugrave.ss03/uhookabove.ss03/uhorn.ss03/uhornacute.ss03/uhorndotbelow.ss03/uhorngrave.ss03/uhornhookabove.ss03/uhorntilde.ss03/uinvertedbreve.ss03/umacron.ss03/umacrondieresis.ss03/uogonek.ss03/uring.ss03/utilde.ss03/utildeacute.ss03/utildebelow.ss03 ªºǂǀǁǃʰⁿʷʸλπχᶿᵘᵛᶻ0123456789/zero.zero/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ⁄½⅓⅔¼¾₁₂₃₄₅₆₇₈₉¹²³⁴⁵⁶⁷⁸⁹ /nbspace/.notdef ⟨⟩.,:;…!¡?¿·•*‖#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_－(){}[]〈〉‚„“”‘’«»‹›\"'ƒ฿/hook.part ꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥⅄+−×÷=≠><≥≤±≈¬~^∅∞∫Ω∆∏∑√µ∂%‰↑↗→↘↓↙←↖↔↕●○◦◆◇◊■□▪▫▲▶▼◀△▷▽◁▴▸▾◂▵▹▿◃᷊̈̇̀/gravecomb_macroncomb ́/acutecomb_macroncomb ̋/caroncomb.alt ̂̌̆̊̃̄/macroncomb_gravecomb/macroncomb_acutecomb ̴̵̧̨̛̣̤̥̦̩̭̮̯̰̱̲̉̍̏̐̑̒̓᷇̕͘/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ᷅᷄᷆¨˙`´˝ˆˊˇˋ˘˚˜¯¸˛ʼʻˀʹʿʾˈꞮꞸꞹ/_part.cut/hookleft.part/hookright.part/hooktop.part/rightHorn.part/cutdetail.part"
+"AÁĂẮẶẰẲẴǍÂẤẬẦẨẪȀÄǞȦẠǠÀẢȂⱭĀĄÅḀȺÃÆǢBḂḄꞴƁḆɃCĆČÇḈĈĊꞳƇȻDĎḐḒĐḊḌƊḎƉÐEÉĚȨḜÊẾḘỆỀỂỄȄËĖẸÈẺȆĒḖḔĘƐƩɆẼḚƎƏƷǮƸFḞƑGǴĞǦĜĢĠƓɁḠǤHĦḪȞḨĤḦḢḤꜦꞪꞍIĲÍǏÎȈÏḮİỊÌỈȊĪĮƖƗĨḬJ/Jacute ĴꞲɈKḰǨĶḲƘḴꝀLĹȽꞭĽḼĻḶḸⱠḺⱢŁMḾṀṂƜNŃŇṊŅṄṆǸƝȠṈÑŊOȢÓƟǑÔỐỘỒỔỖȌÖȪȮȰỌÒỎƠỚỢỜỞỠŐȎŌṒṐꞶǪǬƆØǾÕṌṎȬŒPṔṖƤÞⱣQɊRŔŘŖȐṘṚṜȒṞɌⱤSŚṤŠṦŞŜȘṠṢṨẞꞨTŦŤŢṰȚȾṪṬƬṮƮUÚɄŬǓÛṶȔÜǗṲǙǛǕỤÙỦƯỨỰỪỬỮŰȖŪṺŲƱŮŨṸṴVƔṾƲṼɅWẂŴẄẆẈẀⱲXẌẊYÝŶŸẎỴỲƳỶȲɎỸZŹŽẐŻẒẔƵꞋ/C.ss01/Cacute.ss01/Ccaron.ss01/Ccedilla.ss01/Ccedillaacute.ss01/Cdotaccent.ss01/Chook.ss01/Cstroke.ss01/J.ss02/Jacute.ss02/Jcircumflex.ss02/Jstroke.ss02/L.ss02/Lacute.ss02/Lbar.ss02/Lbelt.ss02/Lcaron.ss02/Lcircumflexbelow.ss02/Lcommaaccent.ss02/Ldotbelow.ss02/Ldotbelowmacron.ss02/Ldoublebar.ss02/Lmacronbelow.ss02/Lmiddletilde.ss02/Lslash.ss02/G.ss03/Gacute.ss03/Gbreve.ss03/Gcaron.ss03/Gcommaaccent.ss03/Gdotaccent.ss03/Ghook.ss03/Gmacron.ss03/Gstroke.ss03/U.ss03/Uacute.ss03/Ubar.ss03/Ubreve.ss03/Ucaron.ss03/Ucircumflex.ss03/Ucircumflexbelow.ss03/Udblgrave.ss03/Udieresis.ss03/Udieresisacute.ss03/Udieresisbelow.ss03/Udieresiscaron.ss03/Udieresisgrave.ss03/Udieresismacron.ss03/Udotbelow.ss03/Ugrave.ss03/Uhookabove.ss03/Uhorn.ss03/Uhornacute.ss03/Uhorndotbelow.ss03/Uhorngrave.ss03/Uhornhookabove.ss03/Uhorntilde.ss03/Uinvertedbreve.ss03/Umacron.ss03/Umacrondieresis.ss03/Uogonek.ss03/Uring.ss03/Utilde.ss03/Utildeacute.ss03/Utildebelow.ss03 ɪaáăắặằẳẵǎâấậầẩẫȁäǟȧạǡàảȃɑāąåḁⱥãæǣbḃḅꞵɓʘḇƀcćčçḉĉċꭓƈȼdďḑḓđḋḍɗḏɖðeéěȩḝêếḙệềểễȅëėẹèẻȇēḗḕęɛʃɇẽḛǝəʒǯƹfḟgǵɣğǧĝģġɠʔʕɂḡǥhħḫȟḩĥḧḣḥꜧɦɥiı/idotless_ogonek íǐîȉïḯ/idotaccent ịìỉȋīįɩɨĩḭĳjȷ/jacute ǰĵʝɉkḱǩķḳĸƙḵꝁlĺƛƚɬľḽļḷḹⱡḻɫłmḿṁṃɯnńňṋņṅṇǹɲƞṉñŋoóɵǒôốộồổỗȍöȫȯȱọòỏơớợờởỡőȏōṓṑꞷǫǭɔøǿõṍṏȭȣœpṕṗƥþᵽqɋrŕřŗȑṙṛṝɾȓṟɍɽsśṥšṧşŝșṡṣṩßꞩtŧťţṱțⱦṫṭƭṯʈuúʉŭǔûṷȕüǘṳǚǜǖụùủưứựừửữűȗūṻųʊůũṹṵvṿʋṽʌwẃŵẅẇẉẁⱳxẍẋyýŷÿẏỵỳƴỷȳɏỹzźžẑżẓẕƶꞌ/c.ss01/cacute.ss01/ccaron.ss01/ccedilla.ss01/ccedillaacute.ss01/cdotaccent.ss01/chook.ss01/cstroke.ss01/j.ss02/jacute.ss02/jstroke.ss02/l.ss02/lacute.ss02/lbar.ss02/lbelt.ss02/lcaron.ss02/lcircumflexbelow.ss02/lcommaaccent.ss02/ldotbelow.ss02/ldotbelowmacron.ss02/ldoublebar.ss02/lmacronbelow.ss02/lmiddletilde.ss02/lslash.ss02/g.ss03/gacute.ss03/gbreve.ss03/gcaron.ss03/gcommaaccent.ss03/gdotaccent.ss03/ghook.ss03/gmacron.ss03/gstroke.ss03/u.ss03/uacute.ss03/ubar.ss03/ubreve.ss03/ucaron.ss03/ucircumflex.ss03/ucircumflexbelow.ss03/udblgrave.ss03/udieresis.ss03/udieresisacute.ss03/udieresisbelow.ss03/udieresiscaron.ss03/udieresisgrave.ss03/udieresismacron.ss03/udotbelow.ss03/ugrave.ss03/uhookabove.ss03/uhorn.ss03/uhornacute.ss03/uhorndotbelow.ss03/uhorngrave.ss03/uhornhookabove.ss03/uhorntilde.ss03/uinvertedbreve.ss03/umacron.ss03/umacrondieresis.ss03/uogonek.ss03/uring.ss03/utilde.ss03/utildeacute.ss03/utildebelow.ss03 ªºǂǀǁǃʰⁿʷʸλπχᶿᵘᵛᶻ0123456789/zero.zero/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ⁄½⅓⅔¼¾₁₂₃₄₅₆₇₈₉¹²³⁴⁵⁶⁷⁸⁹ /nbspace/.notdef ⟨⟩.,:;…!¡?¿·•*‖#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_－(){}[]〈〉‚„“”‘’«»‹›\"'ƒ฿/hook.part ꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥⅄+−×÷=≠><≥≤±≈¬~^∅∞∫Ω∆∏∑√µ∂%‰↑↗→↘↓↙←↖↔↕●○◦◆◇◊■□▪▫▲▶▼◀△▷▽◁▴▸▾◂▵▹▿◃᷊̈̇̀/gravecomb_macroncomb ́/acutecomb_macroncomb ̋/caroncomb.alt ̂̌̆̊̃̄/macroncomb_gravecomb/macroncomb_acutecomb ̴̵̧̨̛̣̤̥̦̩̭̮̯̰̱̲̉̍̏̐̑̒̓᷇̕͘/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ᷅᷄᷆¨˙`´˝ˆˊˇˋ˘˚˜¯¸˛ʼʻˀʹʿʾˈꞮꞸꞹ/_part.cut/hookleft.part/hookright.part/hooktop.part/rightHorn.part/cutdetail.part",
+"HꞮ"
 );
 axes = (
 {
@@ -94011,6 +94012,7 @@ unicode = 712;
 },
 {
 glyphname = uniA7AE;
+lastChange = "2024-02-20 16:26:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -94019,6 +94021,22 @@ shapes = (
 closed = 1;
 nodes = (
 (551,0,l),
+(551,135,ls),
+(551,168,o),
+(551,158,o),
+(551,171,cs),
+(551,172,ls),
+(551,185,o),
+(551,176,o),
+(551,209,cs),
+(551,260,ls),
+(551,293,o),
+(551,283,o),
+(551,296,cs),
+(551,297,ls),
+(551,310,o),
+(551,301,o),
+(551,334,cs),
 (551,444,l),
 (461,444,l),
 (461,422,ls),
@@ -94026,22 +94044,22 @@ nodes = (
 (444,349,o),
 (394,349,cs),
 (369,349,l),
-(369,606,l),
-(394,606,ls),
-(444,606,o),
-(461,573,o),
-(461,533,cs),
+(369,636,l),
+(394,636,ls),
+(444,636,o),
+(461,603,o),
+(461,563,cs),
 (461,511,l),
 (551,511,l),
 (551,716,l),
 (29,716,l),
 (29,511,l),
 (119,511,l),
-(119,534,ls),
-(119,574,o),
-(136,606,o),
-(186,606,cs),
-(211,606,l),
+(119,564,ls),
+(119,604,o),
+(136,636,o),
+(186,636,cs),
+(211,636,l),
 (211,349,l),
 (186,349,ls),
 (136,349,o),
@@ -94049,6 +94067,186 @@ nodes = (
 (119,421,cs),
 (119,444,l),
 (29,444,l),
+(29,334,ls),
+(29,301,o),
+(29,310,o),
+(29,297,cs),
+(29,296,ls),
+(29,283,o),
+(29,293,o),
+(29,260,cs),
+(29,209,ls),
+(29,176,o),
+(29,185,o),
+(29,172,cs),
+(29,171,ls),
+(29,158,o),
+(29,168,o),
+(29,135,cs),
+(29,0,l)
+);
+}
+);
+width = 580;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "0D9D5751-6234-4093-88F3-082F831AB2CD";
+name = "{50} Feb 20, 24 at 11:24";
+shapes = (
+{
+closed = 1;
+nodes = (
+(551,0,l),
+(551,135,l),
+(519,135,o),
+(487,139,o),
+(487,171,cs),
+(487,173,ls),
+(487,205,o),
+(519,209,o),
+(551,209,c),
+(551,260,l),
+(519,260,o),
+(487,264,o),
+(487,296,cs),
+(487,298,ls),
+(487,330,o),
+(519,334,o),
+(551,334,c),
+(551,444,l),
+(461,444,l),
+(461,422,ls),
+(461,382,o),
+(444,349,o),
+(394,349,cs),
+(369,349,l),
+(369,636,l),
+(394,636,ls),
+(444,636,o),
+(461,603,o),
+(461,563,cs),
+(461,511,l),
+(551,511,l),
+(551,716,l),
+(29,716,l),
+(29,511,l),
+(119,511,l),
+(119,564,ls),
+(119,604,o),
+(136,636,o),
+(186,636,cs),
+(211,636,l),
+(211,349,l),
+(186,349,ls),
+(136,349,o),
+(119,381,o),
+(119,421,cs),
+(119,444,l),
+(29,444,l),
+(29,334,l),
+(61,334,o),
+(93,330,o),
+(93,298,cs),
+(93,296,ls),
+(93,264,o),
+(61,260,o),
+(29,260,c),
+(29,209,l),
+(61,209,o),
+(93,205,o),
+(93,173,cs),
+(93,171,ls),
+(93,139,o),
+(61,135,o),
+(29,135,c),
+(29,0,l)
+);
+}
+);
+width = 580;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "AEE18FC4-43F7-4844-B052-FCC5B8D57D63";
+name = "Feb 20, 24 at 16:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(551,0,l),
+(551,135,l),
+(520,135,o),
+(448,160,o),
+(436,250,c),
+(439,251,l),
+(480,209,o),
+(540,209,o),
+(551,209,c),
+(551,260,l),
+(525,260,o),
+(464,279,o),
+(454,345,c),
+(457,346,l),
+(492,334,o),
+(542,334,o),
+(551,334,c),
+(551,444,l),
+(461,444,l),
+(461,422,ls),
+(461,382,o),
+(444,349,o),
+(394,349,cs),
+(369,349,l),
+(369,636,l),
+(394,636,ls),
+(444,636,o),
+(461,603,o),
+(461,563,cs),
+(461,511,l),
+(551,511,l),
+(551,716,l),
+(29,716,l),
+(29,511,l),
+(119,511,l),
+(119,564,ls),
+(119,604,o),
+(136,636,o),
+(186,636,cs),
+(211,636,l),
+(211,349,l),
+(186,349,ls),
+(136,349,o),
+(119,381,o),
+(119,421,cs),
+(119,444,l),
+(29,444,l),
+(29,334,l),
+(38,334,o),
+(88,334,o),
+(123,346,c),
+(126,345,l),
+(116,279,o),
+(55,260,o),
+(29,260,c),
+(29,209,l),
+(40,209,o),
+(100,209,o),
+(141,251,c),
+(144,250,l),
+(132,160,o),
+(60,135,o),
+(29,135,c),
 (29,0,l)
 );
 }
