@@ -3,4 +3,14 @@ sources:
 axisOrder:
   - ELSH
 familyName: Danfo
-buildVariable: true
+stat:
+  - name: Element Shape
+    tag: ELSH
+    values:
+    - name: Regular
+      value: 0
+      flags: 2
+    - name: Comb
+      value: 50
+    - name: Claw
+      value: 100
