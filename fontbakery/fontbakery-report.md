@@ -78,7 +78,7 @@ fontbakery version: 0.11.1
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 4469, but got 1050 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1068, but got 1050 instead [code: ascent]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -100,19 +100,19 @@ fontbakery version: 0.11.1
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, tifinagh, coptic
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, canadian-aboriginal, syriac, tifinagh, malayalam, coptic, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, syriac, tifinagh, old-permic, tai-le, math
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -132,8 +132,8 @@ fontbakery version: 0.11.1
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, caucasian-albanian, gothic, syriac
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, caucasian-albanian, tifinagh, gothic
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -220,8 +220,8 @@ fontbakery version: 0.11.1
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
@@ -609,7 +609,7 @@ Width = 339:
 notequal
 
 Width = 287:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
@@ -628,9 +628,9 @@ lessequal, greaterequal
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	* Ohungarumlaut (U+0150): L<<393.0,877.0>--<511.0,878.0>>
+	* Ohungarumlaut (U+0150): L<<349.0,888.0>--<467.0,889.0>>
 
-	* Uhungarumlaut (U+0170): L<<423.0,877.0>--<541.0,878.0>>
+	* Uhungarumlaut (U+0170): L<<379.0,888.0>--<497.0,889.0>>
 
 	* arrowboth (U+2194): L<<300.0,324.0>--<299.0,103.0>>
 
@@ -676,9 +676,9 @@ lessequal, greaterequal
 
 	* bracketright (U+005D): L<<322.0,842.0>--<319.0,-120.0>>
 
-	* hungarumlaut (U+02DD): L<<202.0,768.0>--<320.0,769.0>>
+	* hungarumlaut (U+02DD): L<<202.0,888.0>--<320.0,889.0>>
 
-	* ohungarumlaut (U+0151): L<<393.0,877.0>--<511.0,878.0>>
+	* ohungarumlaut (U+0151): L<<349.0,888.0>--<467.0,889.0>>
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
@@ -692,9 +692,9 @@ lessequal, greaterequal
 
 	* triagup (U+25B2): L<<733.0,141.0>--<29.0,144.0>>
 
-	* uhungarumlaut (U+0171): L<<423.0,877.0>--<541.0,878.0>>
+	* uhungarumlaut (U+0171): L<<379.0,888.0>--<497.0,889.0>>
 
-	* uni030B (U+030B): L<<202.0,768.0>--<320.0,769.0>>
+	* uni030B (U+030B): L<<202.0,888.0>--<320.0,889.0>>
 
 	* uni20AA (U+20AA): L<<179.0,-2.0>--<29.0,-3.0>>
 
@@ -798,7 +798,7 @@ lessequal, greaterequal
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 4469, but got 1050 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1068, but got 1050 instead [code: ascent]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -820,19 +820,19 @@ lessequal, greaterequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, tifinagh, coptic
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, canadian-aboriginal, syriac, tifinagh, malayalam, coptic, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, syriac, tifinagh, old-permic, tai-le, math
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -852,8 +852,8 @@ lessequal, greaterequal
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, caucasian-albanian, gothic, syriac
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, caucasian-albanian, tifinagh, gothic
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -940,8 +940,8 @@ lessequal, greaterequal
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
@@ -1329,7 +1329,7 @@ Width = 339:
 notequal
 
 Width = 287:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
@@ -1348,9 +1348,9 @@ lessequal, greaterequal
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	* Ohungarumlaut (U+0150): L<<393.0,877.0>--<511.0,878.0>>
+	* Ohungarumlaut (U+0150): L<<349.0,888.0>--<467.0,889.0>>
 
-	* Uhungarumlaut (U+0170): L<<423.0,877.0>--<541.0,878.0>>
+	* Uhungarumlaut (U+0170): L<<379.0,888.0>--<497.0,889.0>>
 
 	* arrowboth (U+2194): L<<300.0,324.0>--<299.0,103.0>>
 
@@ -1396,9 +1396,9 @@ lessequal, greaterequal
 
 	* bracketright (U+005D): L<<322.0,842.0>--<319.0,-120.0>>
 
-	* hungarumlaut (U+02DD): L<<202.0,768.0>--<320.0,769.0>>
+	* hungarumlaut (U+02DD): L<<202.0,888.0>--<320.0,889.0>>
 
-	* ohungarumlaut (U+0151): L<<393.0,877.0>--<511.0,878.0>>
+	* ohungarumlaut (U+0151): L<<349.0,888.0>--<467.0,889.0>>
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
@@ -1412,9 +1412,9 @@ lessequal, greaterequal
 
 	* triagup (U+25B2): L<<733.0,141.0>--<29.0,144.0>>
 
-	* uhungarumlaut (U+0171): L<<423.0,877.0>--<541.0,878.0>>
+	* uhungarumlaut (U+0171): L<<379.0,888.0>--<497.0,889.0>>
 
-	* uni030B (U+030B): L<<202.0,768.0>--<320.0,769.0>>
+	* uni030B (U+030B): L<<202.0,888.0>--<320.0,889.0>>
 
 	* uni20AA (U+20AA): L<<179.0,-2.0>--<29.0,-3.0>>
 
@@ -1502,7 +1502,7 @@ lessequal, greaterequal
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 4469, but got 1050 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1068, but got 1050 instead [code: ascent]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -1524,19 +1524,19 @@ lessequal, greaterequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, tifinagh, coptic
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, canadian-aboriginal, syriac, tifinagh, malayalam, coptic, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, syriac, tifinagh, old-permic, tai-le, math
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -1556,8 +1556,8 @@ lessequal, greaterequal
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, caucasian-albanian, gothic, syriac
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee
+ * U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, caucasian-albanian, tifinagh, gothic
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -1644,8 +1644,8 @@ lessequal, greaterequal
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: japanese, chinese-simplified, yi, chinese-hongkong, tai-le, phags-pa, chinese-traditional
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, chinese-traditional, japanese, yi, tai-le, chinese-hongkong
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: chinese-simplified, japanese
 
@@ -2033,7 +2033,7 @@ Width = 339:
 notequal
 
 Width = 287:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Outline Correctness Checks.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
@@ -2068,9 +2068,9 @@ lessequal, greaterequal
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	* Ohungarumlaut (U+0150): L<<393.0,877.0>--<511.0,878.0>>
+	* Ohungarumlaut (U+0150): L<<349.0,888.0>--<467.0,889.0>>
 
-	* Uhungarumlaut (U+0170): L<<423.0,877.0>--<541.0,878.0>>
+	* Uhungarumlaut (U+0170): L<<379.0,888.0>--<497.0,889.0>>
 
 	* arrowboth (U+2194): L<<300.0,324.0>--<299.0,103.0>>
 
@@ -2116,11 +2116,11 @@ lessequal, greaterequal
 
 	* bracketright (U+005D): L<<322.0,842.0>--<319.0,-120.0>>
 
-	* hungarumlaut (U+02DD): L<<202.0,768.0>--<320.0,769.0>>
+	* hungarumlaut (U+02DD): L<<202.0,888.0>--<320.0,889.0>>
 
 	* integral (U+222B): L<<32.0,209.0>--<33.0,339.0>>
 
-	* ohungarumlaut (U+0151): L<<393.0,877.0>--<511.0,878.0>>
+	* ohungarumlaut (U+0151): L<<349.0,888.0>--<467.0,889.0>>
 
 	* paragraph (U+00B6): L<<182.0,715.0>--<491.0,716.0>>
 
@@ -2134,9 +2134,9 @@ lessequal, greaterequal
 
 	* triagup (U+25B2): L<<733.0,141.0>--<29.0,144.0>>
 
-	* uhungarumlaut (U+0171): L<<423.0,877.0>--<541.0,878.0>>
+	* uhungarumlaut (U+0171): L<<379.0,888.0>--<497.0,889.0>>
 
-	* uni030B (U+030B): L<<202.0,768.0>--<320.0,769.0>>
+	* uni030B (U+030B): L<<202.0,888.0>--<320.0,889.0>>
 
 	* uni20AA (U+20AA): L<<179.0,-2.0>--<29.0,-3.0>>
 
