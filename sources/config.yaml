@@ -3,6 +3,7 @@ sources:
 axisOrder:
   - ELSH
 familyName: Danfo
+buildVariable: True
 stat:
   - name: Element Shape
     tag: ELSH
