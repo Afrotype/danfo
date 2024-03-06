@@ -1,0 +1,10 @@
+- name: Element Shape
+  tag: ELSH
+  values:
+  - flags: 2
+    name: Regular
+    value: 0
+  - name: Comb
+    value: 50
+  - name: Claw
+    value: 100

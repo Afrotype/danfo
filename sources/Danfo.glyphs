@@ -1,5 +1,5 @@
 {
-.appVersion = "3241";
+.appVersion = "3245";
 .formatVersion = 3;
 axes = (
 {
@@ -86,6 +86,7 @@ languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn NSM;
 languagesystem latn CAT;
 languagesystem latn NLD;
 ";
@@ -179,18 +180,25 @@ language MOL;
 lookup locl_latn_1;
 
 script latn;
-language CAT;
+language NSM;
 lookup locl_latn_2 {
-	sub l periodcentered' l by periodcentered.loclCAT;
-	sub L periodcentered' L by periodcentered.loclCAT.case;
+	sub Eng by Eng.loclNSM;
+	sub eng by eng.loclNSM;
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 ";
 tag = locl;
 },
@@ -2451,9 +2459,19 @@ color = 5;
 glyphname = "Alpha-latin";
 kernLeft = C;
 kernRight = H;
-lastChange = "2024-02-21 17:13:32 +0000";
+lastChange = "2024-03-06 20:43:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = top;
+pos = (328,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -2536,6 +2554,16 @@ nodes = (
 width = 655;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = top;
+pos = (328,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -2625,6 +2653,16 @@ nodes = (
 width = 655;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = top;
+pos = (328,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -9248,7 +9286,7 @@ pos = (200,0);
 ref = cedillacomb;
 },
 {
-pos = (147,0);
+pos = (163,0);
 ref = brevecomb;
 }
 );
@@ -9272,7 +9310,7 @@ pos = (200,0);
 ref = cedillacomb;
 },
 {
-pos = (147,0);
+pos = (163,0);
 ref = brevecomb;
 }
 );
@@ -9296,7 +9334,7 @@ pos = (200,0);
 ref = cedillacomb;
 },
 {
-pos = (147,0);
+pos = (163,0);
 ref = brevecomb;
 }
 );
@@ -10480,9 +10518,23 @@ color = 5;
 glyphname = Eopen;
 kernLeft = H;
 kernRight = E;
-lastChange = "2024-02-21 17:24:54 +0000";
+lastChange = "2024-03-06 20:56:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = ogonek;
+pos = (385,-6);
+},
+{
+name = top;
+pos = (302,716);
+}
+);
 background = {
 shapes = (
 {
@@ -10635,6 +10687,20 @@ nodes = (
 width = 603;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = ogonek;
+pos = (385,-6);
+},
+{
+name = top;
+pos = (302,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -10794,6 +10860,20 @@ nodes = (
 width = 603;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = ogonek;
+pos = (385,-6);
+},
+{
+name = top;
+pos = (302,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -16072,9 +16152,23 @@ color = 5;
 glyphname = Hturned;
 kernLeft = Hturned;
 kernRight = H;
-lastChange = "2024-02-21 17:24:54 +0000";
+lastChange = "2024-03-06 20:27:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (321,0);
+},
+{
+name = center;
+pos = (321,358);
+},
+{
+name = top;
+pos = (321,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -16140,6 +16234,20 @@ nodes = (
 width = 671;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (321,0);
+},
+{
+name = center;
+pos = (321,358);
+},
+{
+name = top;
+pos = (321,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -16212,6 +16320,20 @@ nodes = (
 width = 671;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (321,0);
+},
+{
+name = center;
+pos = (321,358);
+},
+{
+name = top;
+pos = (321,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -24260,9 +24382,19 @@ color = 5;
 glyphname = Eng;
 kernLeft = H;
 kernRight = H;
-lastChange = "2024-02-21 17:54:21 +0000";
+lastChange = "2024-03-06 19:30:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (345,-140);
+},
+{
+name = top;
+pos = (348,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -24347,6 +24479,16 @@ nodes = (
 width = 696;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (345,-140);
+},
+{
+name = top;
+pos = (348,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -24438,6 +24580,16 @@ nodes = (
 width = 696;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (345,-140);
+},
+{
+name = top;
+pos = (348,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -27361,9 +27513,19 @@ unicode = 7760;
 {
 color = 5;
 glyphname = "Omega-latin";
-lastChange = "2024-02-21 17:54:21 +0000";
+lastChange = "2024-03-06 21:00:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (432,2);
+},
+{
+name = top;
+pos = (432,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -27461,6 +27623,16 @@ nodes = (
 width = 864;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (432,2);
+},
+{
+name = top;
+pos = (432,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -27565,6 +27737,16 @@ nodes = (
 width = 864;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (432,2);
+},
+{
+name = top;
+pos = (432,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -27814,9 +27996,15 @@ color = 5;
 glyphname = Oopen;
 kernLeft = O;
 kernRight = O;
-lastChange = "2024-02-21 17:54:21 +0000";
+lastChange = "2024-03-06 20:56:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -27828,6 +28016,12 @@ scale = (-1,1);
 width = 616;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -27846,6 +28040,12 @@ scale = (-1,1);
 width = 616;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -41837,9 +42037,19 @@ color = 5;
 glyphname = "Upsilon-latin";
 kernLeft = U;
 kernRight = U;
-lastChange = "2024-02-21 17:54:21 +0000";
+lastChange = "2024-03-06 20:57:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (330,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
 background = {
 shapes = (
 {
@@ -41980,6 +42190,16 @@ nodes = (
 width = 660;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (330,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -42127,6 +42347,16 @@ nodes = (
 width = 660;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (330,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -44074,9 +44304,19 @@ color = 5;
 glyphname = Vturned;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-02-21 17:54:21 +0000";
+lastChange = "2024-03-06 20:59:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = top;
+pos = (350,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -44151,6 +44391,16 @@ nodes = (
 width = 700;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = top;
+pos = (350,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -44232,6 +44482,16 @@ nodes = (
 width = 680;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = top;
+pos = (350,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -50403,6 +50663,21 @@ metricRight = "=|";
 unicode = 42891;
 },
 {
+glyphname = Eng.loclNSM;
+lastChange = "2024-03-06 19:37:09 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eng;
+}
+);
+width = 696;
+}
+);
+},
+{
 color = 5;
 glyphname = C.ss01;
 lastChange = "2024-02-21 18:21:02 +0000";
@@ -50881,7 +51156,7 @@ pos = (216,0);
 ref = cedillacomb;
 },
 {
-pos = (238,0);
+pos = (270,0);
 ref = acutecomb;
 }
 );
@@ -50905,7 +51180,7 @@ pos = (216,0);
 ref = cedillacomb;
 },
 {
-pos = (238,0);
+pos = (270,0);
 ref = acutecomb;
 }
 );
@@ -50929,7 +51204,7 @@ pos = (216,0);
 ref = cedillacomb;
 },
 {
-pos = (238,0);
+pos = (270,0);
 ref = acutecomb;
 }
 );
@@ -57725,9 +58000,19 @@ width = 687;
 {
 color = 5;
 glyphname = Ismall;
-lastChange = "2024-02-21 18:21:02 +0000";
+lastChange = "2024-03-06 21:01:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (175,0);
+},
+{
+name = top;
+pos = (175,589);
+}
+);
 layerId = m01;
 name = Regular;
 shapes = (
@@ -57768,6 +58053,16 @@ nodes = (
 width = 350;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (175,0);
+},
+{
+name = top;
+pos = (175,589);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -57814,6 +58109,16 @@ nodes = (
 width = 350;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (175,0);
+},
+{
+name = top;
+pos = (175,589);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -58327,9 +58632,19 @@ color = 5;
 glyphname = "alpha-latin";
 kernLeft = C;
 kernRight = H;
-lastChange = "2024-02-21 18:21:02 +0000";
+lastChange = "2024-03-06 20:44:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = top;
+pos = (328,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -62757,9 +63072,19 @@ color = 5;
 glyphname = eng;
 kernLeft = H;
 kernRight = H;
-lastChange = "2024-02-21 18:21:02 +0000";
+lastChange = "2024-03-06 19:31:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (345,-140);
+},
+{
+name = top;
+pos = (348,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -63419,9 +63744,15 @@ color = 5;
 glyphname = oopen;
 kernLeft = O;
 kernRight = O;
-lastChange = "2024-02-21 18:21:02 +0000";
+lastChange = "2024-03-06 20:57:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -65497,9 +65828,19 @@ color = 5;
 glyphname = vturned;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-02-21 18:21:02 +0000";
+lastChange = "2024-03-06 20:58:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = top;
+pos = (350,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -66140,6 +66481,21 @@ width = 517;
 }
 );
 unicode = 42892;
+},
+{
+glyphname = eng.loclNSM;
+lastChange = "2024-03-06 21:02:22 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eng;
+}
+);
+width = 696;
+}
+);
 },
 {
 color = 5;
@@ -67681,6 +68037,38 @@ width = 406;
 }
 );
 unicode = 696;
+},
+{
+glyphname = Lambda;
+lastChange = "2024-03-06 17:16:35 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = lambda;
+}
+);
+width = 682;
+}
+);
+unicode = 923;
+},
+{
+glyphname = Chi;
+lastChange = "2024-03-06 17:17:59 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "chi-latin";
+}
+);
+width = 693;
+}
+);
+unicode = 935;
 },
 {
 glyphname = lambda;
@@ -90561,7 +90949,7 @@ width = 170;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2024-02-23 12:45:22 +0000";
+lastChange = "2024-03-06 20:25:56 +0000";
 layers = (
 {
 anchors = (
@@ -93229,7 +93617,7 @@ unicode = 806;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2024-02-21 15:56:21 +0000";
+lastChange = "2024-03-06 19:28:04 +0000";
 layers = (
 {
 anchors = (
@@ -93240,6 +93628,10 @@ pos = (106,0);
 {
 name = bottom;
 pos = (95,-209);
+},
+{
+name = top;
+pos = (114,716);
 }
 );
 layerId = m01;
@@ -93283,6 +93675,10 @@ pos = (106,0);
 {
 name = bottom;
 pos = (95,-209);
+},
+{
+name = top;
+pos = (114,716);
 }
 );
 associatedMasterId = m01;
@@ -93333,6 +93729,10 @@ pos = (106,0);
 {
 name = bottom;
 pos = (95,-209);
+},
+{
+name = top;
+pos = (114,716);
 }
 );
 associatedMasterId = m01;
@@ -93781,14 +94181,39 @@ unicode = 814;
 },
 {
 glyphname = breveinvertedbelowcomb;
+lastChange = "2024-03-06 19:40:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (131,0);
+},
+{
+name = bottom;
+pos = (131,-151);
+}
+);
 layerId = m01;
 shapes = (
 {
-pos = (-22,720);
-ref = brevecomb;
-scale = (1,-1);
+closed = 1;
+nodes = (
+(75,-151,l),
+(86,-114,o),
+(104,-98,o),
+(129,-98,cs),
+(156,-98,o),
+(174,-115,o),
+(185,-151,c),
+(252,-151,l),
+(252,-75,o),
+(203,-25,o),
+(129,-25,cs),
+(57,-25,o),
+(13,-72,o),
+(10,-151,c)
+);
 }
 );
 width = 262;
@@ -95600,9 +96025,19 @@ unicode = 712;
 },
 {
 glyphname = uniA7AE;
-lastChange = "2024-02-20 16:26:48 +0000";
+lastChange = "2024-03-06 21:00:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = top;
+pos = (290,716);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -95678,6 +96113,16 @@ nodes = (
 width = 580;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = top;
+pos = (290,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (
@@ -95760,6 +96205,16 @@ nodes = (
 width = 580;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = top;
+pos = (290,716);
+}
+);
 associatedMasterId = m01;
 attr = {
 coordinates = (

@@ -6,7 +6,8 @@ package-lock.json
 package.json
 master_ufo
 instance_ufo
-
+out
+venv-test
 # OS generated files #
 ######################
 .DS_Store
