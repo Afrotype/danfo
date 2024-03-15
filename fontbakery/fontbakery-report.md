@@ -9,128 +9,14 @@ fontbakery version: 0.11.2
 
 | Language | FAIL messages |
 | :--- | :--- |
-| dow_Latn (Doyayo) | The locl feature did not affect Eng |
-| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-| ntr_Latn (Delo) | The locl feature did not affect Eng |
-| anv_Latn (Denya) | The locl feature did not affect Eng |
-| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
-| byv_Latn (Medumba) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
+| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
+| naw_Latn (Nawuri) | The locl feature did not affect Eng |
+| mev_Latn (Mano) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| keu_Latn (Akebu) | The locl feature did not affect Eng |
-| kyf_Latn (Kouya) | The locl feature did not affect Eng |
-| ln_Latn (Lingala) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
-| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
-| bsc_Latn (Bassari) | The locl feature did not affect Eng |
-| gna_Latn (Kaansa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| meq_Latn (Merey) | The locl feature did not affect Eng |
-| tvu_Latn (Tunen) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| udu_Latn (Uduk) | Some base glyphs were missing: T͟H, t͟h |
-|  ^  | Some mark glyphs were missing: ◌͟ |
-|  ^  | Shaper produced a .notdef |
-|  ^  | Shaper didn't attach uni0331 to c |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| sig_Latn (Paasaal) | The locl feature did not affect Eng |
-| log_Latn (Logo) | The locl feature did not affect Eng |
-| bss_Latn (Akoose) | The locl feature did not affect Eng |
-| dnj_Latn_LR (Dan) | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
 |  ^  | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
@@ -156,302 +42,74 @@ fontbakery version: 0.11.2
 |  ^  | Shaper didn't attach uni0330 to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0330 |
 |  ^  | The locl feature did not affect Eng |
-| mfi_Latn (Wandala) | The locl feature did not affect Eng |
-| gvl_Latn (Gulay) | Shaper didn't attach acutecomb to uni0186 |
+| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
+| bcw_Latn (Bana) | The locl feature did not affect Eng |
+| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Omacron |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
+|  ^  | Shaper didn't attach uni0330 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
-| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
-| ewo_Latn (Ewondo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
-| ikx_Latn (Ik) | The locl feature did not affect Eng |
-| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
-| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
-| sok_Latn (Sokoro) | The locl feature did not affect Eng |
-| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
-| dop_Latn (Lukpa) | The locl feature did not affect Eng |
-| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
-| nhu_Latn (Noone) | The locl feature did not affect Eng |
-| bsq_Latn (Bassa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| gej_Latn (Gen) | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
-| mls_Latn (Masalit) | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | The locl feature did not affect Eng |
-| lns_Latn (Lamnso’) | The locl feature did not affect Eng |
-| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
-| mzw_Latn (Deg) | The locl feature did not affect Eng |
-| wo_Latn (Wolof) | The locl feature did not affect Eng |
-| lun_Latn (Lunda) | The locl feature did not affect Eng |
-| idu_Latn (Idoma) | The locl feature did not affect Eng |
-| yam_Latn (Yamba) | The locl feature did not affect Eng |
-| god_Latn (Godié) | The locl feature did not affect Eng |
-| bm_Latn (Bambara) | The locl feature did not affect Eng |
-| azo_Latn (Awing) | The locl feature did not affect Eng |
-| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
-| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
-| knp_Latn (Kwanja) | The locl feature did not affect Eng |
-| mfq_Latn (Moba) | The locl feature did not affect Eng |
-| kib_Latn (Koalib) | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| bqj_Latn (Bandial) | The locl feature did not affect Eng |
-| snf_Latn (Noon) | The locl feature did not affect Eng |
-| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
-| nnw_Latn (Southern Nuni) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
-| agq_Latn (Aghem) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0304 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| saf_Latn (Safaliba) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | The locl feature did not affect Eng |
-| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
-| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
-| tik_Latn (Tikar) | The locl feature did not affect Eng |
-| uth_Latn (ut-Hun) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
-| mge_Latn (Mango) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach uni0304 to n |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach acutecomb to uni1E1A |
 |  ^  | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0330 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach uni0304 to l |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E2C |
 |  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach uni0330 to o |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0330 to Ograve |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
-| bfo_Latn (Malba Birifor) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach uni030C to uni1EB8 |
-|  ^  | Shaper didn't attach uni030C to uni1ECA |
-|  ^  | Shaper didn't attach uni030C to uni1ECC |
-| din_Latn (Dinka) | Shaper didn't attach uni0308 to uni0186 |
-| muy_Latn (Muyang) | The locl feature did not affect Eng |
-| xuo_Latn (Kuo) | The locl feature did not affect Eng |
-| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | The locl feature did not affect Eng |
-| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
-| mgo_Latn (Metaʼ) | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
-| dua_Latn (Duala) | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bim_Latn (Bimoba) | The locl feature did not affect Eng |
-| maw_Latn (Mampruli) | The locl feature did not affect Eng |
-| lol_Latn (Mongo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+| emk_Latn (Maninkakan, Eastern) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
-| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
+|  ^  | The locl feature did not affect Eng |
 | tpm_Latn (Tampulma) | The locl feature did not affect Eng |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-| pil_Latn (Yom) | The locl feature did not affect Eng |
-| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
-| kdh_Latn (Tem) | The locl feature did not affect Eng |
-| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
-| vut_Latn (Vute) | The locl feature did not affect Eng |
-| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
+| bud_Latn (Ntcham) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to b |
+|  ^  | Shaper didn't attach acutecomb to b |
+|  ^  | Shaper didn't attach gravecomb to l |
+|  ^  | Shaper didn't attach gravecomb to b |
+|  ^  | Shaper didn't attach acutecomb to b |
+|  ^  | Shaper didn't attach gravecomb to l |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| xsm_Latn_BF (Kasem) | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0327 to uni018F |
 |  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to uni0197 |
 |  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni0228 |
@@ -473,267 +131,749 @@ fontbakery version: 0.11.2
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| bqp_Latn (Bisã) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| agq_Latn (Aghem) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| sld_Latn (Sissala) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | The locl feature did not affect Eng |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
-| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
-| mhi_Latn (Ma’di) | Shaper didn't attach tildecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECC |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni0197 |
-| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
-| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
-| yba_Latn (Yala) | Shaper didn't attach uni030D to uni0186 |
-|  ^  | Shaper didn't attach uni030D to e |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni030D to e |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to uni0186 |
-| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
-| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
-| bcw_Latn (Bana) | The locl feature did not affect Eng |
-| mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
 |  ^  | Shaper didn't attach uni0302 to uni0197 |
 |  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
-| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
-| fmp_Latn (Fe’fe’) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| lob_Latn (Lobi) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| tbz_Latn (Ditammari) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
+| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
+| nyb_Latn (Nyangbo) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
+| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
+| ann_Latn (Obolo) | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
+| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
+| lmp_Latn (Limbum) | The locl feature did not affect Eng |
+| tuz_Latn (Turka) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| hag_Latn (Hanga) | The locl feature did not affect Eng |
-| ksf_Latn (Bafia) | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
 |  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
-| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
-| xsm_Latn (Kasem) | The locl feature did not affect Eng |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
-| mnf_Latn (Mundani) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| vag_Latn (Vagla) | The locl feature did not affect Eng |
+| nnw_Latn (Southern Nuni) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni030C to uni0186 |
+| gna_Latn (Kaansa) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Itilde |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| yas_Latn (Nugunu) | The locl feature did not affect Eng |
-| gng_Latn (Ngangam) | The locl feature did not affect Eng |
 | lg_Latn (Ganda) | The locl feature did not affect Eng |
-| kus_Latn (Kusaal) | The locl feature did not affect Eng |
-| mbo_Latn (Mbo) | The locl feature did not affect Eng |
-| btt_Latn (Bete-Bendi) | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC5 to o |
+| btt_Latn (Bete-Bendi) | Shaper didn't attach uni1DC6 to e |
 |  ^  | Shaper didn't attach uni1DC5 to e |
+|  ^  | Shaper didn't attach uni1DC5 to o |
+|  ^  | Shaper didn't attach uni1DC6 to o |
 |  ^  | Shaper didn't attach uni1DC5 to e |
 |  ^  | Shaper didn't attach uni1DC6 to e |
 |  ^  | Shaper didn't attach uni1DC5 to o |
 |  ^  | Shaper didn't attach uni1DC6 to o |
-| tcd_Latn (Tafi) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| mur_Latn (Murle) | The locl feature did not affect Eng |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach acutecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Edieresis |
+|  ^  | Shaper didn't attach acutecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Idieresis |
+|  ^  | Shaper didn't attach tildecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Idieresis |
+|  ^  | Shaper didn't attach acutecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Odieresis |
+| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+|  ^  | Shaper produced a .notdef |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Iacute |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
+| box_Latn (Buamu) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
+| xon_Latn (Konkomba) | The locl feature did not affect Eng |
+| dyu_Latn (Dyula) | The locl feature did not affect Eng |
+| yo_Latn (Yoruba) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
+| grb_Latn (Grebo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
+| nus_Latn (Nuer) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
+| dje_Latn (Zarma) | The locl feature did not affect Eng |
+| mzw_Latn (Deg) | The locl feature did not affect Eng |
+| biv_Latn (Birifor, Southern) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nfu_Latn (Mfumte) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| idu_Latn (Idoma) | The locl feature did not affect Eng |
+| xuo_Latn (Kuo) | The locl feature did not affect Eng |
+| nko_Latn (Nkonya) | The locl feature did not affect Eng |
+| xsm_Latn (Kasem) | The locl feature did not affect Eng |
+| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+|  ^  | Shaper produced a .notdef |
+| wo_Latn (Wolof) | The locl feature did not affect Eng |
+| myk_Latn (Mamara Senoufo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ewo_Latn (Ewondo) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| toq_Latn (Toposa) | The locl feature did not affect Eng |
+| din_Latn (Dinka) | Shaper didn't attach uni0308 to uni0186 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
+| ig_Latn (Igbo) | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | The locl feature did not affect Eng |
+| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
+| nmz_Latn (Nawdm) | Shaper didn't attach uni0308 to g |
+|  ^  | Shaper didn't attach uni0308 to n |
+|  ^  | Shaper didn't attach uni0308 to g |
+|  ^  | Shaper didn't attach uni0308 to n |
+|  ^  | The locl feature did not affect Eng |
+| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
+| dya_Latn (Dyan) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| avn_Latn (Avatime) | The locl feature did not affect Eng |
+| bom_Latn (Berom) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| pug_Latn (Phuie) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | The locl feature did not affect Eng |
+| ee_Latn (Ewe) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| yba_Latn (Yala) | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+|  ^  | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+| bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | The locl feature did not affect Eng |
+| bfd_Latn (Bafut) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| mfq_Latn (Moba) | The locl feature did not affect Eng |
+| bum_Latn (Bulu) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| bsc_Latn (Bassari) | The locl feature did not affect Eng |
+| gde_Latn (Gude) | The locl feature did not affect Eng |
+| ach_Latn (Acoli) | The locl feature did not affect Eng |
+| bbj_Latn (Ghomala) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
+| tem_Latn (Timne) | The locl feature did not affect Eng |
+| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
+| sig_Latn (Paasaal) | The locl feature did not affect Eng |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+| ahs_Latn (Ashe) | The locl feature did not affect Eng |
+| lam_Latn (Lamba) | The locl feature did not affect Eng |
+| fod_Latn (Foodo) | The locl feature did not affect Eng |
+| bsq_Latn (Bassa) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| dow_Latn (Doyayo) | The locl feature did not affect Eng |
+| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
+| lu_Latn (Luba-Katanga) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+| mcn_Latn (Masana) | The locl feature did not affect Eng |
+| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
+| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
+| byv_Latn (Medumba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nnh_Latn (Ngiemboon) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kqp_Latn (Kimré) | The locl feature did not affect Eng |
+| bqj_Latn (Bandial) | The locl feature did not affect Eng |
+| tod_Latn (Toma) | The locl feature did not affect Eng |
+| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
+| mls_Latn (Masalit) | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | The locl feature did not affect Eng |
+| ema_Latn (Emai-Iuleha-Ora) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni1EBC |
+|  ^  | Shaper didn't attach uni0331 to Otilde |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni1EBC |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to Otilde |
+| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
+| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
+| kyf_Latn (Kouya) | The locl feature did not affect Eng |
+| nhb_Latn (Beng) | The locl feature did not affect Eng |
+| muy_Latn (Muyang) | The locl feature did not affect Eng |
+| ybb_Latn (Yemba) | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | The locl feature did not affect Eng |
+| lee_Latn (Lyélé) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to Otilde |
+|  ^  | The locl feature did not affect Eng |
+| mas_Latn (Masai) | The locl feature did not affect Eng |
+| uth_Latn (ut-Hun) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+| mfi_Latn (Wandala) | The locl feature did not affect Eng |
+| moa_Latn (Mwan) | The locl feature did not affect Eng |
+| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
+| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
+| snf_Latn (Noon) | The locl feature did not affect Eng |
+| bfa_Latn (Bari) | The locl feature did not affect Eng |
+| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
+| lig_Latn (Ligbi) | The locl feature did not affect Eng |
+| kdh_Latn (Tem) | The locl feature did not affect Eng |
+| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
+| hag_Latn (Hanga) | The locl feature did not affect Eng |
+| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
+| fan_Latn (Fang) | The locl feature did not affect Eng |
+| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
+| kyq_Latn (Kenga) | The locl feature did not affect Eng |
+| blo_Latn (Anii) | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ife_Latn (Ifè) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ahl_Latn (Igo) | The locl feature did not affect Eng |
+| mbo_Latn (Mbo) | The locl feature did not affect Eng |
+| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
+| ntr_Latn (Delo) | The locl feature did not affect Eng |
+| bza_Latn (Bandi) | The locl feature did not affect Eng |
+| nmg_Latn (Kwasio) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018E |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach uni030C to uni018E |
+|  ^  | Shaper didn't attach uni0304 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gng_Latn (Ngangam) | The locl feature did not affect Eng |
+| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
+| cou_Latn (Wamey) | The locl feature did not affect Eng |
+| ndv_Latn (Ndut) | The locl feature did not affect Eng |
+| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
+| tcd_Latn (Tafi) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
@@ -780,987 +920,161 @@ fontbakery version: 0.11.2
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| ny_Latn (Nyanja) | The locl feature did not affect Eng |
-| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
-| ahs_Latn (Ashe) | The locl feature did not affect Eng |
-| avn_Latn (Avatime) | The locl feature did not affect Eng |
-| cou_Latn (Wamey) | The locl feature did not affect Eng |
-| yo_Latn (Yoruba) | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-| blo_Latn (Anii) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ema_Latn (Emai-Iuleha-Ora) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to uni1EBC |
-|  ^  | Shaper didn't attach uni0331 to Otilde |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to uni1EBC |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to Otilde |
-| bqc_Latn (Boko) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| ndv_Latn (Ndut) | The locl feature did not affect Eng |
-| cko_Latn (Anufo) | The locl feature did not affect Eng |
-| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
-| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
-| ach_Latn (Acoli) | The locl feature did not affect Eng |
-| etx_Latn (Iten) | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-| bfa_Latn (Bari) | The locl feature did not affect Eng |
-| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
-| ahl_Latn (Igo) | The locl feature did not affect Eng |
-| lig_Latn (Ligbi) | The locl feature did not affect Eng |
-| bum_Latn (Bulu) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
-| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
-| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
-| fod_Latn (Foodo) | The locl feature did not affect Eng |
-| vai_Latn (Vai (Latin)) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| box_Latn (Buamu) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| bqv_Latn (Koro Wachi) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
-| dje_Latn (Zarma) | The locl feature did not affect Eng |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach acutecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Idieresis |
-|  ^  | Shaper didn't attach acutecomb to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Adieresis |
-|  ^  | Shaper didn't attach acutecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Idieresis |
-|  ^  | Shaper didn't attach acutecomb to Odieresis |
-|  ^  | Shaper didn't attach tildecomb to Odieresis |
-| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
-| bkm_Latn (Kom) | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| kqp_Latn (Kimré) | The locl feature did not affect Eng |
-| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
-| avu_Latn (Avokaya) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | The locl feature did not affect Eng |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni0197 |
-| nnh_Latn (Ngiemboon) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
-| bud_Latn (Ntcham) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to l |
-|  ^  | Shaper didn't attach acutecomb to b |
-|  ^  | Shaper didn't attach gravecomb to b |
-|  ^  | Shaper didn't attach gravecomb to b |
-|  ^  | Shaper didn't attach acutecomb to b |
-|  ^  | Shaper didn't attach gravecomb to l |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bib_Latn (Bissa) | The locl feature did not affect Eng |
-| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
-| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
-| dip_Latn (Dinka, Northeastern) | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
-| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
-| lee_Latn (Lyélé) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Otilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach uni030C to Otilde |
-|  ^  | The locl feature did not affect Eng |
-| lam_Latn (Lamba) | The locl feature did not affect Eng |
-| xsm_Latn_BF (Kasem) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-| cme_Latn (Cerma) | The locl feature did not affect Eng |
-| buc_Latn (Bushi) | Shaper didn't attach uni0308 to n |
-| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
-| lem_Latn (Nomaande) | The locl feature did not affect Eng |
-| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
-| acd_Latn (Gikyode) | The locl feature did not affect Eng |
-| lgg_Latn (Lugbara) | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| lok_Latn (Loko) | The locl feature did not affect Eng |
-| jgo_Latn (Ngomba) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nus_Latn (Nuer) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0331 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| vag_Latn (Vagla) | The locl feature did not affect Eng |
-| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
-| gde_Latn (Gude) | The locl feature did not affect Eng |
-| mwm_Latn (Sar) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0304 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to Omacron |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0304 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0304 to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0330 to Omacron |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
-| bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-| pug_Latn (Phuie) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | The locl feature did not affect Eng |
-| agc_Latn (Agatu) | The locl feature did not affect Eng |
-| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| rub_Latn (Gungu) | Shaper didn't attach uni032F to b |
-|  ^  | Shaper didn't attach uni032F to b |
-|  ^  | The locl feature did not affect Eng |
-| xon_Latn (Konkomba) | The locl feature did not affect Eng |
-| kst_Latn (Winyé) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-| gur_Latn (Frafra) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bbj_Latn (Ghomala) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tnr_Latn (Ménik) | The locl feature did not affect Eng |
-| ade_Latn (Adele) | The locl feature did not affect Eng |
-| ee_Latn (Ewe) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| gjn_Latn (Gonja) | The locl feature did not affect Eng |
-| mur_Latn (Murle) | The locl feature did not affect Eng |
-| neb_Latn (Toura) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-|  ^  | Shaper produced a .notdef |
-| dgi_Latn (Northern Dagara) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kia_Latn (Kim) | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | The locl feature did not affect Eng |
-| fuf_Latn (Pular) | The locl feature did not affect Eng |
-| yat_Latn (Yambeta) | The locl feature did not affect Eng |
-| mcn_Latn (Masana) | The locl feature did not affect Eng |
-| kzr_Latn (Karang) | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
-| bax_Latn (Bamun, Latin) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bav_Latn (Vengo) | The locl feature did not affect Eng |
-| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
-| kkj_Latn (Kako) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ife_Latn (Ifè) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| awc_Latn (Cicipu) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach uni0302 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni0302 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach uni0302 to Otilde |
-| dnj_Latn (Dan) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper didn't attach acutecomb to uni019C |
-|  ^  | Shaper produced a .notdef |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| mua_Latn (Mundang) | The locl feature did not affect Eng |
-| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
-| lmp_Latn (Limbum) | The locl feature did not affect Eng |
-| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
-| kmy_Latn (Koma) | The locl feature did not affect Eng |
-| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper produced a .notdef |
-| kss_Latn (Southern Kisi) | Shaper didn't attach uni030D to e |
-|  ^  | Shaper didn't attach uni1DC4 to e |
-|  ^  | Shaper didn't attach uni1DC5 to e |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni1DC4 to o |
-|  ^  | Shaper didn't attach uni1DC5 to o |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to uni0186 |
-|  ^  | Shaper didn't attach uni1DC4 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC5 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
 | ken_Latn (Kenyang) | The locl feature did not affect Eng |
-| srr_Latn (Serer) | The locl feature did not affect Eng |
-| myk_Latn (Mamara Senoufo) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| saf_Latn (Safaliba) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | The locl feature did not affect Eng |
+| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
+| bqp_Latn (Bisã) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| emk_Latn (Maninkakan, Eastern) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
+| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
+| ddn_Latn (Dendi) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| tod_Latn (Toma) | The locl feature did not affect Eng |
-| gaa_Latn (Ga) | The locl feature did not affect Eng |
-| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
+| bss_Latn (Akoose) | The locl feature did not affect Eng |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+| bm_Latn (Bambara) | The locl feature did not affect Eng |
+| yas_Latn (Nugunu) | The locl feature did not affect Eng |
+| cko_Latn (Anufo) | The locl feature did not affect Eng |
 | mdt_Latn (Mbere) | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| bza_Latn (Bandi) | The locl feature did not affect Eng |
-| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
-| ddn_Latn (Dendi) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kpe_Latn (Kpelle) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-| dya_Latn (Dyan) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| bom_Latn (Berom) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| fan_Latn (Fang) | The locl feature did not affect Eng |
-| dyu_Latn (Dyula) | The locl feature did not affect Eng |
-| ksp_Latn (Kabba) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
+| keu_Latn (Akebu) | The locl feature did not affect Eng |
+| etu_Latn (Ejagham) | Shaper didn't attach uni0302 to uni018F |
 |  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
 |  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-| gkp_Latn (Kpelle, Guinea) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Aogonek |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach acutecomb to Iogonek |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | The locl feature did not affect Eng |
-| bzw_Latn (Basa) | The locl feature did not affect Eng |
-| bas_Latn (Basaa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC7 to e |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to o |
-|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC7 to e |
-|  ^  | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni1DC7 to o |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tuz_Latn (Turka) | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
-| nko_Latn (Nkonya) | The locl feature did not affect Eng |
-| moa_Latn (Mwan) | The locl feature did not affect Eng |
-| ekm_Latn (Elip) | The locl feature did not affect Eng |
-| knf_Latn (Mankanya) | The locl feature did not affect Eng |
-| nhb_Latn (Beng) | The locl feature did not affect Eng |
-| nfu_Latn (Mfumte) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
 |  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| ntm_Latn (Nateni) | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ann_Latn (Obolo) | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+| cae_Latn (Lehar) | The locl feature did not affect Eng |
+| mhi_Latn (Ma’di) | Shaper didn't attach tildecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach tildecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach tildecomb to uni1ECC |
 | daa_Latn (Dangaléat) | Shaper didn't attach uni0330 to n |
 |  ^  | Shaper didn't attach uni0330 to n |
 |  ^  | The locl feature did not affect Eng |
-| kyq_Latn (Kenga) | The locl feature did not affect Eng |
-| bba_Latn (Baatonum) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| biv_Latn (Birifor, Southern) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
-| ig_Latn (Igbo) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | The locl feature did not affect Eng |
-| wwa_Latn (Waama) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| mas_Latn (Masai) | The locl feature did not affect Eng |
-| etu_Latn (Ejagham) | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0330 to uni018E |
-| cae_Latn (Lehar) | The locl feature did not affect Eng |
-| ybb_Latn (Yemba) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | The locl feature did not affect Eng |
-| nmg_Latn (Kwasio) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni030C to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+| bas_Latn (Basaa) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to o |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to e |
+|  ^  | Shaper didn't attach uni1DC7 to o |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nmz_Latn (Nawdm) | Shaper didn't attach uni0308 to n |
-|  ^  | Shaper didn't attach uni0308 to g |
-|  ^  | Shaper didn't attach uni0308 to g |
-|  ^  | Shaper didn't attach uni0308 to n |
-|  ^  | The locl feature did not affect Eng |
-| nyb_Latn (Nyangbo) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC7 to e |
+|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tem_Latn (Timne) | The locl feature did not affect Eng |
-| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
-| dag_Latn (Dagbani) | The locl feature did not affect Eng |
-| yav_Latn (Yangben) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| wan_Latn (Wan) | The locl feature did not affect Eng |
-| toq_Latn (Toposa) | The locl feature did not affect Eng |
-| gmm_Latn (Gbaya-Mbodomo) | The locl feature did not affect Eng |
-| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
-| loq_Latn (Lobala) | The locl feature did not affect Eng |
-| naw_Latn (Nawuri) | The locl feature did not affect Eng |
-| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
-| goa_Latn (Guro) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach uni1DC6 to e |
+|  ^  | Shaper didn't attach uni1DC7 to e |
+|  ^  | Shaper didn't attach uni1DC6 to o |
+|  ^  | Shaper didn't attach uni1DC7 to o |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach uni0302 to uni0186 |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
-| xed_Latn (Hdi) | The locl feature did not affect Eng |
-| sbd_Latn (Southern Samo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| kye_Latn (Krache) | The locl feature did not affect Eng |
-| bfd_Latn (Bafut) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| grb_Latn (Grebo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-| lu_Latn (Luba-Katanga) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-| ajg_Latn (Aja) | The locl feature did not affect Eng |
-| nga_Latn (Ngbaka) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| nga_Latn (Ngbaka) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to Itilde |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
 |  ^  | Shaper didn't attach acutecomb to Atilde |
@@ -1790,29 +1104,708 @@ fontbakery version: 0.11.2
 |  ^  | Shaper didn't attach uni030C to Itilde |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
+| dag_Latn (Dagbani) | The locl feature did not affect Eng |
+| anv_Latn (Denya) | The locl feature did not affect Eng |
+| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
+| wan_Latn (Wan) | The locl feature did not affect Eng |
+| ksp_Latn (Kabba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
+| xed_Latn (Hdi) | The locl feature did not affect Eng |
+| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
+| kss_Latn (Southern Kisi) | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni1DC4 to e |
+|  ^  | Shaper didn't attach uni1DC5 to e |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni1DC4 to o |
+|  ^  | Shaper didn't attach uni1DC5 to o |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+|  ^  | Shaper didn't attach uni1DC4 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC5 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| goa_Latn (Guro) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| yat_Latn (Yambeta) | The locl feature did not affect Eng |
+| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
+| acd_Latn (Gikyode) | The locl feature did not affect Eng |
+| fmp_Latn (Fe’fe’) | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kus_Latn (Kusaal) | The locl feature did not affect Eng |
+| dnj_Latn_LR (Dan) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+| bba_Latn (Baatonum) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| udu_Latn (Uduk) | Some base glyphs were missing: T͟H, t͟h |
+|  ^  | Some mark glyphs were missing: ◌͟ |
+|  ^  | Shaper didn't attach uni0331 to c |
+|  ^  | Shaper produced a .notdef |
+|  ^  | Shaper didn't attach uni0331 to c |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| vai_Latn (Vai (Latin)) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ajg_Latn (Aja) | The locl feature did not affect Eng |
+| bib_Latn (Bissa) | The locl feature did not affect Eng |
+| maw_Latn (Mampruli) | The locl feature did not affect Eng |
+| lob_Latn (Lobi) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| vut_Latn (Vute) | The locl feature did not affect Eng |
+| bfo_Latn (Malba Birifor) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+| gur_Latn (Frafra) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gvl_Latn (Gulay) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
+| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
+| tvu_Latn (Tunen) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| lns_Latn (Lamnso’) | The locl feature did not affect Eng |
+| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
+| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+| cme_Latn (Cerma) | The locl feature did not affect Eng |
+| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
+| igb_Latn (Ebira) | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+| fvr_Latn (Fur) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0331 to uni01CD |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CD |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| lok_Latn (Loko) | The locl feature did not affect Eng |
+| ksf_Latn (Bafia) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| log_Latn (Logo) | The locl feature did not affect Eng |
+| neb_Latn (Toura) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
+| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
+| dgi_Latn (Northern Dagara) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ekp_Latn (Ekpeye) | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach uni030C to uni1EB8 |
+|  ^  | Shaper didn't attach uni030C to uni1ECA |
+|  ^  | Shaper didn't attach uni030C to uni1ECC |
+| bim_Latn (Bimoba) | The locl feature did not affect Eng |
+| meq_Latn (Merey) | The locl feature did not affect Eng |
+| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
+| kye_Latn (Krache) | The locl feature did not affect Eng |
+| tnr_Latn (Ménik) | The locl feature did not affect Eng |
+| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
+| pil_Latn (Yom) | The locl feature did not affect Eng |
+| fuf_Latn (Pular) | The locl feature did not affect Eng |
+| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
+| kpe_Latn (Kpelle) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| god_Latn (Godié) | The locl feature did not affect Eng |
+| knp_Latn (Kwanja) | The locl feature did not affect Eng |
+| lol_Latn (Mongo) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| mge_Latn (Mango) | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0330 |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
+|  ^  | Shaper didn't attach uni0304 to l |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach uni0330 to Ograve |
+|  ^  | Shaper didn't attach uni0330 to Omacron |
+| kmy_Latn (Koma) | The locl feature did not affect Eng |
+| sld_Latn (Sissala) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | The locl feature did not affect Eng |
+| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
+| lem_Latn (Nomaande) | The locl feature did not affect Eng |
+| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
+| mgo_Latn (Metaʼ) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
+| bkm_Latn (Kom) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| knf_Latn (Mankanya) | The locl feature did not affect Eng |
+| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
+| bqv_Latn (Koro Wachi) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
+| ikx_Latn (Ik) | The locl feature did not affect Eng |
+| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
+| ny_Latn (Nyanja) | The locl feature did not affect Eng |
+| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
+| dua_Latn (Duala) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0330 to uni018E |
+| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
+| kib_Latn (Koalib) | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| jgo_Latn (Ngomba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gkp_Latn (Kpelle, Guinea) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Aogonek |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach acutecomb to Iogonek |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | The locl feature did not affect Eng |
+| lun_Latn (Lunda) | The locl feature did not affect Eng |
+| azo_Latn (Awing) | The locl feature did not affect Eng |
+| bzw_Latn (Basa) | The locl feature did not affect Eng |
+| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
+| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
+| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
+| sbd_Latn (Southern Samo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| lgg_Latn (Lugbara) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
+| mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| kkj_Latn (Kako) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| yav_Latn (Yangben) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
+| kia_Latn (Kim) | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | The locl feature did not affect Eng |
+| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| buc_Latn (Bushi) | Shaper didn't attach uni0308 to n |
+| agc_Latn (Agatu) | The locl feature did not affect Eng |
+| bqc_Latn (Boko) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| wwa_Latn (Waama) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gjn_Latn (Gonja) | The locl feature did not affect Eng |
+| etx_Latn (Iten) | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+| avu_Latn (Avokaya) | Shaper didn't attach tildecomb to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | The locl feature did not affect Eng |
+| srr_Latn (Serer) | The locl feature did not affect Eng |
+| nhu_Latn (Noone) | The locl feature did not affect Eng |
+| tbz_Latn (Ditammari) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| ln_Latn (Lingala) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| gej_Latn (Gen) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| awc_Latn (Cicipu) | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach uni030B to e |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach uni0302 to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni0302 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach uni0302 to Otilde |
+| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
+| bav_Latn (Vengo) | The locl feature did not affect Eng |
+| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
+| ade_Latn (Adele) | The locl feature did not affect Eng |
+| mua_Latn (Mundang) | The locl feature did not affect Eng |
+| dnj_Latn (Dan) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
+|  ^  | Shaper produced a .notdef |
+|  ^  | Shaper didn't attach uni030B to e |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| gmm_Latn (Gbaya-Mbodomo) | The locl feature did not affect Eng |
+| gaa_Latn (Ga) | The locl feature did not affect Eng |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+| yam_Latn (Yamba) | The locl feature did not affect Eng |
+| dip_Latn (Dinka, Northeastern) | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| tik_Latn (Tikar) | The locl feature did not affect Eng |
+| ekm_Latn (Elip) | The locl feature did not affect Eng |
+| sok_Latn (Sokoro) | The locl feature did not affect Eng |
+| dop_Latn (Lukpa) | The locl feature did not affect Eng |
+| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
+| kst_Latn (Winyé) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+| bax_Latn (Bamun, Latin) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| soy_Latn (Miyobe) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
+| loq_Latn (Lobala) | The locl feature did not affect Eng |
+| rub_Latn (Gungu) | Shaper didn't attach uni032F to b |
+|  ^  | Shaper didn't attach uni032F to b |
+|  ^  | The locl feature did not affect Eng |
 
  [code: failed-language-shaping]
 * ⚠ **WARN** GF_Latin_African glyphset:
 
 | Language | FAIL messages |
 | :--- | :--- |
-| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
-| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
-| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
-| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
-| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
-| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
-| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
-| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
-| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
-|  ^  | No variant glyphs were found for uni0181 |
 | gov_Latn (Goo) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
 | tod_Latn (Toma) | No variant glyphs were found for uni028B |
 |  ^  | No variant glyphs were found for uni01B2 |
+| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
+| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
+| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
+| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
+| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
+| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
+| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
+|  ^  | No variant glyphs were found for uni0181 |
 | gaa_Latn (Ga) | No variant glyphs were found for uni01A9 |
 |  ^  | No variant glyphs were found for uni01B7 |
-| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
 
  [code: warning-language-shaping]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
@@ -1850,21 +1843,21 @@ fontbakery version: 0.11.2
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, tifinagh, canadian-aboriginal, coptic, math, old-permic, tai-le, malayalam
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, coptic, math, tifinagh, malayalam, old-permic, tai-le, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
@@ -1874,7 +1867,7 @@ fontbakery version: 0.11.2
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -1882,8 +1875,8 @@ fontbakery version: 0.11.2
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, tifinagh, caucasian-albanian, gothic
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, caucasian-albanian, cherokee, gothic, syriac
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -1922,14 +1915,14 @@ fontbakery version: 0.11.2
  * U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
- * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
- * U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols
- * U+2195 UP DOWN ARROW: try adding one of: math, symbols
- * U+2196 NORTH WEST ARROW: try adding one of: math, symbols
- * U+2197 NORTH EAST ARROW: try adding one of: math, symbols
- * U+2198 SOUTH EAST ARROW: try adding one of: math, symbols
- * U+2199 SOUTH WEST ARROW: try adding one of: math, symbols
+ * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
+ * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math
+ * U+2195 UP DOWN ARROW: try adding one of: symbols, math
+ * U+2196 NORTH WEST ARROW: try adding one of: symbols, math
+ * U+2197 NORTH EAST ARROW: try adding one of: symbols, math
+ * U+2198 SOUTH EAST ARROW: try adding one of: symbols, math
+ * U+2199 SOUTH WEST ARROW: try adding one of: symbols, math
  * U+2202 PARTIAL DIFFERENTIAL: try adding math
  * U+2205 EMPTY SET: try adding math
  * U+2206 INCREMENT: try adding math
@@ -1947,31 +1940,31 @@ fontbakery version: 0.11.2
  * U+25AA BLACK SMALL SQUARE: try adding symbols
  * U+25AB WHITE SMALL SQUARE: try adding symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: math, symbols
+ * U+25CA LOZENGE: try adding one of: symbols, math
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
 
@@ -2337,7 +2330,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -2512,289 +2505,289 @@ greaterequal, lessequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| dow_Latn (Doyayo) | The locl feature did not affect Eng |
-| ntr_Latn (Delo) | The locl feature did not affect Eng |
-| anv_Latn (Denya) | The locl feature did not affect Eng |
-| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
-| byv_Latn (Medumba) | The locl feature did not affect Eng |
-| keu_Latn (Akebu) | The locl feature did not affect Eng |
-| kyf_Latn (Kouya) | The locl feature did not affect Eng |
-| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
-| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
-| bsc_Latn (Bassari) | The locl feature did not affect Eng |
+| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
+| naw_Latn (Nawuri) | The locl feature did not affect Eng |
+| mev_Latn (Mano) | The locl feature did not affect Eng |
+| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
+| bcw_Latn (Bana) | The locl feature did not affect Eng |
+| emk_Latn (Maninkakan, Eastern) | The locl feature did not affect Eng |
+| tpm_Latn (Tampulma) | The locl feature did not affect Eng |
+| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
+| bud_Latn (Ntcham) | The locl feature did not affect Eng |
+| dur_Latn (Dii) | The locl feature did not affect Eng |
+| agq_Latn (Aghem) | The locl feature did not affect Eng |
+| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
+| nyb_Latn (Nyangbo) | The locl feature did not affect Eng |
+| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
+| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
+| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
+| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
+| lmp_Latn (Limbum) | The locl feature did not affect Eng |
+| vag_Latn (Vagla) | The locl feature did not affect Eng |
+| nnw_Latn (Southern Nuni) | The locl feature did not affect Eng |
 | gna_Latn (Kaansa) | The locl feature did not affect Eng |
-| meq_Latn (Merey) | The locl feature did not affect Eng |
-| tvu_Latn (Tunen) | The locl feature did not affect Eng |
+| lg_Latn (Ganda) | The locl feature did not affect Eng |
+| mur_Latn (Murle) | The locl feature did not affect Eng |
+| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+|  ^  | Shaper produced a .notdef |
+| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
+| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
+| xon_Latn (Konkomba) | The locl feature did not affect Eng |
+| dyu_Latn (Dyula) | The locl feature did not affect Eng |
+| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
+| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
+| nus_Latn (Nuer) | The locl feature did not affect Eng |
+| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
+| dje_Latn (Zarma) | The locl feature did not affect Eng |
+| mzw_Latn (Deg) | The locl feature did not affect Eng |
+| biv_Latn (Birifor, Southern) | The locl feature did not affect Eng |
+| nfu_Latn (Mfumte) | The locl feature did not affect Eng |
+| idu_Latn (Idoma) | The locl feature did not affect Eng |
+| xuo_Latn (Kuo) | The locl feature did not affect Eng |
+| nko_Latn (Nkonya) | The locl feature did not affect Eng |
+| xsm_Latn (Kasem) | The locl feature did not affect Eng |
+| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+|  ^  | Shaper produced a .notdef |
+| wo_Latn (Wolof) | The locl feature did not affect Eng |
+| myk_Latn (Mamara Senoufo) | The locl feature did not affect Eng |
+| ewo_Latn (Ewondo) | The locl feature did not affect Eng |
+| toq_Latn (Toposa) | The locl feature did not affect Eng |
+| mnf_Latn (Mundani) | The locl feature did not affect Eng |
+| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
+| ig_Latn (Igbo) | The locl feature did not affect Eng |
+| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
+| nmz_Latn (Nawdm) | The locl feature did not affect Eng |
+| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
+| avn_Latn (Avatime) | The locl feature did not affect Eng |
+| pug_Latn (Phuie) | The locl feature did not affect Eng |
+| ee_Latn (Ewe) | The locl feature did not affect Eng |
+| mcp_Latn (Makaa) | The locl feature did not affect Eng |
+| bfd_Latn (Bafut) | The locl feature did not affect Eng |
+| mfq_Latn (Moba) | The locl feature did not affect Eng |
+| bum_Latn (Bulu) | The locl feature did not affect Eng |
+| bsc_Latn (Bassari) | The locl feature did not affect Eng |
+| gde_Latn (Gude) | The locl feature did not affect Eng |
+| ach_Latn (Acoli) | The locl feature did not affect Eng |
+| bbj_Latn (Ghomala) | The locl feature did not affect Eng |
+| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
+| tem_Latn (Timne) | The locl feature did not affect Eng |
+| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
+| sig_Latn (Paasaal) | The locl feature did not affect Eng |
+| ahs_Latn (Ashe) | The locl feature did not affect Eng |
+| lam_Latn (Lamba) | The locl feature did not affect Eng |
+| fod_Latn (Foodo) | The locl feature did not affect Eng |
+| dow_Latn (Doyayo) | The locl feature did not affect Eng |
+| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
+| mcn_Latn (Masana) | The locl feature did not affect Eng |
+| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
+| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
+| byv_Latn (Medumba) | The locl feature did not affect Eng |
+| nnh_Latn (Ngiemboon) | The locl feature did not affect Eng |
+| kqp_Latn (Kimré) | The locl feature did not affect Eng |
+| bqj_Latn (Bandial) | The locl feature did not affect Eng |
+| tod_Latn (Toma) | The locl feature did not affect Eng |
+| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
+| mls_Latn (Masalit) | The locl feature did not affect Eng |
+| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
+| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
+| kyf_Latn (Kouya) | The locl feature did not affect Eng |
+| nhb_Latn (Beng) | The locl feature did not affect Eng |
+| muy_Latn (Muyang) | The locl feature did not affect Eng |
+| ybb_Latn (Yemba) | The locl feature did not affect Eng |
+| lee_Latn (Lyélé) | The locl feature did not affect Eng |
+| mas_Latn (Masai) | The locl feature did not affect Eng |
+| mfi_Latn (Wandala) | The locl feature did not affect Eng |
+| moa_Latn (Mwan) | The locl feature did not affect Eng |
+| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
+| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
+| snf_Latn (Noon) | The locl feature did not affect Eng |
+| bfa_Latn (Bari) | The locl feature did not affect Eng |
+| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
+| lig_Latn (Ligbi) | The locl feature did not affect Eng |
+| kdh_Latn (Tem) | The locl feature did not affect Eng |
+| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
+| hag_Latn (Hanga) | The locl feature did not affect Eng |
+| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
+| fan_Latn (Fang) | The locl feature did not affect Eng |
+| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
+| kyq_Latn (Kenga) | The locl feature did not affect Eng |
+| blo_Latn (Anii) | The locl feature did not affect Eng |
+| ife_Latn (Ifè) | The locl feature did not affect Eng |
+| ahl_Latn (Igo) | The locl feature did not affect Eng |
+| mbo_Latn (Mbo) | The locl feature did not affect Eng |
+| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
+| ntr_Latn (Delo) | The locl feature did not affect Eng |
+| bza_Latn (Bandi) | The locl feature did not affect Eng |
+| nmg_Latn (Kwasio) | The locl feature did not affect Eng |
+| gng_Latn (Ngangam) | The locl feature did not affect Eng |
+| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
+| cou_Latn (Wamey) | The locl feature did not affect Eng |
+| ndv_Latn (Ndut) | The locl feature did not affect Eng |
+| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
+| tcd_Latn (Tafi) | The locl feature did not affect Eng |
+| ken_Latn (Kenyang) | The locl feature did not affect Eng |
+| saf_Latn (Safaliba) | The locl feature did not affect Eng |
+| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
+| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
+| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
+| ddn_Latn (Dendi) | The locl feature did not affect Eng |
+| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
+| pnz_Latn (Pana (Central African Republic)) | The locl feature did not affect Eng |
+| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
+| bss_Latn (Akoose) | The locl feature did not affect Eng |
+| bm_Latn (Bambara) | The locl feature did not affect Eng |
+| yas_Latn (Nugunu) | The locl feature did not affect Eng |
+| cko_Latn (Anufo) | The locl feature did not affect Eng |
+| mdt_Latn (Mbere) | The locl feature did not affect Eng |
+| keu_Latn (Akebu) | The locl feature did not affect Eng |
+| etu_Latn (Ejagham) | The locl feature did not affect Eng |
+| cae_Latn (Lehar) | The locl feature did not affect Eng |
+| daa_Latn (Dangaléat) | The locl feature did not affect Eng |
+| bas_Latn (Basaa) | The locl feature did not affect Eng |
+| dag_Latn (Dagbani) | The locl feature did not affect Eng |
+| anv_Latn (Denya) | The locl feature did not affect Eng |
+| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
+| wan_Latn (Wan) | The locl feature did not affect Eng |
+| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
+| xed_Latn (Hdi) | The locl feature did not affect Eng |
+| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
+| kss_Latn (Southern Kisi) | The locl feature did not affect Eng |
+| yat_Latn (Yambeta) | The locl feature did not affect Eng |
+| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
+| acd_Latn (Gikyode) | The locl feature did not affect Eng |
+| fmp_Latn (Fe’fe’) | The locl feature did not affect Eng |
+| kus_Latn (Kusaal) | The locl feature did not affect Eng |
 | udu_Latn (Uduk) | Some base glyphs were missing: T͟H, t͟h |
 |  ^  | Some mark glyphs were missing: ◌͟ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
 |  ^  | The locl feature did not affect Eng |
-| sig_Latn (Paasaal) | The locl feature did not affect Eng |
-| log_Latn (Logo) | The locl feature did not affect Eng |
-| bss_Latn (Akoose) | The locl feature did not affect Eng |
-| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
-| mev_Latn (Mano) | The locl feature did not affect Eng |
-| mfi_Latn (Wandala) | The locl feature did not affect Eng |
-| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
-| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
-| ewo_Latn (Ewondo) | The locl feature did not affect Eng |
-| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
-| ikx_Latn (Ik) | The locl feature did not affect Eng |
-| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
-| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
-| sok_Latn (Sokoro) | The locl feature did not affect Eng |
-| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
-| dop_Latn (Lukpa) | The locl feature did not affect Eng |
-| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
-| nhu_Latn (Noone) | The locl feature did not affect Eng |
-| gej_Latn (Gen) | The locl feature did not affect Eng |
-| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
-| mls_Latn (Masalit) | The locl feature did not affect Eng |
+| vai_Latn (Vai (Latin)) | The locl feature did not affect Eng |
+| kzr_Latn (Karang) | The locl feature did not affect Eng |
+| ajg_Latn (Aja) | The locl feature did not affect Eng |
+| bib_Latn (Bissa) | The locl feature did not affect Eng |
+| maw_Latn (Mampruli) | The locl feature did not affect Eng |
+| vut_Latn (Vute) | The locl feature did not affect Eng |
+| gur_Latn (Frafra) | The locl feature did not affect Eng |
+| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
+| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
+| tvu_Latn (Tunen) | The locl feature did not affect Eng |
 | lns_Latn (Lamnso’) | The locl feature did not affect Eng |
-| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
-| mzw_Latn (Deg) | The locl feature did not affect Eng |
-| wo_Latn (Wolof) | The locl feature did not affect Eng |
-| lun_Latn (Lunda) | The locl feature did not affect Eng |
-| idu_Latn (Idoma) | The locl feature did not affect Eng |
-| yam_Latn (Yamba) | The locl feature did not affect Eng |
+| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
+| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
+| cme_Latn (Cerma) | The locl feature did not affect Eng |
+| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
+| fvr_Latn (Fur) | The locl feature did not affect Eng |
+| lok_Latn (Loko) | The locl feature did not affect Eng |
+| ksf_Latn (Bafia) | The locl feature did not affect Eng |
+| log_Latn (Logo) | The locl feature did not affect Eng |
+| neb_Latn (Toura) | The locl feature did not affect Eng |
+| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
+| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
+| dgi_Latn (Northern Dagara) | The locl feature did not affect Eng |
+| bim_Latn (Bimoba) | The locl feature did not affect Eng |
+| meq_Latn (Merey) | The locl feature did not affect Eng |
+| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
+| kye_Latn (Krache) | The locl feature did not affect Eng |
+| tnr_Latn (Ménik) | The locl feature did not affect Eng |
+| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
+| pil_Latn (Yom) | The locl feature did not affect Eng |
+| fuf_Latn (Pular) | The locl feature did not affect Eng |
+| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
 | god_Latn (Godié) | The locl feature did not affect Eng |
-| bm_Latn (Bambara) | The locl feature did not affect Eng |
-| azo_Latn (Awing) | The locl feature did not affect Eng |
-| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
-| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
 | knp_Latn (Kwanja) | The locl feature did not affect Eng |
-| mfq_Latn (Moba) | The locl feature did not affect Eng |
+| kmy_Latn (Koma) | The locl feature did not affect Eng |
+| sld_Latn (Sissala) | The locl feature did not affect Eng |
+| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
+| lem_Latn (Nomaande) | The locl feature did not affect Eng |
+| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
+| mgo_Latn (Metaʼ) | The locl feature did not affect Eng |
+| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
+| bkm_Latn (Kom) | The locl feature did not affect Eng |
+| knf_Latn (Mankanya) | The locl feature did not affect Eng |
+| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
+| bqv_Latn (Koro Wachi) | The locl feature did not affect Eng |
+| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
+| ikx_Latn (Ik) | The locl feature did not affect Eng |
+| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
+| ny_Latn (Nyanja) | The locl feature did not affect Eng |
+| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
+| dua_Latn (Duala) | The locl feature did not affect Eng |
+| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
 | kib_Latn (Koalib) | Shaper produced a .notdef |
 |  ^  | The locl feature did not affect Eng |
-| bqj_Latn (Bandial) | The locl feature did not affect Eng |
-| snf_Latn (Noon) | The locl feature did not affect Eng |
-| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
-| nnw_Latn (Southern Nuni) | The locl feature did not affect Eng |
-| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
-| agq_Latn (Aghem) | The locl feature did not affect Eng |
-| saf_Latn (Safaliba) | The locl feature did not affect Eng |
-| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
-| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
-| tik_Latn (Tikar) | The locl feature did not affect Eng |
-| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
-| muy_Latn (Muyang) | The locl feature did not affect Eng |
-| xuo_Latn (Kuo) | The locl feature did not affect Eng |
-| mcp_Latn (Makaa) | The locl feature did not affect Eng |
-| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
-| mgo_Latn (Metaʼ) | The locl feature did not affect Eng |
-| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
-| dua_Latn (Duala) | The locl feature did not affect Eng |
-| bim_Latn (Bimoba) | The locl feature did not affect Eng |
-| maw_Latn (Mampruli) | The locl feature did not affect Eng |
-| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
-| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
-| tpm_Latn (Tampulma) | The locl feature did not affect Eng |
-| pil_Latn (Yom) | The locl feature did not affect Eng |
-| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
-| kdh_Latn (Tem) | The locl feature did not affect Eng |
-| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
-| vut_Latn (Vute) | The locl feature did not affect Eng |
-| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
-| dur_Latn (Dii) | The locl feature did not affect Eng |
-| sld_Latn (Sissala) | The locl feature did not affect Eng |
-| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
-| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
-| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
-| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
-| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
-| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
-| bcw_Latn (Bana) | The locl feature did not affect Eng |
+| jgo_Latn (Ngomba) | The locl feature did not affect Eng |
+| gkp_Latn (Kpelle, Guinea) | The locl feature did not affect Eng |
+| lun_Latn (Lunda) | The locl feature did not affect Eng |
+| azo_Latn (Awing) | The locl feature did not affect Eng |
+| bzw_Latn (Basa) | The locl feature did not affect Eng |
+| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
+| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
+| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
+| sbd_Latn (Southern Samo) | The locl feature did not affect Eng |
+| lgg_Latn (Lugbara) | The locl feature did not affect Eng |
+| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | The locl feature did not affect Eng |
-| fvr_Latn (Fur) | The locl feature did not affect Eng |
-| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
-| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
-| fmp_Latn (Fe’fe’) | The locl feature did not affect Eng |
-| hag_Latn (Hanga) | The locl feature did not affect Eng |
-| ksf_Latn (Bafia) | The locl feature did not affect Eng |
-| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
-| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
-| xsm_Latn (Kasem) | The locl feature did not affect Eng |
-| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
-| mnf_Latn (Mundani) | The locl feature did not affect Eng |
-| ozm_Latn (Koonzime) | The locl feature did not affect Eng |
-| yas_Latn (Nugunu) | The locl feature did not affect Eng |
-| gng_Latn (Ngangam) | The locl feature did not affect Eng |
-| lg_Latn (Ganda) | The locl feature did not affect Eng |
-| kus_Latn (Kusaal) | The locl feature did not affect Eng |
-| mbo_Latn (Mbo) | The locl feature did not affect Eng |
-| tcd_Latn (Tafi) | The locl feature did not affect Eng |
-| ny_Latn (Nyanja) | The locl feature did not affect Eng |
-| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
-| ahs_Latn (Ashe) | The locl feature did not affect Eng |
-| avn_Latn (Avatime) | The locl feature did not affect Eng |
-| cou_Latn (Wamey) | The locl feature did not affect Eng |
-| blo_Latn (Anii) | The locl feature did not affect Eng |
-| ndv_Latn (Ndut) | The locl feature did not affect Eng |
-| cko_Latn (Anufo) | The locl feature did not affect Eng |
-| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
-| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
-| ach_Latn (Acoli) | The locl feature did not affect Eng |
-| bfa_Latn (Bari) | The locl feature did not affect Eng |
-| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
-| ahl_Latn (Igo) | The locl feature did not affect Eng |
-| lig_Latn (Ligbi) | The locl feature did not affect Eng |
-| bum_Latn (Bulu) | The locl feature did not affect Eng |
-| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
-| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
-| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
-| fod_Latn (Foodo) | The locl feature did not affect Eng |
-| vai_Latn (Vai (Latin)) | The locl feature did not affect Eng |
-| bqv_Latn (Koro Wachi) | The locl feature did not affect Eng |
-| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
-| dje_Latn (Zarma) | The locl feature did not affect Eng |
-| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
-| bkm_Latn (Kom) | The locl feature did not affect Eng |
-| kqp_Latn (Kimré) | The locl feature did not affect Eng |
-| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
-| avu_Latn (Avokaya) | The locl feature did not affect Eng |
-| nnh_Latn (Ngiemboon) | The locl feature did not affect Eng |
-| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
-| bud_Latn (Ntcham) | The locl feature did not affect Eng |
-| bib_Latn (Bissa) | The locl feature did not affect Eng |
-| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
-| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
-| dip_Latn (Dinka, Northeastern) | The locl feature did not affect Eng |
-| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
-| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
-| lee_Latn (Lyélé) | The locl feature did not affect Eng |
-| lam_Latn (Lamba) | The locl feature did not affect Eng |
-| cme_Latn (Cerma) | The locl feature did not affect Eng |
-| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
-| lem_Latn (Nomaande) | The locl feature did not affect Eng |
-| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
-| acd_Latn (Gikyode) | The locl feature did not affect Eng |
-| lgg_Latn (Lugbara) | The locl feature did not affect Eng |
-| lok_Latn (Loko) | The locl feature did not affect Eng |
-| jgo_Latn (Ngomba) | The locl feature did not affect Eng |
-| nus_Latn (Nuer) | The locl feature did not affect Eng |
-| vag_Latn (Vagla) | The locl feature did not affect Eng |
-| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
-| gde_Latn (Gude) | The locl feature did not affect Eng |
-| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
-| pug_Latn (Phuie) | The locl feature did not affect Eng |
-| agc_Latn (Agatu) | The locl feature did not affect Eng |
-| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
-| pnz_Latn (Pana (Central African Republic)) | The locl feature did not affect Eng |
-| rub_Latn (Gungu) | The locl feature did not affect Eng |
-| xon_Latn (Konkomba) | The locl feature did not affect Eng |
-| gur_Latn (Frafra) | The locl feature did not affect Eng |
-| bbj_Latn (Ghomala) | The locl feature did not affect Eng |
-| tnr_Latn (Ménik) | The locl feature did not affect Eng |
-| ade_Latn (Adele) | The locl feature did not affect Eng |
-| ee_Latn (Ewe) | The locl feature did not affect Eng |
-| gjn_Latn (Gonja) | The locl feature did not affect Eng |
-| mur_Latn (Murle) | The locl feature did not affect Eng |
-| neb_Latn (Toura) | The locl feature did not affect Eng |
-| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-|  ^  | Shaper produced a .notdef |
-| dgi_Latn (Northern Dagara) | The locl feature did not affect Eng |
-| kia_Latn (Kim) | The locl feature did not affect Eng |
-| fuf_Latn (Pular) | The locl feature did not affect Eng |
-| yat_Latn (Yambeta) | The locl feature did not affect Eng |
-| mcn_Latn (Masana) | The locl feature did not affect Eng |
-| kzr_Latn (Karang) | The locl feature did not affect Eng |
-| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
-| bax_Latn (Bamun, Latin) | The locl feature did not affect Eng |
-| bav_Latn (Vengo) | The locl feature did not affect Eng |
-| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
 | kkj_Latn (Kako) | The locl feature did not affect Eng |
-| ife_Latn (Ifè) | The locl feature did not affect Eng |
+| yav_Latn (Yangben) | The locl feature did not affect Eng |
+| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
+| kia_Latn (Kim) | The locl feature did not affect Eng |
+| ozm_Latn (Koonzime) | The locl feature did not affect Eng |
+| agc_Latn (Agatu) | The locl feature did not affect Eng |
+| wwa_Latn (Waama) | The locl feature did not affect Eng |
+| gjn_Latn (Gonja) | The locl feature did not affect Eng |
+| avu_Latn (Avokaya) | The locl feature did not affect Eng |
+| srr_Latn (Serer) | The locl feature did not affect Eng |
+| nhu_Latn (Noone) | The locl feature did not affect Eng |
+| gej_Latn (Gen) | The locl feature did not affect Eng |
+| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
+| bav_Latn (Vengo) | The locl feature did not affect Eng |
+| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
+| ade_Latn (Adele) | The locl feature did not affect Eng |
+| mua_Latn (Mundang) | The locl feature did not affect Eng |
 | dnj_Latn (Dan) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
 |  ^  | The locl feature did not affect Eng |
-| mua_Latn (Mundang) | The locl feature did not affect Eng |
-| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
-| lmp_Latn (Limbum) | The locl feature did not affect Eng |
-| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
-| kmy_Latn (Koma) | The locl feature did not affect Eng |
-| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
-|  ^  | Shaper produced a .notdef |
-| kss_Latn (Southern Kisi) | The locl feature did not affect Eng |
-| ken_Latn (Kenyang) | The locl feature did not affect Eng |
-| srr_Latn (Serer) | The locl feature did not affect Eng |
-| myk_Latn (Mamara Senoufo) | The locl feature did not affect Eng |
-| emk_Latn (Maninkakan, Eastern) | The locl feature did not affect Eng |
-| tod_Latn (Toma) | The locl feature did not affect Eng |
-| gaa_Latn (Ga) | The locl feature did not affect Eng |
-| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
-| mdt_Latn (Mbere) | The locl feature did not affect Eng |
-| bza_Latn (Bandi) | The locl feature did not affect Eng |
-| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
-| ddn_Latn (Dendi) | The locl feature did not affect Eng |
-| fan_Latn (Fang) | The locl feature did not affect Eng |
-| dyu_Latn (Dyula) | The locl feature did not affect Eng |
-| gkp_Latn (Kpelle, Guinea) | The locl feature did not affect Eng |
-| bzw_Latn (Basa) | The locl feature did not affect Eng |
-| bas_Latn (Basaa) | The locl feature did not affect Eng |
-| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
-| nko_Latn (Nkonya) | The locl feature did not affect Eng |
-| moa_Latn (Mwan) | The locl feature did not affect Eng |
-| ekm_Latn (Elip) | The locl feature did not affect Eng |
-| knf_Latn (Mankanya) | The locl feature did not affect Eng |
-| nhb_Latn (Beng) | The locl feature did not affect Eng |
-| nfu_Latn (Mfumte) | The locl feature did not affect Eng |
-| daa_Latn (Dangaléat) | The locl feature did not affect Eng |
-| kyq_Latn (Kenga) | The locl feature did not affect Eng |
-| biv_Latn (Birifor, Southern) | The locl feature did not affect Eng |
-| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
-| ig_Latn (Igbo) | The locl feature did not affect Eng |
-| wwa_Latn (Waama) | The locl feature did not affect Eng |
-| soy_Latn (Miyobe) | The locl feature did not affect Eng |
-| mas_Latn (Masai) | The locl feature did not affect Eng |
-| etu_Latn (Ejagham) | The locl feature did not affect Eng |
-| cae_Latn (Lehar) | The locl feature did not affect Eng |
-| ybb_Latn (Yemba) | The locl feature did not affect Eng |
-| nmg_Latn (Kwasio) | The locl feature did not affect Eng |
-| nmz_Latn (Nawdm) | The locl feature did not affect Eng |
-| nyb_Latn (Nyangbo) | The locl feature did not affect Eng |
-| tem_Latn (Timne) | The locl feature did not affect Eng |
-| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
-| dag_Latn (Dagbani) | The locl feature did not affect Eng |
-| yav_Latn (Yangben) | The locl feature did not affect Eng |
-| wan_Latn (Wan) | The locl feature did not affect Eng |
-| toq_Latn (Toposa) | The locl feature did not affect Eng |
 | gmm_Latn (Gbaya-Mbodomo) | The locl feature did not affect Eng |
-| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
+| gaa_Latn (Ga) | The locl feature did not affect Eng |
+| yam_Latn (Yamba) | The locl feature did not affect Eng |
+| dip_Latn (Dinka, Northeastern) | The locl feature did not affect Eng |
+| tik_Latn (Tikar) | The locl feature did not affect Eng |
+| ekm_Latn (Elip) | The locl feature did not affect Eng |
+| sok_Latn (Sokoro) | The locl feature did not affect Eng |
+| dop_Latn (Lukpa) | The locl feature did not affect Eng |
+| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
+| bax_Latn (Bamun, Latin) | The locl feature did not affect Eng |
+| soy_Latn (Miyobe) | The locl feature did not affect Eng |
+| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
 | loq_Latn (Lobala) | The locl feature did not affect Eng |
-| naw_Latn (Nawuri) | The locl feature did not affect Eng |
-| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
-| xed_Latn (Hdi) | The locl feature did not affect Eng |
-| sbd_Latn (Southern Samo) | The locl feature did not affect Eng |
-| kye_Latn (Krache) | The locl feature did not affect Eng |
-| bfd_Latn (Bafut) | The locl feature did not affect Eng |
-| ajg_Latn (Aja) | The locl feature did not affect Eng |
+| rub_Latn (Gungu) | The locl feature did not affect Eng |
 
  [code: failed-language-shaping]
 * ⚠ **WARN** GF_Latin_African glyphset:
 
 | Language | FAIL messages |
 | :--- | :--- |
-| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
-| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
-| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
-| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
-| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
-| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
-| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
-| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
-| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
-|  ^  | No variant glyphs were found for uni0181 |
 | gov_Latn (Goo) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
 | tod_Latn (Toma) | No variant glyphs were found for uni028B |
 |  ^  | No variant glyphs were found for uni01B2 |
+| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
+| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
+| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
+| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
+| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
+| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
+| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
+|  ^  | No variant glyphs were found for uni0181 |
 | gaa_Latn (Ga) | No variant glyphs were found for uni01A9 |
 |  ^  | No variant glyphs were found for uni01B7 |
-| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
 
  [code: warning-language-shaping]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
@@ -2818,21 +2811,21 @@ greaterequal, lessequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, tifinagh, canadian-aboriginal, coptic, math, old-permic, tai-le, malayalam
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, coptic, math, tifinagh, malayalam, old-permic, tai-le, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
@@ -2842,7 +2835,7 @@ greaterequal, lessequal
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -2850,8 +2843,8 @@ greaterequal, lessequal
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, tifinagh, caucasian-albanian, gothic
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, caucasian-albanian, cherokee, gothic, syriac
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -2890,14 +2883,14 @@ greaterequal, lessequal
  * U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
- * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
- * U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols
- * U+2195 UP DOWN ARROW: try adding one of: math, symbols
- * U+2196 NORTH WEST ARROW: try adding one of: math, symbols
- * U+2197 NORTH EAST ARROW: try adding one of: math, symbols
- * U+2198 SOUTH EAST ARROW: try adding one of: math, symbols
- * U+2199 SOUTH WEST ARROW: try adding one of: math, symbols
+ * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
+ * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math
+ * U+2195 UP DOWN ARROW: try adding one of: symbols, math
+ * U+2196 NORTH WEST ARROW: try adding one of: symbols, math
+ * U+2197 NORTH EAST ARROW: try adding one of: symbols, math
+ * U+2198 SOUTH EAST ARROW: try adding one of: symbols, math
+ * U+2199 SOUTH WEST ARROW: try adding one of: symbols, math
  * U+2202 PARTIAL DIFFERENTIAL: try adding math
  * U+2205 EMPTY SET: try adding math
  * U+2206 INCREMENT: try adding math
@@ -2915,31 +2908,31 @@ greaterequal, lessequal
  * U+25AA BLACK SMALL SQUARE: try adding symbols
  * U+25AB WHITE SMALL SQUARE: try adding symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: math, symbols
+ * U+25CA LOZENGE: try adding one of: symbols, math
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
 
@@ -3305,7 +3298,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
@@ -3498,128 +3491,14 @@ greaterequal, lessequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| dow_Latn (Doyayo) | The locl feature did not affect Eng |
-| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-| ntr_Latn (Delo) | The locl feature did not affect Eng |
-| anv_Latn (Denya) | The locl feature did not affect Eng |
-| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
-| byv_Latn (Medumba) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
+| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
+| naw_Latn (Nawuri) | The locl feature did not affect Eng |
+| mev_Latn (Mano) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| keu_Latn (Akebu) | The locl feature did not affect Eng |
-| kyf_Latn (Kouya) | The locl feature did not affect Eng |
-| ln_Latn (Lingala) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
-| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
-| bsc_Latn (Bassari) | The locl feature did not affect Eng |
-| gna_Latn (Kaansa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| meq_Latn (Merey) | The locl feature did not affect Eng |
-| tvu_Latn (Tunen) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| udu_Latn (Uduk) | Some base glyphs were missing: T͟H, t͟h |
-|  ^  | Some mark glyphs were missing: ◌͟ |
-|  ^  | Shaper produced a .notdef |
-|  ^  | Shaper didn't attach uni0331 to c |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| sig_Latn (Paasaal) | The locl feature did not affect Eng |
-| log_Latn (Logo) | The locl feature did not affect Eng |
-| bss_Latn (Akoose) | The locl feature did not affect Eng |
-| dnj_Latn_LR (Dan) | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
 |  ^  | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
@@ -3645,302 +3524,74 @@ greaterequal, lessequal
 |  ^  | Shaper didn't attach uni0330 to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0330 |
 |  ^  | The locl feature did not affect Eng |
-| mfi_Latn (Wandala) | The locl feature did not affect Eng |
-| gvl_Latn (Gulay) | Shaper didn't attach acutecomb to uni0186 |
+| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
+| bcw_Latn (Bana) | The locl feature did not affect Eng |
+| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Omacron |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
+|  ^  | Shaper didn't attach uni0330 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
-| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
-| ewo_Latn (Ewondo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
-| ikx_Latn (Ik) | The locl feature did not affect Eng |
-| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
-| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
-| sok_Latn (Sokoro) | The locl feature did not affect Eng |
-| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
-| dop_Latn (Lukpa) | The locl feature did not affect Eng |
-| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
-| nhu_Latn (Noone) | The locl feature did not affect Eng |
-| bsq_Latn (Bassa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| gej_Latn (Gen) | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
-| mls_Latn (Masalit) | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | The locl feature did not affect Eng |
-| lns_Latn (Lamnso’) | The locl feature did not affect Eng |
-| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
-| mzw_Latn (Deg) | The locl feature did not affect Eng |
-| wo_Latn (Wolof) | The locl feature did not affect Eng |
-| lun_Latn (Lunda) | The locl feature did not affect Eng |
-| idu_Latn (Idoma) | The locl feature did not affect Eng |
-| yam_Latn (Yamba) | The locl feature did not affect Eng |
-| god_Latn (Godié) | The locl feature did not affect Eng |
-| bm_Latn (Bambara) | The locl feature did not affect Eng |
-| azo_Latn (Awing) | The locl feature did not affect Eng |
-| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
-| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
-| knp_Latn (Kwanja) | The locl feature did not affect Eng |
-| mfq_Latn (Moba) | The locl feature did not affect Eng |
-| kib_Latn (Koalib) | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| bqj_Latn (Bandial) | The locl feature did not affect Eng |
-| snf_Latn (Noon) | The locl feature did not affect Eng |
-| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
-| nnw_Latn (Southern Nuni) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
-| agq_Latn (Aghem) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0304 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| saf_Latn (Safaliba) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | The locl feature did not affect Eng |
-| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
-| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
-| tik_Latn (Tikar) | The locl feature did not affect Eng |
-| uth_Latn (ut-Hun) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
-| mge_Latn (Mango) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach uni0304 to n |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0330 to n |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach acutecomb to uni1E1A |
 |  ^  | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0330 |
-|  ^  | Shaper didn't attach uni0304 to uni0197 |
-|  ^  | Shaper didn't attach uni0304 to l |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E2C |
 |  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach uni0330 to o |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0330 to Ograve |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
-| bfo_Latn (Malba Birifor) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach uni030C to uni1EB8 |
-|  ^  | Shaper didn't attach uni030C to uni1ECA |
-|  ^  | Shaper didn't attach uni030C to uni1ECC |
-| din_Latn (Dinka) | Shaper didn't attach uni0308 to uni0186 |
-| muy_Latn (Muyang) | The locl feature did not affect Eng |
-| xuo_Latn (Kuo) | The locl feature did not affect Eng |
-| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | The locl feature did not affect Eng |
-| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
-| mgo_Latn (Metaʼ) | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
-| dua_Latn (Duala) | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bim_Latn (Bimoba) | The locl feature did not affect Eng |
-| maw_Latn (Mampruli) | The locl feature did not affect Eng |
-| lol_Latn (Mongo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+| emk_Latn (Maninkakan, Eastern) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
-| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
+|  ^  | The locl feature did not affect Eng |
 | tpm_Latn (Tampulma) | The locl feature did not affect Eng |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-| pil_Latn (Yom) | The locl feature did not affect Eng |
-| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
-| kdh_Latn (Tem) | The locl feature did not affect Eng |
-| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
-| vut_Latn (Vute) | The locl feature did not affect Eng |
-| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
+| bud_Latn (Ntcham) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to b |
+|  ^  | Shaper didn't attach acutecomb to b |
+|  ^  | Shaper didn't attach gravecomb to l |
+|  ^  | Shaper didn't attach gravecomb to b |
+|  ^  | Shaper didn't attach acutecomb to b |
+|  ^  | Shaper didn't attach gravecomb to l |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| xsm_Latn_BF (Kasem) | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0327 to uni018F |
 |  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to uni0197 |
 |  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni0228 |
@@ -3962,267 +3613,749 @@ greaterequal, lessequal
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| bqp_Latn (Bisã) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| agq_Latn (Aghem) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| sld_Latn (Sissala) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | The locl feature did not affect Eng |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to uni1ECC |
-| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
-| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
-| mhi_Latn (Ma’di) | Shaper didn't attach tildecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECC |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni0197 |
-| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
-| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
-| yba_Latn (Yala) | Shaper didn't attach uni030D to uni0186 |
-|  ^  | Shaper didn't attach uni030D to e |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni030D to e |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to uni0186 |
-| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
-| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
-| bcw_Latn (Bana) | The locl feature did not affect Eng |
-| mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
 |  ^  | Shaper didn't attach uni0302 to uni0197 |
 |  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
-| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
-| fmp_Latn (Fe’fe’) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| lob_Latn (Lobi) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| tbz_Latn (Ditammari) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
+| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
+| nyb_Latn (Nyangbo) | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
+| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
+| ann_Latn (Obolo) | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+| khq_Latn (Koyra Chiini) | The locl feature did not affect Eng |
+| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
+| lmp_Latn (Limbum) | The locl feature did not affect Eng |
+| tuz_Latn (Turka) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| hag_Latn (Hanga) | The locl feature did not affect Eng |
-| ksf_Latn (Bafia) | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
 |  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
-| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
-| xsm_Latn (Kasem) | The locl feature did not affect Eng |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
-| mnf_Latn (Mundani) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| vag_Latn (Vagla) | The locl feature did not affect Eng |
+| nnw_Latn (Southern Nuni) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach gravecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to uni0197 |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D1 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni030C to uni0186 |
+| gna_Latn (Kaansa) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Itilde |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| yas_Latn (Nugunu) | The locl feature did not affect Eng |
-| gng_Latn (Ngangam) | The locl feature did not affect Eng |
 | lg_Latn (Ganda) | The locl feature did not affect Eng |
-| kus_Latn (Kusaal) | The locl feature did not affect Eng |
-| mbo_Latn (Mbo) | The locl feature did not affect Eng |
-| btt_Latn (Bete-Bendi) | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC5 to o |
+| btt_Latn (Bete-Bendi) | Shaper didn't attach uni1DC6 to e |
 |  ^  | Shaper didn't attach uni1DC5 to e |
+|  ^  | Shaper didn't attach uni1DC5 to o |
+|  ^  | Shaper didn't attach uni1DC6 to o |
 |  ^  | Shaper didn't attach uni1DC5 to e |
 |  ^  | Shaper didn't attach uni1DC6 to e |
 |  ^  | Shaper didn't attach uni1DC5 to o |
 |  ^  | Shaper didn't attach uni1DC6 to o |
-| tcd_Latn (Tafi) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| mur_Latn (Murle) | The locl feature did not affect Eng |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach acutecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Edieresis |
+|  ^  | Shaper didn't attach acutecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Idieresis |
+|  ^  | Shaper didn't attach tildecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Edieresis |
+|  ^  | Shaper didn't attach tildecomb to Idieresis |
+|  ^  | Shaper didn't attach acutecomb to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to Odieresis |
+| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+|  ^  | Shaper produced a .notdef |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Iacute |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
+| box_Latn (Buamu) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
+| xon_Latn (Konkomba) | The locl feature did not affect Eng |
+| dyu_Latn (Dyula) | The locl feature did not affect Eng |
+| yo_Latn (Yoruba) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| mnk_Latn (Mandinka) | The locl feature did not affect Eng |
+| grb_Latn (Grebo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+| shz_Latn (Syenara Senoufo) | The locl feature did not affect Eng |
+| nus_Latn (Nuer) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0331 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| spp_Latn (Sénoufo, Supyire) | The locl feature did not affect Eng |
+| dje_Latn (Zarma) | The locl feature did not affect Eng |
+| mzw_Latn (Deg) | The locl feature did not affect Eng |
+| biv_Latn (Birifor, Southern) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nfu_Latn (Mfumte) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| idu_Latn (Idoma) | The locl feature did not affect Eng |
+| xuo_Latn (Kuo) | The locl feature did not affect Eng |
+| nko_Latn (Nkonya) | The locl feature did not affect Eng |
+| xsm_Latn (Kasem) | The locl feature did not affect Eng |
+| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+|  ^  | Shaper produced a .notdef |
+| wo_Latn (Wolof) | The locl feature did not affect Eng |
+| myk_Latn (Mamara Senoufo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ewo_Latn (Ewondo) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| toq_Latn (Toposa) | The locl feature did not affect Eng |
+| din_Latn (Dinka) | Shaper didn't attach uni0308 to uni0186 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
+|  ^  | Shaper didn't attach gravecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach uni030C to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
+| ig_Latn (Igbo) | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | The locl feature did not affect Eng |
+| gnd_Latn (Zulgo-Gemzek) | The locl feature did not affect Eng |
+| nmz_Latn (Nawdm) | Shaper didn't attach uni0308 to g |
+|  ^  | Shaper didn't attach uni0308 to n |
+|  ^  | Shaper didn't attach uni0308 to g |
+|  ^  | Shaper didn't attach uni0308 to n |
+|  ^  | The locl feature did not affect Eng |
+| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
+| dya_Latn (Dyan) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| avn_Latn (Avatime) | The locl feature did not affect Eng |
+| bom_Latn (Berom) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| pug_Latn (Phuie) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | The locl feature did not affect Eng |
+| ee_Latn (Ewe) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| yba_Latn (Yala) | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+|  ^  | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+| bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | The locl feature did not affect Eng |
+| bfd_Latn (Bafut) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| mfq_Latn (Moba) | The locl feature did not affect Eng |
+| bum_Latn (Bulu) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| bsc_Latn (Bassari) | The locl feature did not affect Eng |
+| gde_Latn (Gude) | The locl feature did not affect Eng |
+| ach_Latn (Acoli) | The locl feature did not affect Eng |
+| bbj_Latn (Ghomala) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
+| tem_Latn (Timne) | The locl feature did not affect Eng |
+| dtm_Latn (Tomo Kan Dogon) | The locl feature did not affect Eng |
+| sig_Latn (Paasaal) | The locl feature did not affect Eng |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+| ahs_Latn (Ashe) | The locl feature did not affect Eng |
+| lam_Latn (Lamba) | The locl feature did not affect Eng |
+| fod_Latn (Foodo) | The locl feature did not affect Eng |
+| bsq_Latn (Bassa) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| dow_Latn (Doyayo) | The locl feature did not affect Eng |
+| ses_Latn (Koyraboro Senni) | The locl feature did not affect Eng |
+| lu_Latn (Luba-Katanga) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+| mcn_Latn (Masana) | The locl feature did not affect Eng |
+| nza_Latn (Tigon Mbembe) | The locl feature did not affect Eng |
+| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
+| byv_Latn (Medumba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nnh_Latn (Ngiemboon) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kqp_Latn (Kimré) | The locl feature did not affect Eng |
+| bqj_Latn (Bandial) | The locl feature did not affect Eng |
+| tod_Latn (Toma) | The locl feature did not affect Eng |
+| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
+| mls_Latn (Masalit) | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | The locl feature did not affect Eng |
+| ema_Latn (Emai-Iuleha-Ora) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni1EBC |
+|  ^  | Shaper didn't attach uni0331 to Otilde |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to uni1EBC |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to Otilde |
+| fuq_Latn (Central-Eastern Niger Fulfulde) | The locl feature did not affect Eng |
+| adj_Latn (Adioukrou) | The locl feature did not affect Eng |
+| kyf_Latn (Kouya) | The locl feature did not affect Eng |
+| nhb_Latn (Beng) | The locl feature did not affect Eng |
+| muy_Latn (Muyang) | The locl feature did not affect Eng |
+| ybb_Latn (Yemba) | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | The locl feature did not affect Eng |
+| lee_Latn (Lyélé) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni030C to Atilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to Itilde |
+|  ^  | Shaper didn't attach uni030C to Otilde |
+|  ^  | The locl feature did not affect Eng |
+| mas_Latn (Masai) | The locl feature did not affect Eng |
+| uth_Latn (ut-Hun) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+| mfi_Latn (Wandala) | The locl feature did not affect Eng |
+| moa_Latn (Mwan) | The locl feature did not affect Eng |
+| bex_Latn (Jur Modo) | The locl feature did not affect Eng |
+| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
+| snf_Latn (Noon) | The locl feature did not affect Eng |
+| bfa_Latn (Bari) | The locl feature did not affect Eng |
+| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
+| lig_Latn (Ligbi) | The locl feature did not affect Eng |
+| kdh_Latn (Tem) | The locl feature did not affect Eng |
+| sxw_Latn (Saxwe Gbe) | The locl feature did not affect Eng |
+| hag_Latn (Hanga) | The locl feature did not affect Eng |
+| csk_Latn (Jola-Kasa) | The locl feature did not affect Eng |
+| fan_Latn (Fang) | The locl feature did not affect Eng |
+| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
+| kyq_Latn (Kenga) | The locl feature did not affect Eng |
+| blo_Latn (Anii) | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ife_Latn (Ifè) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ahl_Latn (Igo) | The locl feature did not affect Eng |
+| mbo_Latn (Mbo) | The locl feature did not affect Eng |
+| nym_Latn (Nyamwezi) | The locl feature did not affect Eng |
+| ntr_Latn (Delo) | The locl feature did not affect Eng |
+| bza_Latn (Bandi) | The locl feature did not affect Eng |
+| nmg_Latn (Kwasio) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018E |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+|  ^  | Shaper didn't attach uni030C to uni018E |
+|  ^  | Shaper didn't attach uni0304 to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gng_Latn (Ngangam) | The locl feature did not affect Eng |
+| dyo_Latn (Jola-Fonyi) | The locl feature did not affect Eng |
+| cou_Latn (Wamey) | The locl feature did not affect Eng |
+| ndv_Latn (Ndut) | The locl feature did not affect Eng |
+| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
+| tcd_Latn (Tafi) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
@@ -4269,987 +4402,161 @@ greaterequal, lessequal
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| ny_Latn (Nyanja) | The locl feature did not affect Eng |
-| mbu_Latn (Mbula-Bwazza) | The locl feature did not affect Eng |
-| ahs_Latn (Ashe) | The locl feature did not affect Eng |
-| avn_Latn (Avatime) | The locl feature did not affect Eng |
-| cou_Latn (Wamey) | The locl feature did not affect Eng |
-| yo_Latn (Yoruba) | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-| blo_Latn (Anii) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ema_Latn (Emai-Iuleha-Ora) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to uni1EBC |
-|  ^  | Shaper didn't attach uni0331 to Otilde |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to uni1EBC |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to Otilde |
-| bqc_Latn (Boko) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| ndv_Latn (Ndut) | The locl feature did not affect Eng |
-| cko_Latn (Anufo) | The locl feature did not affect Eng |
-| kqs_Latn (Kissi, Northern) | The locl feature did not affect Eng |
-| bze_Latn (Jenaama Bozo) | The locl feature did not affect Eng |
-| ach_Latn (Acoli) | The locl feature did not affect Eng |
-| etx_Latn (Iten) | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-| bfa_Latn (Bari) | The locl feature did not affect Eng |
-| fuc_Latn (Pulaar) | The locl feature did not affect Eng |
-| ahl_Latn (Igo) | The locl feature did not affect Eng |
-| lig_Latn (Ligbi) | The locl feature did not affect Eng |
-| bum_Latn (Bulu) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
-| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
-| dno_Latn (Ndrulo) | The locl feature did not affect Eng |
-| fod_Latn (Foodo) | The locl feature did not affect Eng |
-| vai_Latn (Vai (Latin)) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| box_Latn (Buamu) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| bqv_Latn (Koro Wachi) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
-| dje_Latn (Zarma) | The locl feature did not affect Eng |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach acutecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Idieresis |
-|  ^  | Shaper didn't attach acutecomb to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to Adieresis |
-|  ^  | Shaper didn't attach tildecomb to Adieresis |
-|  ^  | Shaper didn't attach acutecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Edieresis |
-|  ^  | Shaper didn't attach tildecomb to Idieresis |
-|  ^  | Shaper didn't attach acutecomb to Odieresis |
-|  ^  | Shaper didn't attach tildecomb to Odieresis |
-| xwe_Latn (Gbe, Xwela) | The locl feature did not affect Eng |
-| bkm_Latn (Kom) | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| kqp_Latn (Kimré) | The locl feature did not affect Eng |
-| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
-| avu_Latn (Avokaya) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach uni0302 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
-|  ^  | Shaper didn't attach tildecomb to uni1ECA |
-|  ^  | The locl feature did not affect Eng |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0308 to uni0197 |
-| nnh_Latn (Ngiemboon) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| sef_Latn (Cebaara Senoufo) | The locl feature did not affect Eng |
-| bud_Latn (Ntcham) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to l |
-|  ^  | Shaper didn't attach acutecomb to b |
-|  ^  | Shaper didn't attach gravecomb to b |
-|  ^  | Shaper didn't attach gravecomb to b |
-|  ^  | Shaper didn't attach acutecomb to b |
-|  ^  | Shaper didn't attach gravecomb to l |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bib_Latn (Bissa) | The locl feature did not affect Eng |
-| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
-| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
-| dip_Latn (Dinka, Northeastern) | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
-| bbo_Latn (Northern Bobo Madaré) | The locl feature did not affect Eng |
-| lee_Latn (Lyélé) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach uni030C to Otilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni030C to Atilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to Itilde |
-|  ^  | Shaper didn't attach uni030C to Otilde |
-|  ^  | The locl feature did not affect Eng |
-| lam_Latn (Lamba) | The locl feature did not affect Eng |
-| xsm_Latn_BF (Kasem) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-| cme_Latn (Cerma) | The locl feature did not affect Eng |
-| buc_Latn (Bushi) | Shaper didn't attach uni0308 to n |
-| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-|  ^  | Shaper didn't attach uni0330 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0330 |
-| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
-| lem_Latn (Nomaande) | The locl feature did not affect Eng |
-| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
-| acd_Latn (Gikyode) | The locl feature did not affect Eng |
-| lgg_Latn (Lugbara) | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| lok_Latn (Loko) | The locl feature did not affect Eng |
-| jgo_Latn (Ngomba) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nus_Latn (Nuer) | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0331 to e |
-|  ^  | Shaper didn't attach uni0331 to o |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach uni0331 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| vag_Latn (Vagla) | The locl feature did not affect Eng |
-| mfv_Latn (Mandjak) | The locl feature did not affect Eng |
-| gde_Latn (Gude) | The locl feature did not affect Eng |
-| mwm_Latn (Sar) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0304 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to Omacron |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0304 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0304 to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0330 to Oacute |
-|  ^  | Shaper didn't attach uni0330 to Omacron |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-| kvf_Latn (Kabalai) | The locl feature did not affect Eng |
-| bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-| pug_Latn (Phuie) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | The locl feature did not affect Eng |
-| agc_Latn (Agatu) | The locl feature did not affect Eng |
-| pbi_Latn (Parkwa) | The locl feature did not affect Eng |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0302 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| rub_Latn (Gungu) | Shaper didn't attach uni032F to b |
-|  ^  | Shaper didn't attach uni032F to b |
-|  ^  | The locl feature did not affect Eng |
-| xon_Latn (Konkomba) | The locl feature did not affect Eng |
-| kst_Latn (Winyé) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-| gur_Latn (Frafra) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bbj_Latn (Ghomala) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tnr_Latn (Ménik) | The locl feature did not affect Eng |
-| ade_Latn (Adele) | The locl feature did not affect Eng |
-| ee_Latn (Ewe) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| gjn_Latn (Gonja) | The locl feature did not affect Eng |
-| mur_Latn (Murle) | The locl feature did not affect Eng |
-| neb_Latn (Toura) | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| teo_Latn (Teso) | Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-|  ^  | Shaper produced a .notdef |
-| dgi_Latn (Northern Dagara) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kia_Latn (Kim) | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | The locl feature did not affect Eng |
-| fuf_Latn (Pular) | The locl feature did not affect Eng |
-| yat_Latn (Yambeta) | The locl feature did not affect Eng |
-| mcn_Latn (Masana) | The locl feature did not affect Eng |
-| kzr_Latn (Karang) | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach uni0327 to o |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
-| bax_Latn (Bamun, Latin) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| bav_Latn (Vengo) | The locl feature did not affect Eng |
-| taq_Latn (Tamasheq, Latin) | The locl feature did not affect Eng |
-| kkj_Latn (Kako) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0327 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ife_Latn (Ifè) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| awc_Latn (Cicipu) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach uni0302 to Atilde |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper didn't attach gravecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach uni0302 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to uni1EBC |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach uni0302 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach uni0302 to Otilde |
-| dnj_Latn (Dan) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper didn't attach acutecomb to uni019C |
-|  ^  | Shaper produced a .notdef |
-|  ^  | Shaper didn't attach uni030B to e |
-|  ^  | Shaper produced a .notdef |
-|  ^  | The locl feature did not affect Eng |
-| mua_Latn (Mundang) | The locl feature did not affect Eng |
-| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
-| lmp_Latn (Limbum) | The locl feature did not affect Eng |
-| kpo_Latn (Ikposo) | The locl feature did not affect Eng |
-| kmy_Latn (Koma) | The locl feature did not affect Eng |
-| gov_Latn (Goo) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper produced a .notdef |
-| kss_Latn (Southern Kisi) | Shaper didn't attach uni030D to e |
-|  ^  | Shaper didn't attach uni1DC4 to e |
-|  ^  | Shaper didn't attach uni1DC5 to e |
-|  ^  | Shaper didn't attach uni030D to o |
-|  ^  | Shaper didn't attach uni1DC4 to o |
-|  ^  | Shaper didn't attach uni1DC5 to o |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni030D to uni0186 |
-|  ^  | Shaper didn't attach uni1DC4 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC5 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
 | ken_Latn (Kenyang) | The locl feature did not affect Eng |
-| srr_Latn (Serer) | The locl feature did not affect Eng |
-| myk_Latn (Mamara Senoufo) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+| saf_Latn (Safaliba) | Shaper didn't attach uni0331 to o |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+|  ^  | The locl feature did not affect Eng |
+| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
+| bqp_Latn (Bisã) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| emk_Latn (Maninkakan, Eastern) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
+| bsp_Latn (Baga Sitemu) | The locl feature did not affect Eng |
+| ddn_Latn (Dendi) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| tod_Latn (Toma) | The locl feature did not affect Eng |
-| gaa_Latn (Ga) | The locl feature did not affect Eng |
-| lia_Latn (Limba, West-Central) | The locl feature did not affect Eng |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| ktj_Latn (Krumen, Plapo) | The locl feature did not affect Eng |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0302 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sav_Latn (Saafi-Saafi) | The locl feature did not affect Eng |
+| bss_Latn (Akoose) | The locl feature did not affect Eng |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+| bm_Latn (Bambara) | The locl feature did not affect Eng |
+| yas_Latn (Nugunu) | The locl feature did not affect Eng |
+| cko_Latn (Anufo) | The locl feature did not affect Eng |
 | mdt_Latn (Mbere) | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| bza_Latn (Bandi) | The locl feature did not affect Eng |
-| laj_Latn (Lango [Uganda]) | The locl feature did not affect Eng |
-| ddn_Latn (Dendi) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kpe_Latn (Kpelle) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-| dya_Latn (Dyan) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| bom_Latn (Berom) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-| fan_Latn (Fang) | The locl feature did not affect Eng |
-| dyu_Latn (Dyula) | The locl feature did not affect Eng |
-| ksp_Latn (Kabba) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
+| keu_Latn (Akebu) | The locl feature did not affect Eng |
+| etu_Latn (Ejagham) | Shaper didn't attach uni0302 to uni018F |
 |  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
 |  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
 |  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-| gkp_Latn (Kpelle, Guinea) | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Aogonek |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach uni0328 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach acutecomb to Iogonek |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | Shaper didn't attach acutecomb to uni0328 |
-|  ^  | The locl feature did not affect Eng |
-| bzw_Latn (Basa) | The locl feature did not affect Eng |
-| bas_Latn (Basaa) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC7 to e |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to o |
-|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to e |
-|  ^  | Shaper didn't attach uni1DC7 to e |
-|  ^  | Shaper didn't attach uni1DC6 to o |
-|  ^  | Shaper didn't attach uni1DC7 to o |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
-|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tuz_Latn (Turka) | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach gravecomb to Itilde |
-|  ^  | Shaper didn't attach gravecomb to Otilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach tildecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| boz_Latn (Tiéyaxo Bozo) | The locl feature did not affect Eng |
-| nko_Latn (Nkonya) | The locl feature did not affect Eng |
-| moa_Latn (Mwan) | The locl feature did not affect Eng |
-| ekm_Latn (Elip) | The locl feature did not affect Eng |
-| knf_Latn (Mankanya) | The locl feature did not affect Eng |
-| nhb_Latn (Beng) | The locl feature did not affect Eng |
-| nfu_Latn (Mfumte) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
 |  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| ntm_Latn (Nateni) | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| ann_Latn (Obolo) | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | Shaper didn't attach uni0304 to n |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+| cae_Latn (Lehar) | The locl feature did not affect Eng |
+| mhi_Latn (Ma’di) | Shaper didn't attach tildecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach tildecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach tildecomb to uni1ECC |
 | daa_Latn (Dangaléat) | Shaper didn't attach uni0330 to n |
 |  ^  | Shaper didn't attach uni0330 to n |
 |  ^  | The locl feature did not affect Eng |
-| kyq_Latn (Kenga) | The locl feature did not affect Eng |
-| bba_Latn (Baatonum) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-| biv_Latn (Birifor, Southern) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0269 |
-|  ^  | Shaper didn't attach tildecomb to uni0196 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| kao_Latn (Xaasongaxango) | The locl feature did not affect Eng |
-| ig_Latn (Igbo) | Shaper didn't attach acutecomb to uni1ECA |
-|  ^  | Shaper didn't attach gravecomb to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1ECC |
-|  ^  | The locl feature did not affect Eng |
-| wwa_Latn (Waama) | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBC |
-|  ^  | Shaper didn't attach acutecomb to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| mas_Latn (Masai) | The locl feature did not affect Eng |
-| etu_Latn (Ejagham) | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to n |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | The locl feature did not affect Eng |
-| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach gravecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni1E1A |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0330 to uni018F |
-|  ^  | Shaper didn't attach uni0330 to o |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0330 to uni018E |
-| cae_Latn (Lehar) | The locl feature did not affect Eng |
-| ybb_Latn (Yemba) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0304 to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | The locl feature did not affect Eng |
-| nmg_Latn (Kwasio) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni018E |
-|  ^  | Shaper didn't attach uni0302 to uni018E |
-|  ^  | Shaper didn't attach uni030C to uni018E |
-|  ^  | Shaper didn't attach uni0304 to uni018E |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
+| bas_Latn (Basaa) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to o |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to e |
+|  ^  | Shaper didn't attach uni1DC7 to o |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach uni0304 to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| nmz_Latn (Nawdm) | Shaper didn't attach uni0308 to n |
-|  ^  | Shaper didn't attach uni0308 to g |
-|  ^  | Shaper didn't attach uni0308 to g |
-|  ^  | Shaper didn't attach uni0308 to n |
-|  ^  | The locl feature did not affect Eng |
-| nyb_Latn (Nyangbo) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC7 to e |
+|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| tem_Latn (Timne) | The locl feature did not affect Eng |
-| ted_Latn (Krumen, Tepo) | The locl feature did not affect Eng |
-| dag_Latn (Dagbani) | The locl feature did not affect Eng |
-| yav_Latn (Yangben) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| wan_Latn (Wan) | The locl feature did not affect Eng |
-| toq_Latn (Toposa) | The locl feature did not affect Eng |
-| gmm_Latn (Gbaya-Mbodomo) | The locl feature did not affect Eng |
-| mgc_Latn (Morokodo) | The locl feature did not affect Eng |
-| loq_Latn (Lobala) | The locl feature did not affect Eng |
-| naw_Latn (Nawuri) | The locl feature did not affect Eng |
-| tuq_Latn (Tedaga) | The locl feature did not affect Eng |
-| goa_Latn (Guro) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
-|  ^  | Shaper didn't attach acutecomb to uni0269 |
-|  ^  | Shaper didn't attach acutecomb to uni0196 |
-|  ^  | Shaper didn't attach gravecomb to uni0269 |
-|  ^  | Shaper didn't attach gravecomb to uni0196 |
-|  ^  | Shaper didn't attach uni0302 to uni0269 |
-|  ^  | Shaper didn't attach uni0302 to uni0196 |
-|  ^  | Shaper didn't attach uni030C to uni0269 |
-|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach uni1DC6 to e |
+|  ^  | Shaper didn't attach uni1DC7 to e |
+|  ^  | Shaper didn't attach uni1DC6 to o |
+|  ^  | Shaper didn't attach uni1DC7 to o |
 |  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach uni0302 to uni0186 |
 |  ^  | Shaper didn't attach uni030C to uni0186 |
-| xed_Latn (Hdi) | The locl feature did not affect Eng |
-| sbd_Latn (Southern Samo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni018F |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC6 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC7 to uni0186 |
 |  ^  | The locl feature did not affect Eng |
-| kye_Latn (Krache) | The locl feature did not affect Eng |
-| bfd_Latn (Bafut) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni018F |
-|  ^  | Shaper didn't attach acutecomb to uni018F |
-|  ^  | Shaper didn't attach uni0302 to uni018F |
-|  ^  | Shaper didn't attach uni030C to uni018F |
-|  ^  | Shaper didn't attach gravecomb to uni0197 |
-|  ^  | Shaper didn't attach acutecomb to uni0197 |
-|  ^  | Shaper didn't attach uni0302 to uni0197 |
-|  ^  | Shaper didn't attach uni030C to uni0197 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0302 to uni0186 |
-|  ^  | Shaper didn't attach uni030C to uni0186 |
-|  ^  | The locl feature did not affect Eng |
-| grb_Latn (Grebo) | Shaper didn't attach uni030C to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach uni0308 to uni0186 |
-| lu_Latn (Luba-Katanga) | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach gravecomb to uni0186 |
-| ajg_Latn (Aja) | The locl feature did not affect Eng |
-| nga_Latn (Ngbaka) | Shaper didn't attach gravecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to Atilde |
-|  ^  | Shaper didn't attach acutecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
-|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| nga_Latn (Ngbaka) | Shaper didn't attach acutecomb to Atilde |
 |  ^  | Shaper didn't attach gravecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
 |  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach acutecomb to Itilde |
 |  ^  | Shaper didn't attach gravecomb to Atilde |
 |  ^  | Shaper didn't attach acutecomb to Atilde |
@@ -5279,29 +4586,708 @@ greaterequal, lessequal
 |  ^  | Shaper didn't attach uni030C to Itilde |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
 |  ^  | Shaper didn't attach tildecomb to uni0186 |
+| dag_Latn (Dagbani) | The locl feature did not affect Eng |
+| anv_Latn (Denya) | The locl feature did not affect Eng |
+| ndz_Latn (Ndogo) | The locl feature did not affect Eng |
+| wan_Latn (Wan) | The locl feature did not affect Eng |
+| ksp_Latn (Kabba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0302 to n |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+| mcu_Latn (Mambila, Cameroon) | The locl feature did not affect Eng |
+| xed_Latn (Hdi) | The locl feature did not affect Eng |
+| ncu_Latn (Chumburung) | The locl feature did not affect Eng |
+| kss_Latn (Southern Kisi) | Shaper didn't attach uni030D to e |
+|  ^  | Shaper didn't attach uni1DC4 to e |
+|  ^  | Shaper didn't attach uni1DC5 to e |
+|  ^  | Shaper didn't attach uni030D to o |
+|  ^  | Shaper didn't attach uni1DC4 to o |
+|  ^  | Shaper didn't attach uni1DC5 to o |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach uni030D to uni0186 |
+|  ^  | Shaper didn't attach uni1DC4 to uni0186 |
+|  ^  | Shaper didn't attach uni1DC5 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| goa_Latn (Guro) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach uni030C to uni0269 |
+|  ^  | Shaper didn't attach uni030C to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| yat_Latn (Yambeta) | The locl feature did not affect Eng |
+| bzx_Latn (Bozo, Hainyaxo) | The locl feature did not affect Eng |
+| acd_Latn (Gikyode) | The locl feature did not affect Eng |
+| fmp_Latn (Fe’fe’) | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kus_Latn (Kusaal) | The locl feature did not affect Eng |
+| dnj_Latn_LR (Dan) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni018E |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018E |
+| bba_Latn (Baatonum) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| udu_Latn (Uduk) | Some base glyphs were missing: T͟H, t͟h |
+|  ^  | Some mark glyphs were missing: ◌͟ |
+|  ^  | Shaper didn't attach uni0331 to c |
+|  ^  | Shaper produced a .notdef |
+|  ^  | Shaper didn't attach uni0331 to c |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| vai_Latn (Vai (Latin)) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach acutecomb to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to o |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ajg_Latn (Aja) | The locl feature did not affect Eng |
+| bib_Latn (Bissa) | The locl feature did not affect Eng |
+| maw_Latn (Mampruli) | The locl feature did not affect Eng |
+| lob_Latn (Lobi) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni018E |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| vut_Latn (Vute) | The locl feature did not affect Eng |
+| bfo_Latn (Malba Birifor) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+| gur_Latn (Frafra) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gvl_Latn (Gulay) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+| ffm_Latn (Maasina Fulfulde) | The locl feature did not affect Eng |
+| dts_Latn (Dogon, Toro So) | The locl feature did not affect Eng |
+| tvu_Latn (Tunen) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| lns_Latn (Lamnso’) | The locl feature did not affect Eng |
+| fuh_Latn (Fulfulde, Western Niger) | The locl feature did not affect Eng |
+| mwk_Latn (Kita Maninkakan) | The locl feature did not affect Eng |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+| cme_Latn (Cerma) | The locl feature did not affect Eng |
+| nku_Latn (Kulango, Bouna) | The locl feature did not affect Eng |
+| igb_Latn (Ebira) | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+| fvr_Latn (Fur) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0331 to uni01CD |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CD |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| lok_Latn (Loko) | The locl feature did not affect Eng |
+| ksf_Latn (Bafia) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| log_Latn (Logo) | The locl feature did not affect Eng |
+| neb_Latn (Toura) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach gravecomb to uni0269 |
+|  ^  | Shaper didn't attach gravecomb to uni0196 |
+|  ^  | Shaper didn't attach uni0302 to uni0269 |
+|  ^  | Shaper didn't attach uni0302 to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| fue_Latn (Fulfulde, Borgu) | The locl feature did not affect Eng |
+| krs_Latn (Gbaya (Sudan)) | The locl feature did not affect Eng |
+| dgi_Latn (Northern Dagara) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| ekp_Latn (Ekpeye) | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB8 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to uni1ECC |
+|  ^  | Shaper didn't attach uni030C to uni1EB8 |
+|  ^  | Shaper didn't attach uni030C to uni1ECA |
+|  ^  | Shaper didn't attach uni030C to uni1ECC |
+| bim_Latn (Bimoba) | The locl feature did not affect Eng |
+| meq_Latn (Merey) | The locl feature did not affect Eng |
+| bjt_Latn (Balanta-Ganja) | The locl feature did not affect Eng |
+| kye_Latn (Krache) | The locl feature did not affect Eng |
+| tnr_Latn (Ménik) | The locl feature did not affect Eng |
+| gud_Latn (Dida, Yocoboué) | The locl feature did not affect Eng |
+| pil_Latn (Yom) | The locl feature did not affect Eng |
+| fuf_Latn (Pular) | The locl feature did not affect Eng |
+| apd_Latn (Sudanese Arabic) | Some mark glyphs were missing: ◌͟ |
+| kpe_Latn (Kpelle) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| god_Latn (Godié) | The locl feature did not affect Eng |
+| knp_Latn (Kwanja) | The locl feature did not affect Eng |
+| lol_Latn (Mongo) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| mge_Latn (Mango) | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach gravecomb to uni1E2C |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0330 to n |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0330 |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0330 |
+|  ^  | Shaper didn't attach uni0304 to uni0197 |
+|  ^  | Shaper didn't attach uni0304 to l |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach uni0330 to Ograve |
+|  ^  | Shaper didn't attach uni0330 to Omacron |
+| kmy_Latn (Koma) | The locl feature did not affect Eng |
+| sld_Latn (Sissala) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | The locl feature did not affect Eng |
+| gux_Latn (Gourmanchéma) | The locl feature did not affect Eng |
+| lem_Latn (Nomaande) | The locl feature did not affect Eng |
+| wci_Latn (Gbe, Waci) | The locl feature did not affect Eng |
+| mgo_Latn (Metaʼ) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| kbp_Latn (Kabiyé) | The locl feature did not affect Eng |
+| bkm_Latn (Kom) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| knf_Latn (Mankanya) | The locl feature did not affect Eng |
+| ttq_Latn (Tawallammat Tamajaq) | The locl feature did not affect Eng |
+| bqv_Latn (Koro Wachi) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nfr_Latn (Nafaanra) | The locl feature did not affect Eng |
+| ikx_Latn (Ik) | The locl feature did not affect Eng |
+| dzg_Latn (Dazaga) | The locl feature did not affect Eng |
+| ny_Latn (Nyanja) | The locl feature did not affect Eng |
+| xrb_Latn (Karaboro, Eastern) | The locl feature did not affect Eng |
+| dua_Latn (Duala) | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0330 to uni018F |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach acutecomb to uni018E |
+|  ^  | Shaper didn't attach uni0330 to uni018E |
+| las_Latn (Lama (Togo)) | The locl feature did not affect Eng |
+| kib_Latn (Koalib) | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| jgo_Latn (Ngomba) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to n |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gkp_Latn (Kpelle, Guinea) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Aogonek |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach uni0328 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach acutecomb to Iogonek |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | Shaper didn't attach acutecomb to uni0328 |
+|  ^  | The locl feature did not affect Eng |
+| lun_Latn (Lunda) | The locl feature did not affect Eng |
+| azo_Latn (Awing) | The locl feature did not affect Eng |
+| bzw_Latn (Basa) | The locl feature did not affect Eng |
+| kzc_Latn (Bondoukou Kulango) | The locl feature did not affect Eng |
+| fub_Latn (Fulfulde, Adamawa) | The locl feature did not affect Eng |
+| mfd_Latn (Mendankwe-Nkwen) | The locl feature did not affect Eng |
+| sbd_Latn (Southern Samo) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni018F |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| lgg_Latn (Lugbara) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach gravecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | The locl feature did not affect Eng |
+| mdj_Latn (Mangbetu) | The locl feature did not affect Eng |
+| mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| kkj_Latn (Kako) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni0327 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| yav_Latn (Yangben) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| sil_Latn (Sisaala, Tumulung) | The locl feature did not affect Eng |
+| kia_Latn (Kim) | Shaper didn't attach uni0330 to o |
+|  ^  | Shaper didn't attach uni0330 to o |
+|  ^  | The locl feature did not affect Eng |
+| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0197 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0197 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| buc_Latn (Bushi) | Shaper didn't attach uni0308 to n |
+| agc_Latn (Agatu) | The locl feature did not affect Eng |
+| bqc_Latn (Boko) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| wwa_Latn (Waama) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| gjn_Latn (Gonja) | The locl feature did not affect Eng |
+| etx_Latn (Iten) | Shaper didn't attach uni0331 to e |
+|  ^  | Shaper didn't attach uni0331 to o |
+| avu_Latn (Avokaya) | Shaper didn't attach tildecomb to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1ECA |
+|  ^  | Shaper didn't attach uni0302 to uni1ECA |
+|  ^  | Shaper didn't attach tildecomb to uni1EA0 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECA |
+|  ^  | The locl feature did not affect Eng |
+| srr_Latn (Serer) | The locl feature did not affect Eng |
+| nhu_Latn (Noone) | The locl feature did not affect Eng |
+| tbz_Latn (Ditammari) | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+| ln_Latn (Lingala) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+| gej_Latn (Gen) | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| awc_Latn (Cicipu) | Shaper didn't attach gravecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach uni0302 to Atilde |
+|  ^  | Shaper didn't attach uni030B to e |
+|  ^  | Shaper didn't attach gravecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach uni0302 to uni1EBC |
+|  ^  | Shaper didn't attach uni030C to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach uni0302 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to Otilde |
+|  ^  | Shaper didn't attach uni0302 to Otilde |
+| dyi_Latn (Sénoufo, Djimini) | The locl feature did not affect Eng |
+| bav_Latn (Vengo) | The locl feature did not affect Eng |
+| twq_Latn (Tasawaq) | The locl feature did not affect Eng |
+| ade_Latn (Adele) | The locl feature did not affect Eng |
+| mua_Latn (Mundang) | The locl feature did not affect Eng |
+| dnj_Latn (Dan) | Some base glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
+|  ^  | Shaper produced a .notdef |
+|  ^  | Shaper didn't attach uni030B to e |
+|  ^  | Shaper produced a .notdef |
+|  ^  | The locl feature did not affect Eng |
+| gmm_Latn (Gbaya-Mbodomo) | The locl feature did not affect Eng |
+| gaa_Latn (Ga) | The locl feature did not affect Eng |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+|  ^  | Shaper didn't attach uni0302 to uni0197 |
+|  ^  | Shaper didn't attach uni0308 to uni0197 |
+| yam_Latn (Yamba) | The locl feature did not affect Eng |
+| dip_Latn (Dinka, Northeastern) | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | Shaper didn't attach uni0308 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| tik_Latn (Tikar) | The locl feature did not affect Eng |
+| ekm_Latn (Elip) | The locl feature did not affect Eng |
+| sok_Latn (Sokoro) | The locl feature did not affect Eng |
+| dop_Latn (Lukpa) | The locl feature did not affect Eng |
+| mmu_Latn (Mmaala) | The locl feature did not affect Eng |
+| kst_Latn (Winyé) | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to Atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0196 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach acutecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+|  ^  | Shaper didn't attach tildecomb to uni0269 |
+| bax_Latn (Bamun, Latin) | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni018F |
+|  ^  | Shaper didn't attach acutecomb to uni018F |
+|  ^  | Shaper didn't attach uni0302 to uni018F |
+|  ^  | Shaper didn't attach uni030C to uni018F |
+|  ^  | Shaper didn't attach gravecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach uni0302 to uni0186 |
+|  ^  | Shaper didn't attach uni030C to uni0186 |
+|  ^  | Shaper didn't attach uni0304 to uni018F |
+|  ^  | Shaper didn't attach uni0304 to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| soy_Latn (Miyobe) | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach acutecomb to uni1EBC |
+|  ^  | Shaper didn't attach acutecomb to Itilde |
+|  ^  | Shaper didn't attach acutecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | Shaper didn't attach tildecomb to uni0186 |
+|  ^  | The locl feature did not affect Eng |
+| nuv_Latn (Nuni, Northern) | The locl feature did not affect Eng |
+| loq_Latn (Lobala) | The locl feature did not affect Eng |
+| rub_Latn (Gungu) | Shaper didn't attach uni032F to b |
+|  ^  | Shaper didn't attach uni032F to b |
+|  ^  | The locl feature did not affect Eng |
 
  [code: failed-language-shaping]
 * ⚠ **WARN** GF_Latin_African glyphset:
 
 | Language | FAIL messages |
 | :--- | :--- |
-| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
-| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
-| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
-| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
-| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
-| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
-| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
-| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
-| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
-| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
-|  ^  | No variant glyphs were found for uni0181 |
 | gov_Latn (Goo) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
+| teo_Latn (Teso) | Some auxiliary glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ |
+| mgy_Latn (Mbunga) | No exemplar glyphs were defined for language Mbunga |
 | tod_Latn (Toma) | No variant glyphs were found for uni028B |
 |  ^  | No variant glyphs were found for uni01B2 |
+| syi_Latn (Seki) | No exemplar glyphs were defined for language Seki |
+| ggn_Latn (Eastern Gurung, Latin) | No exemplar glyphs were defined for language Eastern Gurung, Latin |
+| udu_Latn (Uduk) | Some auxiliary glyphs were missing: T͟H, t͟h |
+| cch_Latn (Atsam) | No exemplar glyphs were defined for language Atsam |
+| mor_Latn (Moro) | Some auxiliary glyphs were missing: Ꟈ, ꟈ |
+| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| hna_Latn (Mina) | No exemplar glyphs were defined for language Mina |
+| dnj_Latn (Dan) | Some auxiliary glyphs were missing: ɤ, ɤ̀, ɤ́, ɤ̂, ɤ̄, ɤ̋, ɤ̏, Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
+|  ^  | No variant glyphs were found for uni0181 |
 | gaa_Latn (Ga) | No variant glyphs were found for uni01A9 |
 |  ^  | No variant glyphs were found for uni01B7 |
-| kfo_Latn (Koro) | No exemplar glyphs were defined for language Koro |
+| amo_Latn (Amo) | No exemplar glyphs were defined for language Amo |
 
  [code: warning-language-shaping]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
@@ -5339,21 +5325,21 @@ greaterequal, lessequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, tifinagh, canadian-aboriginal, coptic, math, old-permic, tai-le, malayalam
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, coptic, math, tifinagh, malayalam, old-permic, tai-le, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
@@ -5363,7 +5349,7 @@ greaterequal, lessequal
  * U+0313 COMBINING COMMA ABOVE: try adding old-permic
  * U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition
  * U+031B COMBINING HORN: not included in any glyphset definition
- * U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee
+ * U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac
  * U+0325 COMBINING RING BELOW: try adding syriac
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -5371,8 +5357,8 @@ greaterequal, lessequal
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, tifinagh, caucasian-albanian, gothic
+ * U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, caucasian-albanian, cherokee, gothic, syriac
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -5411,14 +5397,14 @@ greaterequal, lessequal
  * U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition
  * U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition
  * U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition
- * U+2190 LEFTWARDS ARROW: try adding one of: math, symbols
- * U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols
- * U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols
- * U+2195 UP DOWN ARROW: try adding one of: math, symbols
- * U+2196 NORTH WEST ARROW: try adding one of: math, symbols
- * U+2197 NORTH EAST ARROW: try adding one of: math, symbols
- * U+2198 SOUTH EAST ARROW: try adding one of: math, symbols
- * U+2199 SOUTH WEST ARROW: try adding one of: math, symbols
+ * U+2190 LEFTWARDS ARROW: try adding one of: symbols, math
+ * U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math
+ * U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math
+ * U+2195 UP DOWN ARROW: try adding one of: symbols, math
+ * U+2196 NORTH WEST ARROW: try adding one of: symbols, math
+ * U+2197 NORTH EAST ARROW: try adding one of: symbols, math
+ * U+2198 SOUTH EAST ARROW: try adding one of: symbols, math
+ * U+2199 SOUTH WEST ARROW: try adding one of: symbols, math
  * U+2202 PARTIAL DIFFERENTIAL: try adding math
  * U+2205 EMPTY SET: try adding math
  * U+2206 INCREMENT: try adding math
@@ -5436,31 +5422,31 @@ greaterequal, lessequal
  * U+25AA BLACK SMALL SQUARE: try adding symbols
  * U+25AB WHITE SMALL SQUARE: try adding symbols
  * U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols
- * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols
- * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols
- * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols
- * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols
+ * U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math
  * U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols
  * U+25C6 BLACK DIAMOND: try adding symbols
  * U+25C7 WHITE DIAMOND: try adding symbols
- * U+25CA LOZENGE: try adding one of: math, symbols
+ * U+25CA LOZENGE: try adding one of: symbols, math
  * U+25CB WHITE CIRCLE: try adding symbols
  * U+25CF BLACK CIRCLE: try adding symbols
  * U+25E6 WHITE BULLET: try adding symbols
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
- * U+3008 LEFT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
- * U+3009 RIGHT ANGLE BRACKET: try adding one of: chinese-hongkong, japanese, chinese-simplified, yi, phags-pa, chinese-traditional, tai-le
+ * U+3008 LEFT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
+ * U+3009 RIGHT ANGLE BRACKET: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, chinese-traditional, yi, tai-le
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
  * U+FF0D FULLWIDTH HYPHEN-MINUS: try adding one of: japanese, chinese-simplified
 
@@ -5826,7 +5812,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 279:
-less, greater
+greater, less
 
 Width = 326:
 equal
